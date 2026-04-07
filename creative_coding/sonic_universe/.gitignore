@@ -1,0 +1,23 @@
+# Virtual environment
+.venv/
+env/
+venv/
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+
+# Raw Spotify export files (too large for GitHub)
+data/Streaming_History_Audio_*.json
+data/Streaming_History_Video_*.json
+data/SpotifyFeatures.csv
+data/ReadMeFirst_*.pdf
+
+# Keep processed outputs (small, under GitHub limits)
+!data/processed/
+!data/processed/*.csv
+
+# OS / IDE
+.DS_Store
+.env
+*.log

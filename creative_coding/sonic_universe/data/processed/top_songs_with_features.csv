@@ -1,0 +1,1001 @@
+year,track_id,track_name,artist_name,album_name,plays,total_minutes,skip_rate,shuffle_rate,has_features,genre,popularity,acousticness,danceability,duration_ms,energy,instrumentalness,key,liveness,loudness,mode,speechiness,tempo,time_signature,valence
+2017,5uplevkaUGRLExATEbSQiR,Someday,The Growlers,Hung At Heart,160,353.08,0.2625,0.3062,True,Indie,48,0.953,0.402,215780,0.772,0.86,A#,0.172,-4.578,Major,0.0394,156.116,4/4,0.748
+2017,2b9D3N4pnBUbYXVi7vbWy4,Living In A Memory,The Growlers,Hung At Heart,136,356.73,0.1618,0.5956,True,Indie,45,0.188,0.416,195530,0.668,0.637,D,0.728,-4.865,Major,0.0281,85.357,4/4,0.793
+2017,2N4idqj9TT3HnH2OFT9j0v,Still Beating,Mac DeMarco,This Old Dog,123,289.81,0.1951,0.4797,True,Indie,67,0.581,0.709,181587,0.496,0.195,C#,0.151,-10.528,Minor,0.0417,78.477,4/4,0.469
+2017,6YQeOwMMAkB9MV9yMWmrjh,Threat of Joy,The Strokes,Future Present Past,114,292.36,0.307,0.4649,True,Indie,65,0.216,0.594,264662,0.728,0.0881,C,0.124,-6.917,Major,0.0281,137.97,4/4,0.687
+2017,5n0CTysih20NYdT2S0Wpe8,Trouble,Cage The Elephant,Tell Me I'm Pretty,110,255.58,0.3636,0.1636,True,Indie,72,0.392,0.47,225973,0.623,0.000453,C,0.0992,-5.655,Major,0.0302,77.861,4/4,0.298
+2017,4BOHngI1gLDA5OZFTZVAHl,One Million Lovers,The Growlers,Hung At Heart,104,227.83,0.3846,0.2212,True,Rock,54,0.713,0.5,282739,0.723,0.00107,F,0.107,-5.07,Minor,0.0322,101.97,4/4,0.677
+2017,6dU5RxthbuaN31bRbEDlNw,Everlasting Light,The Black Keys,Brothers,101,273.65,0.1881,0.198,True,Rock,59,0.127,0.641,203773,0.582,0.00632,E,0.354,-6.554,Major,0.0483,181.039,4/4,0.725
+2017,08l9WKDuRyGeStQ9ojTlFh,Meet Me in the Bathroom,The Strokes,Room On Fire,100,190.9,0.34,0.14,True,Children’s Music,47,6.7e-05,0.426,176160,0.94,0.883,G,0.0772,-3.973,Major,0.0337,139.952,4/4,0.595
+2017,17jEoYoOfRD6dvNCMmC9n4,City Club,The Growlers,City Club,100,214.67,0.34,0.12,True,Rock,59,0.00445,0.717,196673,0.77,1.79e-06,G,0.214,-6.083,Major,0.0268,110.501,4/4,0.739
+2017,57Xjny5yNzAcsxnusKmAfA,Reptilia,The Strokes,Room On Fire,100,185.31,0.42,0.17,True,Indie,71,0.000563,0.486,219754,0.666,0.789,A,0.101,-5.084,Major,0.033,157.992,4/4,0.741
+2017,43O3Iu8mDJy10i6k8SVRXX,Take It or Leave It,Cage The Elephant,Melophobia,99,254.48,0.1717,0.3131,True,Rock,57,0.0289,0.71,207320,0.847,0.000332,C,0.0613,-3.009,Major,0.0892,119.943,4/4,0.65
+2017,7hm4HTk9encxT0LYC0J6oI,Someday,The Strokes,Is This It,97,154.93,0.3918,0.3814,True,Children’s Music,68,0.00425,0.538,183440,0.52,0.0,A,0.367,-7.46,Major,0.0299,106.031,4/4,0.678
+2017,2HWFdHcyJAipiBNMoq0olx,Black Memories,The Growlers,Chinese Fountain,96,194.34,0.1979,0.1979,True,Indie,52,0.00625,0.614,171400,0.577,0.0,C,0.152,-8.012,Major,0.0285,113.948,4/4,0.835
+2017,0BQH5uHglCuHVImyCjOOHc,Unknown Brother,The Black Keys,Brothers,91,274.42,0.2967,0.044,True,Indie,48,0.466,0.5,239693,0.552,0.00221,A,0.108,-7.888,Major,0.0413,83.81,4/4,0.209
+2017,6gU7ohksNd6LsEJMWfDRhp,Soma,The Strokes,Is This It,91,164.51,0.2637,0.3956,True,Rock,53,0.0747,0.499,153840,0.706,0.00289,C,0.0753,-7.335,Major,0.0302,148.931,4/4,0.483
+2017,3kKb3U3a8jmUJQB9ypE1Jl,Under Control,The Strokes,Room On Fire,90,193.79,0.2,0.2111,True,Indie,53,0.341,0.401,187153,0.723,0.775,C#,0.0543,-4.651,Major,0.0291,90.596,4/4,0.66
+2017,5KupfEBaVJwL7D2ZN0n1Q1,Trying Your Luck,The Strokes,Is This It,90,240.42,0.1556,0.4222,True,Children’s Music,50,0.00855,0.503,202760,0.689,0.0126,A,0.131,-9.424,Minor,0.0313,143.906,4/4,0.615
+2017,3xuRKGbalblooPG3Fojb4Y,Late Bloomers,The Growlers,Late Bloomers,89,337.25,0.1124,0.1124,True,Indie,46,0.00818,0.586,236565,0.703,1.23e-06,A,0.107,-6.386,Major,0.0409,145.148,4/4,0.806
+2017,21Ay8Y9Pr91nSauPGtK6MW,Barely Legal,The Strokes,Is This It,88,192.14,0.3068,0.4091,True,Rock,55,0.00326,0.426,234693,0.884,0.0495,C,0.0903,-6.279,Major,0.0365,157.811,4/4,0.852
+2017,0JxNCIvcLphN1oAafpvDWW,I'll Be Around,The Growlers,City Club,87,176.09,0.3448,0.1954,True,Rock,57,0.000833,0.475,287086,0.899,1.1e-06,C#,0.19,-3.347,Minor,0.056,92.101,4/4,0.911
+2017,0SGkqnVQo9KPytSri1H6cF,Bounce Back,Big Sean,I Decided.,86,151.93,0.3372,0.1512,True,Hip-Hop,79,0.105,0.77,222360,0.567,0.0,D,0.125,-5.698,Major,0.175,81.477,4/4,0.26
+2017,5FVd6KXrgO9B3JPmC8OPst,Do I Wanna Know?,Arctic Monkeys,AM,86,208.14,0.314,0.4302,True,Rock,84,0.186,0.548,272394,0.532,0.000263,F,0.217,-7.596,Major,0.0323,85.03,4/4,0.405
+2017,3PaeOar0UeLiyigqJfNAfN,Wednesday,Good Morning,Shawcross,85,152.93,0.2471,0.5176,True,Indie,49,0.325,0.579,143468,0.58,0.0206,F#,0.106,-8.882,Minor,0.0246,76.029,4/4,0.734
+2017,1420BGhbXGkIJtbtBlfpYE,The Modern Age,The Strokes,Is This It,83,187.84,0.3012,0.3976,True,Rock,56,0.0116,0.528,208067,0.888,0.762,D,0.154,-6.039,Major,0.0326,145.971,4/4,0.897
+2017,3n69hLUdIsSa1WlRmjMZlW,Breezeblocks,alt-J,An Awesome Wave,82,173.58,0.3537,0.0122,True,Indie,71,0.096,0.616,227080,0.656,0.000879,F,0.205,-7.298,Major,0.0344,150.071,4/4,0.286
+2017,5M1TnHDDigSFAEK5U8euc3,Chinese Fountain,The Growlers,Chinese Fountain,81,182.64,0.3704,0.1358,True,Indie,48,0.00303,0.608,245707,0.804,0.118,F,0.193,-8.262,Minor,0.0311,116.022,4/4,0.851
+2017,6mVD1SfTvlFAPVi7txFL5H,Machu Picchu,The Strokes,Angles,81,162.32,0.3457,0.4321,True,Indie,63,0.0133,0.695,209627,0.814,0.0984,C#,0.0601,-5.294,Major,0.066,105.011,4/4,0.882
+2017,2AT8iROs4FQueDv2c8q2KE,R U Mine?,Arctic Monkeys,AM,80,142.63,0.2625,0.425,True,Rock,79,0.00616,0.288,201726,0.758,0.0,F#,0.303,-5.692,Minor,0.0371,97.094,4/4,0.619
+2017,3LkxF4JpVLJJcVuM55bXvR,Beach Rats,The Growlers,Hung At Heart,80,170.06,0.35,0.3375,True,Indie,45,0.844,0.409,250144,0.655,0.395,D#,0.107,-5.466,Minor,0.0297,75.266,3/4,0.608
+2017,58ge6dfP91o9oXMzq3XkIS,505,Arctic Monkeys,Favourite Worst Nightmare,79,144.25,0.3924,0.2278,True,Indie,63,0.00237,0.52,253587,0.852,5.79e-05,C,0.0733,-5.866,Major,0.0543,140.267,4/4,0.234
+2017,3SUusuA9jH1v6PVwtYMbdv,Last Nite,The Strokes,Is This It,77,158.69,0.2857,0.4286,True,Rock,70,0.0223,0.624,193373,0.899,0.000155,C,0.0975,-5.71,Major,0.0295,104.055,4/4,0.797
+2017,3d8y0t70g7hw2FOWl9Z4Fm,Ophelia,The Lumineers,Cleopatra,77,147.99,0.1948,0.4026,True,Rock,70,0.613,0.664,160097,0.573,0.000363,F,0.0857,-6.519,Major,0.0277,76.023,4/4,0.566
+2017,086myS9r57YsLbJpU0TgK9,Why'd You Only Call Me When You're High?,Arctic Monkeys,AM,76,148.45,0.25,0.2632,True,Rock,78,0.0483,0.691,161124,0.631,1.13e-05,D,0.104,-6.478,Major,0.0368,92.004,4/4,0.8
+2017,7qHBtTdpBLRUQGQxshfRd2,Big Toe,The Growlers,Chinese Fountain,76,106.12,0.3684,0.1579,True,Rock,49,0.0102,0.51,151719,0.766,3.21e-05,E,0.0673,-5.812,Minor,0.0278,132.169,4/4,0.727
+2017,2jZgzSxNSg1hTCq0ewWHGJ,Junk Of The Heart (Happy),The Kooks,Junk Of The Heart,75,129.88,0.32,0.16,True,Indie,66,0.0212,0.604,187253,0.894,0.0,D,0.0299,-5.0,Major,0.037,145.014,4/4,0.901
+2017,5MZBOcqI3Vpvp2PZy6ddyD,The Way It Is,The Strokes,Room On Fire,74,113.07,0.3108,0.3108,True,Alternative,41,0.000179,0.481,141502,0.943,0.865,B,0.0985,-2.592,Major,0.0495,137.091,4/4,0.877
+2017,0seTertVGvHrEJu7hlIWRq,Take It Or Leave It,The Strokes,Is This It,73,145.39,0.3014,0.4932,True,Rock,49,0.000959,0.43,196067,0.913,0.369,D,0.137,-6.203,Minor,0.0389,154.066,4/4,0.481
+2017,6QgPBFvt3r9LeZDL5YsgJO,Pet Shop Eyes,The Growlers,Hung At Heart,73,128.68,0.3699,0.4795,True,Indie,45,0.412,0.463,213600,0.839,0.497,F,0.686,-2.971,Major,0.0342,115.7,4/4,0.852
+2017,01MO5Ib9mCG7srUhZl52BA,Going Gets Tough,The Growlers,Chinese Fountain,71,130.5,0.3662,0.1408,True,Indie,59,0.219,0.5,208613,0.766,0.0,G#,0.109,-6.258,Major,0.0327,162.058,4/4,0.738
+2017,2LGdO5MtFdyphi2EihANZG,Knee Socks,Arctic Monkeys,AM,71,157.68,0.338,0.338,True,Indie,69,0.123,0.665,257563,0.542,0.00291,B,0.342,-8.323,Minor,0.033,97.975,4/4,0.587
+2017,5OmumaYiHYXUsYZPGLFTYJ,Between Love & Hate,The Strokes,Room On Fire,71,120.48,0.4225,0.0986,True,Children’s Music,47,5.35e-05,0.453,196348,0.61,0.545,A,0.101,-4.935,Major,0.0254,104.188,4/4,0.525
+2017,0jBE7Fn78EAvmIs3dCd6GO,Is This It,The Strokes,Is This It,70,77.45,0.5286,0.4857,True,Indie,58,0.147,0.667,151333,0.692,3.75e-05,F,0.349,-8.361,Major,0.0285,96.021,4/4,0.846
+2017,6SdAztAqklk1zAmUHhU4N7,Taken for a Fool,The Strokes,Angles,70,183.13,0.3143,0.3286,True,Children’s Music,57,0.00595,0.57,203240,0.89,0.0112,F,0.226,-4.447,Major,0.0559,137.04,4/4,0.885
+2017,3b1IQflSLrgzYQPGFzI9cl,Es Por Ti,Juanes,Un Día Normal,68,185.21,0.2206,0.3382,True,Dance,72,0.203,0.706,250693,0.753,3.04e-05,E,0.184,-6.088,Major,0.0259,129.968,4/4,0.849
+2017,6u0x5ad9ewHvs3z6u9Oe3c,Under Cover of Darkness,The Strokes,Angles,68,130.92,0.3824,0.2794,True,Rock,68,0.00419,0.357,235547,0.775,0.285,B,0.0676,-3.364,Major,0.054,199.853,4/4,0.589
+2017,2lffRiAET2Xt6BNb4EmkS2,80's Comedown Machine,The Strokes,Comedown Machine,67,179.0,0.2985,0.2239,True,Indie,54,0.00583,0.488,298613,0.503,0.809,C,0.101,-8.89,Major,0.0326,144.035,4/4,0.38
+2017,5b4NWxJgdM4EkCrsnFK7m3,Naked Kids,The Growlers,Hung At Heart,66,137.75,0.3939,0.2576,True,Indie,45,0.662,0.379,231396,0.649,0.653,D,0.422,-5.316,Minor,0.0334,117.79,4/4,0.328
+2017,3FtYbEfBqAlGO46NUDQSAt,Electric Feel,MGMT,Oracular Spectacular,65,115.17,0.3846,0.1077,True,Indie,77,0.0714,0.763,229640,0.807,0.28,C#,0.348,-3.714,Major,0.035,103.038,3/4,0.559
+2017,7eqoqGkKwgOaWNNHx90uEZ,Nights,Frank Ocean,Blonde,64,134.95,0.2969,0.3281,True,Hip-Hop,78,0.42,0.466,307151,0.548,1.01e-06,F,0.113,-9.362,Minor,0.118,89.815,4/4,0.423
+2017,0OM9ri37LIbPc9hffwsyb1,Hard To Explain,The Strokes,Is This It,63,149.15,0.3175,0.5079,True,Rock,60,0.000456,0.408,224333,0.665,0.863,G,0.0888,-6.286,Major,0.0578,82.525,4/4,0.667
+2017,0SsOtRt4U3eicmUHPBfIHf,Turnaround,Hans Zimmer,The Little Prince (Original Motion Picture Soundtrack),62,138.81,0.1935,0.6935,True,Soundtrack,33,0.769,0.632,206507,0.19,1.06e-05,C,0.395,-16.4,Major,0.0383,78.052,4/4,0.559
+2017,0dy6iXYIF0piirySAzCBwF,The End Has No End,The Strokes,Room On Fire,62,98.98,0.4516,0.2258,True,Indie,53,0.000799,0.536,185435,0.655,0.832,C#,0.229,-3.713,Major,0.0336,136.006,4/4,0.552
+2017,2iCzZEPF8GTfQ1v4WCi7De,The Daisy Chain,The Growlers,City Club,62,116.41,0.2742,0.2419,True,Rock,50,0.00258,0.496,225087,0.819,0.00109,C,0.179,-4.714,Major,0.0323,123.004,4/4,0.703
+2017,3Y4rUyw7XBCK6hGHCOt6rp,"Call It Fate, Call It Karma",The Strokes,Comedown Machine,61,142.52,0.1967,0.1967,True,Rock,63,0.983,0.544,204773,0.241,0.774,E,0.101,-14.779,Minor,0.03,109.437,4/4,0.359
+2017,78Gzxi27GuNHTfkn2BylG4,What Ever Happened?,The Strokes,Room On Fire,61,82.09,0.4918,0.1803,True,Children’s Music,56,9.67e-05,0.547,169273,0.599,0.679,B,0.229,-6.057,Major,0.0344,116.165,4/4,0.587
+2017,4UmJMAY5TqXPAnsDW1Mci7,"Alone, Together",The Strokes,Is This It,60,112.23,0.35,0.5,True,Children’s Music,50,0.00778,0.515,188640,0.863,0.896,G,0.0616,-5.756,Major,0.0308,143.017,4/4,0.961
+2017,6lnnaGN20kl0jEYJSxCgU9,You Talk Way Too Much,The Strokes,Room On Fire,59,77.72,0.5254,0.1525,True,Children’s Music,47,0.0625,0.308,186038,0.971,0.938,E,0.0806,-3.23,Major,0.0344,128.204,4/4,0.659
+2017,7ygO2E3yfwZVYbzaPdGzed,Guru,Coast Modern,Guru,59,104.35,0.2881,0.1356,True,Indie,64,0.232,0.76,204467,0.701,0.00295,D#,0.07,-6.393,Major,0.042,140.023,4/4,0.81
+2017,0Fv5N0cHBsl4bzCbollCAS,Moves,Big Sean,I Decided.,58,61.6,0.4483,0.1207,True,Rap,70,0.0541,0.789,142907,0.53,0.0,D,0.164,-6.2,Major,0.293,75.515,4/4,0.367
+2017,3iiObSfkcBsETljmSB4Hcs,When It Started,The Strokes,Is This It,58,107.03,0.2759,0.5345,True,Rock,49,0.265,0.722,175200,0.654,0.00392,C,0.15,-8.107,Major,0.0328,131.962,4/4,0.904
+2017,6L8Ic6HJHrAqwObG3wuaLT,Rare Hearts,The Growlers,Chinese Fountain,58,188.43,0.1897,0.2931,True,Rock,57,0.026,0.601,284587,0.652,0.0589,G,0.274,-6.723,Major,0.027,120.498,4/4,0.61
+2017,3zQJdKcFjiHEz7Xqum4bom,Black Widow,Cage The Elephant,Melophobia,57,131.49,0.193,0.2281,True,Indie,46,0.0151,0.419,187187,0.895,0.0,F#,0.117,-0.747,Minor,0.0497,127.269,4/4,0.718
+2017,4qjqO5m5e5vebk9upd7xUU,Never Gonna Give You Up,The Black Keys,Brothers,57,134.05,0.2456,0.0,True,Rock,51,0.324,0.557,218987,0.665,0.000281,F#,0.0713,-6.19,Minor,0.0328,75.805,4/4,0.437
+2017,71bWpBImqNaLjIvfV50Hsa,Love Test,The Growlers,Chinese Fountain,57,164.67,0.2456,0.2105,True,Indie,52,0.00755,0.65,249267,0.728,0.000446,D,0.353,-7.27,Major,0.0263,114.984,4/4,0.742
+2017,78J9MBkAoqfvyeEpQKJDzD,Step,Vampire Weekend,Modern Vampires of the City,57,168.93,0.2105,0.1404,True,Rock,67,0.591,0.624,251627,0.724,7.79e-06,A#,0.101,-7.113,Major,0.101,78.008,4/4,0.624
+2017,26ZnmGlPGXaOzPDydAP9D5,She's Long Gone,The Black Keys,Brothers,56,157.67,0.2143,0.0357,True,Indie,52,0.0361,0.349,186000,0.866,0.0406,B,0.216,-6.676,Minor,0.112,167.951,4/4,0.488
+2017,6K4t31amVTZDgR3sKmwUJJ,The Less I Know The Better,Tame Impala,Currents,56,69.29,0.5357,0.1786,True,Rock,82,0.0115,0.64,216320,0.74,0.00678,E,0.167,-4.083,Major,0.0284,116.879,4/4,0.785
+2017,7KmawNv6JUgZ54gSyVF6VQ,Let Her Go,Mac DeMarco,Salad Days,56,115.18,0.25,0.4286,True,Indie,59,0.00512,0.594,182607,0.663,0.123,F#,0.162,-7.588,Major,0.0292,111.123,4/4,0.806
+2017,7eX5SypK35V8Y9d9pS6rWy,I Can't Win,The Strokes,Room On Fire,56,110.29,0.2321,0.1786,True,Children’s Music,47,0.00492,0.473,161100,0.745,0.634,B,0.105,-4.819,Major,0.0321,97.449,4/4,0.405
+2017,7w87IxuO7BDcJ3YUqCyMTT,Pumped Up Kicks,Foster The People,Torches,56,126.11,0.3393,0.0536,True,Children’s Music,83,0.145,0.733,239600,0.71,0.115,F,0.0956,-5.849,Minor,0.0292,127.975,4/4,0.965
+2017,4fPBB44eDH71YohayI4eKV,You Only Live Once,The Strokes,First Impressions Of Earth,55,110.19,0.3091,0.3091,True,Children’s Music,66,0.0238,0.63,189227,0.908,0.592,B,0.116,-2.42,Major,0.0326,120.522,4/4,0.968
+2017,67LKZcv1J2Yj4pk5UIuFQW,Warned You,Good Morning,Shawcross,55,56.68,0.4545,0.1636,True,Pop,62,0.662,0.507,133129,0.428,0.149,F#,0.101,-4.677,Major,0.0263,138.163,4/4,0.406
+2017,7nzsY8vlnKdvGOEE0rjAXZ,Arabella,Arctic Monkeys,AM,55,109.59,0.3091,0.4364,True,Rock,74,0.0202,0.579,207357,0.558,1.26e-06,D,0.212,-6.986,Major,0.0895,179.949,4/4,0.506
+2017,1PmaWG47wJRCIOM9v8Bauo,Hypocrite,Cage The Elephant,Melophobia,54,152.92,0.2037,0.2407,True,Indie,51,0.143,0.629,248987,0.938,0.0149,A,0.115,-3.293,Major,0.0323,104.998,4/4,0.628
+2017,2ZQ3CJY6iddn38oOoPGKfb,Night Ride,The Growlers,City Club,53,120.8,0.3208,0.0755,True,Rock,61,0.0136,0.613,251375,0.724,0.0,A,0.12,-4.798,Minor,0.0305,110.076,4/4,0.626
+2017,2vupkXhwL4sNCRgNu72HCZ,Heart It Races - Cover Version,Dr. Dog,Heart It Races,53,100.46,0.4151,0.0377,True,Folk,64,0.443,0.705,233128,0.474,0.0553,A#,0.338,-13.081,Major,0.0391,98.612,4/4,0.756
+2017,6xqCTPxYnRf8X0p6N5Vw2T,Ooh La,The Kooks,Inside In / Inside Out,53,96.27,0.3774,0.1887,True,Rock,47,0.0165,0.543,208973,0.873,9.45e-05,A#,0.15,-5.159,Minor,0.0803,150.891,4/4,0.786
+2017,7q0aQpiLv5tIsupcgQ3Ny4,Budapest,George Ezra,Wanted on Voyage,53,102.86,0.2642,0.434,True,Pop,70,0.0846,0.717,200733,0.455,0.0,F,0.11,-8.303,Major,0.0276,127.81,4/4,0.389
+2017,0LtOwyZoSNZKJWHqjzADpW,Feels Like We Only Go Backwards,Tame Impala,Lonerism,52,78.96,0.3654,0.3846,True,Rock,73,0.0453,0.31,192960,0.907,0.369,D,0.247,-2.279,Minor,0.0591,149.931,4/4,0.516
+2017,0tkBOcK7oRVXQJY97zzSvr,Telescope,Cage The Elephant,Melophobia,52,94.92,0.4231,0.3269,True,Rock,59,0.273,0.588,228293,0.481,1.33e-05,C,0.0986,-4.801,Major,0.0285,93.568,4/4,0.176
+2017,269xqcgGTN9PlivhUkOLhX,In My Feelings,Lana Del Rey,Lust For Life,52,152.56,0.1346,0.0192,True,Pop,65,0.0553,0.54,238719,0.674,0.0608,D,0.112,-6.351,Major,0.0802,89.933,4/4,0.309
+2017,6XX1r0P3P5zt992tCcHrms,Dull Boy,The Growlers,Chinese Fountain,52,109.67,0.2885,0.1538,True,Indie,46,0.00108,0.62,203227,0.678,0.00757,C#,0.0716,-8.37,Major,0.0252,104.932,4/4,0.796
+2017,2UE4m8egf0aREmOi47sDOk,Next Girl,The Black Keys,Brothers,51,109.65,0.2549,0.1373,True,Rock,53,0.022,0.383,198213,0.748,0.00014,C#,0.114,-6.343,Minor,0.0343,171.568,4/4,0.255
+2017,2y42MmBCfEhqIkFAJs0V8Z,Black Mud,The Black Keys,Brothers,51,57.98,0.4314,0.0784,True,Rock,52,0.253,0.515,129440,0.502,0.883,B,0.345,-8.898,Minor,0.058,143.937,4/4,0.374
+2017,4HRa9ZWcmZ8JD7UySPu0wT,Don't Stop (Color on the Walls),Foster The People,Torches,51,60.65,0.5098,0.1765,True,Indie,64,0.00183,0.611,174920,0.948,0.0995,C#,0.0969,-3.751,Minor,0.0753,133.004,4/4,0.79
+2017,2imZHlyJK5Cai1hfOAUK4h,Old Friend,The Walters,Songs for Dads,50,79.47,0.32,0.2,True,Indie,49,0.61,0.695,177387,0.557,0.00885,B,0.25,-9.299,Minor,0.0284,126.49,4/4,0.756
+2017,59xYAblNy1Xr4U1IsJ3gZb,Simple As This,Jake Bugg,Jake Bugg,50,168.29,0.06,0.04,True,Indie,59,0.623,0.612,199453,0.578,0.0,G#,0.0983,-8.092,Major,0.025,96.985,4/4,0.696
+2017,78ECvz2vs1obDkLdbMEdJK,Driving to Hawaii,Summer Salt,Driving to Hawaii,50,92.07,0.3,0.34,True,Rock,60,0.719,0.346,188184,0.637,2.03e-05,G,0.263,-4.919,Major,0.0403,186.836,3/4,0.297
+2017,7floNISpH8VF4z4459Qo18,Look At Me!,XXXTENTACION,Look At Me!,50,38.35,0.52,0.32,True,Rap,83,0.259,0.763,126346,0.726,0.0,C#,0.0976,-6.405,Major,0.282,139.059,4/4,0.349
+2017,2MVwrvjmcdt4MsYYLCYMt8,Tighten Up,The Black Keys,Brothers,49,106.23,0.3265,0.0612,True,Rock,64,0.00121,0.504,211080,0.705,4.12e-06,F#,0.453,-6.179,Minor,0.0665,108.965,4/4,0.567
+2017,4sebUbjqbcgDSwG6PbSGI0,Come a Little Closer,Cage The Elephant,Melophobia,49,40.58,0.6939,0.2041,True,Children’s Music,67,0.0265,0.44,229347,0.777,1.01e-06,C#,0.151,-1.786,Minor,0.0327,148.027,4/4,0.306
+2017,718purgMpFb2Axhuz0Hbq1,Chances,The Strokes,Comedown Machine,49,106.24,0.2653,0.2449,True,Children’s Music,55,0.365,0.561,216787,0.569,0.611,F#,0.109,-9.682,Major,0.0289,103.705,4/4,0.53
+2017,0dhjrarbKUbYt8SB8YTjoZ,Magnificent Sadness,The Growlers,Chinese Fountain,48,94.1,0.3958,0.2083,True,Indie,43,0.00752,0.573,214093,0.713,8.77e-06,B,0.195,-7.876,Minor,0.0283,120.043,4/4,0.462
+2017,21sa0bWFqOFEYPtahlt4Lt,Crying Lightning,Arctic Monkeys,Humbug,48,114.82,0.2708,0.2917,True,Rock,54,0.0148,0.498,224827,0.885,0.00041,E,0.239,-4.423,Minor,0.0461,106.719,4/4,0.67
+2017,3FRRgKEg2CK20D0ElLBioS,Good Advice,The Growlers,Chinese Fountain,48,91.51,0.3333,0.1667,True,Indie,44,1.3e-05,0.451,204907,0.822,0.00488,A#,0.272,-5.023,Major,0.0291,137.062,4/4,0.627
+2017,4qkwbl6SxwLE09pxLAFINt,Sweet to Me,Summer Salt,Driving to Hawaii,48,69.94,0.4792,0.3125,True,Rock,61,0.677,0.563,204307,0.51,3.8e-06,A,0.305,-6.751,Major,0.0283,97.467,4/4,0.501
+2017,6Yu1OL8I0D4vjOzYdsXYGK,12:51,The Strokes,Room On Fire,48,74.32,0.375,0.1667,True,Indie,58,0.312,0.452,153133,0.889,0.8,E,0.558,-3.838,Major,0.0379,145.056,4/4,0.591
+2017,7wYU1avLwl1Gtkib8OTrZp,Dionysus,The Buttertones,Buttertones,48,86.33,0.3958,0.1458,True,Indie,49,0.00269,0.331,209040,0.61,0.0548,A,0.14,-8.138,Major,0.0293,132.746,4/4,0.55
+2017,0NdTUS4UiNYCNn5FgVqKQY,Snap Out Of It,Arctic Monkeys,AM,47,86.21,0.2766,0.4043,True,Rock,73,0.249,0.728,193030,0.638,0.0,F,0.116,-6.455,Minor,0.0336,130.014,4/4,0.872
+2017,290xSzR8Ee9fm82poMg4od,Used to Be in Love,The Jungle Giants,Quiet Ferocity,47,110.28,0.2979,0.0,True,Indie,63,0.0022,0.83,222787,0.631,0.0359,B,0.0539,-5.238,Minor,0.0313,128.013,4/4,0.877
+2018,0FgNSsaSZTvbLXUumSO8LQ,Star Treatment,Arctic Monkeys,Tranquility Base Hotel & Casino,197,852.41,0.1878,0.066,True,Rock,63,0.243,0.581,354640,0.767,0.00131,G,0.141,-5.026,Minor,0.0527,120.07,4/4,0.673
+2018,31u6rUeIEXGrYVoh10U7eu,Leave It In My Dreams,The Voidz,Virtue,190,619.54,0.1947,0.0053,True,Alternative,53,0.0226,0.6,239442,0.746,0.0119,E,0.109,-4.696,Minor,0.0355,118.551,4/4,0.614
+2018,1JdArJ9NKCF9TQASGQgszg,The World's First Ever Monster Truck Front Flip,Arctic Monkeys,Tranquility Base Hotel & Casino,145,367.23,0.1517,0.0897,True,Indie,55,0.346,0.602,180013,0.601,0.349,A#,0.0735,-5.742,Major,0.0303,145.075,4/4,0.553
+2018,6113aOfHIC0vbZVDZ6PpRV,Days,The Drums,Portamento,135,507.27,0.1852,0.037,True,Indie,53,0.369,0.586,269082,0.721,0.16,D,0.141,-7.743,Major,0.0289,84.987,4/4,0.657
+2018,4ePP9So5xRzspjLFVVbj90,Two Princes,Spin Doctors,Pocket Full Of Kryptonite,126,375.52,0.246,0.2698,True,Pop,73,0.00162,0.543,256733,0.912,2.1e-06,G,0.0565,-10.71,Major,0.0601,103.731,4/4,0.836
+2018,6VFaZ3zgXaRbc79GRqhbBz,Wink,The Voidz,Virtue,116,294.5,0.2931,0.0,True,Alternative,39,0.171,0.56,240133,0.79,0.0,G,0.291,-4.817,Major,0.0385,110.021,4/4,0.552
+2018,7seSDB6TiLZarbicyDIjiQ,Batphone,Arctic Monkeys,Tranquility Base Hotel & Casino,111,470.92,0.1622,0.0901,True,Rock,56,0.312,0.675,271613,0.681,0.0,F,0.304,-5.728,Minor,0.0356,106.521,4/4,0.675
+2018,2AKwcNHeGAqCpD6etK425X,One Point Perspective,Arctic Monkeys,Tranquility Base Hotel & Casino,109,236.14,0.3211,0.0275,True,Indie,62,0.057,0.714,208640,0.585,0.00444,G#,0.144,-4.57,Major,0.0419,77.104,4/4,0.842
+2018,1o22EcqsCANhwYdaNOSdwS,Tessellate,alt-J,An Awesome Wave,106,258.87,0.1887,0.0094,True,Rock,60,0.364,0.702,181400,0.607,0.0263,D,0.123,-6.509,Major,0.0405,116.961,4/4,0.436
+2018,6pMRk6Tr05wmZSSINOqzE3,QYURRYUS,The Voidz,Virtue,104,130.79,0.5096,0.0,True,Alternative,42,0.159,0.637,172774,0.869,0.573,C#,0.0832,-3.835,Major,0.108,103.892,4/4,0.604
+2018,1sxUaLi0G2vB7dl4ogtCxH,Never Let You Go - 2008 Remaster,Third Eye Blind,Blue,95,235.55,0.2,0.0421,True,Rock,64,0.0814,0.728,237240,0.94,0.000162,E,0.109,-5.034,Major,0.0368,113.76,4/4,0.967
+2018,5uplevkaUGRLExATEbSQiR,Someday,The Growlers,Hung At Heart,93,164.35,0.4409,0.086,True,Indie,48,0.953,0.402,215780,0.772,0.86,A#,0.172,-4.578,Major,0.0394,156.116,4/4,0.748
+2018,7zpHInsypgrnY9zTeCXtI4,ALieNNatioN,The Voidz,Virtue,92,216.73,0.3587,0.0109,True,Alternative,41,0.211,0.61,279840,0.823,0.0325,F,0.105,-5.144,Minor,0.0323,92.989,4/4,0.456
+2018,4pDrMVAsQn0uqo9sb6C8E2,Reckless Serenade,Arctic Monkeys,Suck It and See,91,194.24,0.1978,0.0659,True,Indie,46,0.00037,0.585,162747,0.694,0.0144,D,0.0724,-6.632,Major,0.0392,127.966,4/4,0.785
+2018,6K5GAopLZzzg0ZX8k5GWwh,The Start Of Something,Voxtrot,Raised By Wolves EP,89,152.63,0.4607,0.0,True,Indie,56,0.179,0.632,271747,0.733,1.04e-05,G#,0.0988,-6.924,Major,0.0293,107.056,4/4,0.707
+2018,0tfvDUmADEEEqrPcRJNT29,Pyramid of Bones,The Voidz,Virtue,86,154.75,0.5,0.0116,True,Alternative,41,0.000354,0.376,268133,0.944,0.124,E,0.11,-3.688,Minor,0.11,140.424,4/4,0.529
+2018,3LkxF4JpVLJJcVuM55bXvR,Beach Rats,The Growlers,Hung At Heart,86,190.43,0.3023,0.0698,True,Indie,45,0.844,0.409,250144,0.655,0.395,D#,0.107,-5.466,Minor,0.0297,75.266,3/4,0.608
+2018,57oJKJys4oC7NTR7hwZkPU,Science Fiction,Arctic Monkeys,Tranquility Base Hotel & Casino,86,163.44,0.2907,0.0581,True,Rock,55,0.0295,0.542,185907,0.766,0.0802,G,0.396,-5.411,Major,0.0282,88.062,4/4,0.643
+2018,7wmYgsLNRB9EpqpvR3hkvN,Problems III,The Growlers,Casual Acquaintances,86,225.98,0.2442,0.0349,True,Rock,54,0.0489,0.332,214106,0.731,0.00347,C,0.178,-4.565,Major,0.0446,90.028,4/4,0.636
+2018,3nAq2hCr1oWsIU54tS98pL,Waves,Kanye West,The Life Of Pablo,84,118.24,0.4643,0.0476,True,Rap,73,0.0363,0.386,181573,0.587,3.71e-06,A#,0.332,-4.454,Major,0.0519,96.072,4/4,0.0565
+2018,0mQiDbYxHElUp1eNpLZXaY,American Sports,Arctic Monkeys,Tranquility Base Hotel & Casino,83,148.2,0.2771,0.0482,True,Indie,57,0.00169,0.372,158040,0.865,0.00293,G,0.127,-4.288,Minor,0.0513,176.689,3/4,0.594
+2018,4Ee6ZsyVepVsvObgYwzgH1,Permanent High School,The Voidz,Virtue,83,175.97,0.4217,0.0,True,Alternative,43,0.0121,0.535,253827,0.827,0.0611,G,0.117,-2.932,Major,0.0989,123.952,4/4,0.649
+2018,4hQdpbUJTPVBYV7ebPK6NT,Heaven in Hell,The Growlers,Casual Acquaintances,83,241.16,0.1687,0.0,True,Indie,48,0.185,0.629,222089,0.799,0.0115,C,0.238,-4.635,Major,0.0402,127.952,4/4,0.922
+2018,3n69hLUdIsSa1WlRmjMZlW,Breezeblocks,alt-J,An Awesome Wave,79,108.37,0.5443,0.0253,True,Indie,71,0.096,0.616,227080,0.656,0.000879,F,0.205,-7.298,Major,0.0344,150.071,4/4,0.286
+2018,7co8zvT6HJuyT81IDukyID,Tranquility Base Hotel & Casino,Arctic Monkeys,Tranquility Base Hotel & Casino,79,181.63,0.2911,0.0506,True,Rock,63,0.0411,0.584,212093,0.835,0.0147,A,0.199,-4.326,Minor,0.0297,142.2,4/4,0.781
+2018,7w6QlKAOcNEnqRgrnJvQtr,Stuck on the puzzle,Alex Turner,Submarine - Original Songs From The Film By Alex Turner,78,237.01,0.1795,0.2692,True,Rock,57,0.0792,0.58,211053,0.682,0.0316,E,0.161,-8.523,Major,0.0332,77.53,4/4,0.774
+2018,0V34LU5aBA3hYgq178hFFY,Birds Dont Sing,TV Girl,French Exit,77,244.53,0.2208,0.013,True,Rock,59,0.016,0.612,209347,0.942,0.0,G,0.137,-4.549,Major,0.0568,106.57,4/4,0.807
+2018,6sT8KTifge2F0lcdtyDkDa,The Next Time Around,Little Joy,Little Joy,75,133.8,0.32,0.0,True,Indie,42,0.844,0.748,156947,0.605,0.0711,A#,0.128,-7.987,Major,0.0316,120.019,4/4,0.964
+2018,6NGvyhGjKSKkyN3yc4YNhD,Piledriver Waltz,Arctic Monkeys,Suck It and See,72,150.32,0.3194,0.0,True,Indie,51,0.00724,0.443,203880,0.865,0.000116,E,0.468,-4.547,Major,0.0391,110.008,4/4,0.474
+2018,4VysGAsuHWHDxasPnTgwbo,The Ultracheese,Arctic Monkeys,Tranquility Base Hotel & Casino,71,171.41,0.2254,0.0563,True,Indie,60,0.624,0.476,217720,0.555,3.98e-05,A,0.126,-6.551,Major,0.0404,131.497,3/4,0.426
+2018,3nhzPKCm2yqGmgEhdAg19u,Four Out Of Five,Arctic Monkeys,Tranquility Base Hotel & Casino,70,220.07,0.3857,0.0571,True,Indie,66,0.0626,0.601,312347,0.863,0.0,C,0.0717,-4.31,Major,0.0685,130.189,4/4,0.676
+2018,5FVd6KXrgO9B3JPmC8OPst,Do I Wanna Know?,Arctic Monkeys,AM,70,159.11,0.3429,0.1714,True,Rock,84,0.186,0.548,272394,0.532,0.000263,F,0.217,-7.596,Major,0.0323,85.03,4/4,0.405
+2018,3NmndGYOIYocA5OTHMVoaw,Golden Trunks,Arctic Monkeys,Tranquility Base Hotel & Casino,67,127.47,0.2985,0.0746,True,Indie,57,0.129,0.492,173627,0.564,1.73e-05,D,0.131,-5.811,Major,0.0278,92.544,4/4,0.0896
+2018,577M06tqh2BwsT1qqZOBM1,Don't Sit Down 'Cause I've Moved Your Chair,Arctic Monkeys,Suck It and See,65,121.96,0.3846,0.0,True,Rock,49,0.0191,0.434,183507,0.912,0.278,A,0.326,-5.148,Major,0.0451,119.729,4/4,0.315
+2018,2s4ZQQsk9c4n13IAUfnIzm,The Hellcat Spangled Shalalala,Arctic Monkeys,Suck It and See,64,189.75,0.0938,0.0,True,Indie,45,0.000793,0.449,180373,0.872,0.00062,B,0.0642,-4.992,Major,0.0507,130.22,4/4,0.788
+2018,7eqoqGkKwgOaWNNHx90uEZ,Nights,Frank Ocean,Blonde,64,128.78,0.4844,0.0312,True,Hip-Hop,78,0.42,0.466,307151,0.548,1.01e-06,F,0.113,-9.362,Minor,0.118,89.815,4/4,0.423
+2018,7KmawNv6JUgZ54gSyVF6VQ,Let Her Go,Mac DeMarco,Salad Days,62,78.39,0.4839,0.0645,True,Indie,59,0.00512,0.594,182607,0.663,0.123,F#,0.162,-7.588,Major,0.0292,111.123,4/4,0.806
+2018,4m3uMuu1gYYjZPtZvTOe6t,Orgasm of Death,The Growlers,Casual Acquaintances,61,207.59,0.1148,0.0,True,Rock,50,0.000303,0.415,235693,0.728,0.000106,B,0.595,-5.568,Minor,0.0303,154.992,4/4,0.703
+2018,57Xjny5yNzAcsxnusKmAfA,Reptilia,The Strokes,Room On Fire,61,162.62,0.2295,0.0328,True,Indie,71,0.000563,0.486,219754,0.666,0.789,A,0.101,-5.084,Major,0.033,157.992,4/4,0.741
+2018,3Y4rUyw7XBCK6hGHCOt6rp,"Call It Fate, Call It Karma",The Strokes,Comedown Machine,59,148.21,0.2542,0.1525,True,Rock,63,0.983,0.544,204773,0.241,0.774,E,0.101,-14.779,Minor,0.03,109.437,4/4,0.359
+2018,3s4OT5Si1n9TFSNEPjNs0s,Black Treacle,Arctic Monkeys,Suck It and See,59,139.41,0.322,0.0169,True,Rock,49,0.000821,0.343,217440,0.89,0.0,G,0.0912,-5.759,Major,0.0655,100.061,4/4,0.525
+2018,7ykaUgkdQWJLsMuOymTV2A,If Not For You - Remastered 2014,George Harrison,All Things Must Pass,59,177.19,0.1695,0.0,True,Folk,58,0.21,0.608,210720,0.766,0.0076,G,0.0862,-6.982,Major,0.0329,116.118,4/4,0.797
+2018,3UZfvX4ky5C4mblUIR0LE1,Suck It and See,Arctic Monkeys,Suck It and See,58,186.05,0.1207,0.0172,True,Indie,51,0.00105,0.339,225987,0.932,0.114,E,0.255,-5.017,Major,0.057,128.291,4/4,0.586
+2018,0qdQUeKVyevrbKhAo0ibxS,My Sweet Lord - Remastered 2014,George Harrison,All Things Must Pass,57,161.21,0.2982,0.0351,True,Folk,77,0.0794,0.538,281227,0.704,0.0,C#,0.0867,-8.904,Minor,0.0332,120.963,4/4,0.583
+2018,4z6mZWFgBZd07926K61Mi8,She Looks Like Fun,Arctic Monkeys,Tranquility Base Hotel & Casino,56,116.5,0.2857,0.0714,True,Indie,55,0.00944,0.514,182560,0.773,0.00326,C,0.387,-3.754,Major,0.0388,103.943,4/4,0.445
+2018,7wsEZh68qX7jY0dziXMb0H,Love is a Laserquest,Arctic Monkeys,Suck It and See,56,130.65,0.2321,0.0179,True,Indie,50,0.00197,0.349,191427,0.662,0.908,B,0.136,-6.873,Major,0.0402,169.926,4/4,0.554
+2018,4BOHngI1gLDA5OZFTZVAHl,One Million Lovers,The Growlers,Hung At Heart,55,144.9,0.4,0.0909,True,Rock,54,0.713,0.5,282739,0.723,0.00107,F,0.107,-5.07,Minor,0.0322,101.97,4/4,0.677
+2018,4WFcerMZkAIcIizZYXNNrb,Pink Ocean,The Voidz,Virtue,55,146.1,0.3091,0.0,True,Alternative,44,0.343,0.593,326707,0.889,0.599,D,0.385,-3.701,Major,0.0408,96.992,4/4,0.647
+2018,5jgFfDIR6FR0gvlA56Nakr,Blackbird - Remastered 2009,The Beatles,The Beatles,55,102.72,0.2182,0.0182,True,Rock,73,0.754,0.686,138387,0.127,1.41e-05,G,0.0573,-14.361,Major,0.0342,93.699,4/4,0.372
+2018,7gsArdm7rk6X6wsMr2QKWS,From The Ritz To The Rubble,Arctic Monkeys,"Whatever People Say I Am, That's What I'm Not",55,149.34,0.2182,0.0727,True,Rock,54,0.00147,0.216,193427,0.882,0.0,B,0.308,-5.176,Minor,0.0439,189.286,4/4,0.656
+2018,086myS9r57YsLbJpU0TgK9,Why'd You Only Call Me When You're High?,Arctic Monkeys,AM,54,65.74,0.5556,0.0185,True,Rock,78,0.0483,0.691,161124,0.631,1.13e-05,D,0.104,-6.478,Major,0.0368,92.004,4/4,0.8
+2018,6xagjcywpcyNFghafZPQJv,Banana Clip,Miguel,War & Leisure,53,110.29,0.3585,0.0,True,Dance,67,0.0973,0.638,201627,0.708,0.0,C#,0.177,-5.342,Minor,0.0754,84.978,4/4,0.606
+2018,269xqcgGTN9PlivhUkOLhX,In My Feelings,Lana Del Rey,Lust For Life,52,118.14,0.2692,0.1538,True,Pop,65,0.0553,0.54,238719,0.674,0.0608,D,0.112,-6.351,Major,0.0802,89.933,4/4,0.309
+2018,2lffRiAET2Xt6BNb4EmkS2,80's Comedown Machine,The Strokes,Comedown Machine,52,168.62,0.2308,0.0,True,Indie,54,0.00583,0.488,298613,0.503,0.809,C,0.101,-8.89,Major,0.0326,144.035,4/4,0.38
+2018,389QX9Q1eUOEZ19vtzzI9O,While My Guitar Gently Weeps - Remastered 2009,The Beatles,The Beatles,52,159.07,0.2885,0.0,True,Rock,68,0.0205,0.453,285000,0.654,0.00395,E,0.172,-8.855,Minor,0.0317,115.0,4/4,0.702
+2018,5qm8ISXOho1EvFj6e4f4bG,She's Thunderstorms,Arctic Monkeys,Suck It and See,52,160.36,0.1346,0.0,True,Rock,49,0.000518,0.505,234920,0.898,0.00236,G,0.173,-4.906,Major,0.0329,118.929,4/4,0.731
+2018,7eX5SypK35V8Y9d9pS6rWy,I Can't Win,The Strokes,Room On Fire,52,98.25,0.2885,0.0192,True,Children’s Music,47,0.00492,0.473,161100,0.745,0.634,B,0.105,-4.819,Major,0.0321,97.449,4/4,0.405
+2018,12WtkO5DLE2CWjRGeXtwEW,40 Day Dream,Edward Sharpe & The Magnetic Zeros,Up from Below,51,141.7,0.2157,0.0588,True,Folk,59,0.228,0.573,233587,0.656,0.0,D,0.0651,-5.954,Major,0.0562,81.952,4/4,0.668
+2018,37adYGaYaAWTGhBaOzX4Fh,Take A Slice,Glass Animals,How To Be A Human Being,51,113.11,0.2745,0.0196,True,Children’s Music,56,0.0212,0.623,229718,0.661,0.000229,A,0.267,-7.0,Major,0.1,151.97,4/4,0.63
+2018,4RExr9x20tvTxcAtCVVUJh,Last Cabaret,The Growlers,Casual Acquaintances,51,124.81,0.1961,0.0,True,Indie,47,0.000178,0.618,195766,0.728,0.0104,B,0.572,-5.405,Minor,0.0272,115.004,4/4,0.85
+2018,6QgPBFvt3r9LeZDL5YsgJO,Pet Shop Eyes,The Growlers,Hung At Heart,51,103.12,0.3725,0.098,True,Indie,45,0.412,0.463,213600,0.839,0.497,F,0.686,-2.971,Major,0.0342,115.7,4/4,0.852
+2018,3NeiYiBn3rQBgurfVk92Zm,Humility (feat. George Benson),Gorillaz,The Now Now,50,122.77,0.14,0.06,True,Hip-Hop,69,0.144,0.632,197933,0.807,0.0211,C,0.125,-5.893,Major,0.126,160.174,4/4,0.784
+2018,78JmElAFmrPNhLjovDR9Jm,All Day and All of the Night,The Kinks,Kinks,49,84.79,0.2857,0.0612,True,Dance,69,0.262,0.551,141507,0.86,4.57e-06,G,0.0558,-7.839,Major,0.0796,136.921,4/4,0.723
+2018,1zFbBrZmJr1Z49HYe84dBg,Harvey,Her's,Invitation to Her's,48,150.6,0.1042,0.0,True,Indie,52,0.0735,0.588,211165,0.855,0.815,A,0.128,-6.153,Major,0.0372,141.941,4/4,0.717
+2018,2VrOrpMi5tyjs6sRYd5bPK,Tiny Umbrella,Coast Modern,Coast Modern,48,96.71,0.3958,0.0833,True,Indie,51,0.0134,0.606,207880,0.878,0.00407,B,0.339,-5.318,Major,0.0828,89.051,4/4,0.436
+2018,5KupfEBaVJwL7D2ZN0n1Q1,Trying Your Luck,The Strokes,Is This It,48,118.31,0.2083,0.0208,True,Children’s Music,50,0.00855,0.503,202760,0.689,0.0126,A,0.131,-9.424,Minor,0.0313,143.906,4/4,0.615
+2018,17jEoYoOfRD6dvNCMmC9n4,City Club,The Growlers,City Club,47,87.4,0.3404,0.0,True,Rock,59,0.00445,0.717,196673,0.77,1.79e-06,G,0.214,-6.083,Major,0.0268,110.501,4/4,0.739
+2018,6acDlNeA06MCVCzsTVGr9V,Cocoon,Milky Chance,Blossom,47,51.12,0.6809,0.0426,True,Pop,62,0.103,0.741,255160,0.671,0.000239,A#,0.0585,-6.805,Major,0.0338,114.031,4/4,0.808
+2018,2AT8iROs4FQueDv2c8q2KE,R U Mine?,Arctic Monkeys,AM,46,55.15,0.5217,0.1957,True,Rock,79,0.00616,0.288,201726,0.758,0.0,F#,0.303,-5.692,Minor,0.0371,97.094,4/4,0.619
+2018,2UVbBKQOdFAekPTRsnkzcf,Stir Fry,Migos,Culture II,46,50.67,0.4783,0.0435,True,Pop,81,0.00299,0.815,190288,0.816,0.0,D,0.159,-5.474,Major,0.269,181.967,4/4,0.498
+2018,08l9WKDuRyGeStQ9ojTlFh,Meet Me in the Bathroom,The Strokes,Room On Fire,45,106.91,0.0889,0.0,True,Children’s Music,47,6.7e-05,0.426,176160,0.94,0.883,G,0.0772,-3.973,Major,0.0337,139.952,4/4,0.595
+2018,0MjAN5HhvpRiPmxGNrx5oc,Lysergic Bliss,of Montreal,Satanic Panic In The Attic,45,104.13,0.3333,0.0444,True,Children’s Music,49,0.373,0.481,244013,0.747,0.0437,F#,0.102,-6.27,Minor,0.0513,110.994,4/4,0.827
+2018,7mwLlFNlWD4AOFoxPJTPwn,Speed Racer,Her's,Songs of Her's,45,50.63,0.5111,0.0667,True,Indie,45,0.0109,0.555,151722,0.957,0.379,F#,0.0426,-2.503,Minor,0.048,92.49,4/4,0.972
+2018,1spp1NXsz4rHcVaJhhndKa,Water,Ra Ra Riot,Need Your Light,44,77.0,0.5682,0.0455,True,Rock,61,0.131,0.575,280333,0.848,0.0,E,0.11,-4.297,Major,0.0885,159.941,4/4,0.42
+2018,0ofHAoxe9vBkTCp2UQIavz,Dreams - 2004 Remaster,Fleetwood Mac,Rumours,43,133.06,0.1163,0.1395,True,Rock,79,0.0644,0.828,257800,0.492,0.00428,C,0.128,-9.744,Major,0.0276,120.151,4/4,0.789
+2018,465hVdgg75kPgRdpJfEFFT,Seven,Rainbow Kitten Surprise,Seven + Mary,43,75.21,0.4651,0.0,True,Rock,61,0.0492,0.641,225413,0.531,0.0,D,0.118,-7.243,Major,0.157,135.564,4/4,0.194
+2018,78Gzxi27GuNHTfkn2BylG4,What Ever Happened?,The Strokes,Room On Fire,42,87.06,0.2143,0.0,True,Children’s Music,56,9.67e-05,0.547,169273,0.599,0.679,B,0.229,-6.057,Major,0.0344,116.165,4/4,0.587
+2018,7bfocP7GYoLOutUYpTI8tx,Welcome To Japan,The Strokes,Comedown Machine,42,122.61,0.1905,0.0476,True,Indie,59,0.00233,0.705,230827,0.666,0.0149,D,0.174,-7.23,Minor,0.0303,124.032,4/4,0.646
+2018,2WETO8PgRIdYLW4zz8xjnD,What You Were,The Drums,Portamento,41,77.69,0.3415,0.0,True,Indie,44,0.169,0.621,195280,0.829,0.495,G,0.32,-5.466,Major,0.025,105.072,4/4,0.235
+2018,5imMBAW7spQjapwJeZ0z3u,Underneath It All - Acoustic Live - German Radio,No Doubt,Rock Steady,41,122.34,0.1951,0.0732,True,Pop,58,0.838,0.665,226867,0.253,0.0,E,0.168,-7.326,Major,0.0505,142.252,4/4,0.477
+2018,6DUKQUhWqUySYngLXLNwP2,Automatic Stop,The Strokes,Room On Fire,41,116.93,0.1463,0.0244,True,Rock,57,0.00336,0.68,207029,0.536,0.737,C#,0.0884,-6.078,Major,0.0384,105.917,4/4,0.959
+2018,01MO5Ib9mCG7srUhZl52BA,Going Gets Tough,The Growlers,Chinese Fountain,40,76.48,0.375,0.0,True,Indie,59,0.219,0.5,208613,0.766,0.0,G#,0.109,-6.258,Major,0.0327,162.058,4/4,0.738
+2018,0LtOwyZoSNZKJWHqjzADpW,Feels Like We Only Go Backwards,Tame Impala,Lonerism,40,70.08,0.4,0.125,True,Rock,73,0.0453,0.31,192960,0.907,0.369,D,0.247,-2.279,Minor,0.0591,149.931,4/4,0.516
+2018,1FvDJ9KGxcqwv1utyPL3JZ,This Charming Man - 2011 Remaster,The Smiths,The Smiths,40,77.59,0.225,0.45,True,Indie,73,0.00509,0.611,162920,0.846,0.0,B,0.0784,-5.9,Major,0.0436,103.912,4/4,0.751
+2018,2374M0fQpWi3dLnB54qaLX,Africa,TOTO,Toto IV,40,91.95,0.35,0.15,True,Rock,85,0.257,0.671,295893,0.373,7.95e-05,A,0.0481,-18.064,Major,0.0323,92.717,4/4,0.732
+2018,2ZQ3CJY6iddn38oOoPGKfb,Night Ride,The Growlers,City Club,40,92.21,0.25,0.0,True,Rock,61,0.0136,0.613,251375,0.724,0.0,A,0.12,-4.798,Minor,0.0305,110.076,4/4,0.626
+2018,2jZgzSxNSg1hTCq0ewWHGJ,Junk Of The Heart (Happy),The Kooks,Junk Of The Heart,40,60.07,0.425,0.05,True,Indie,66,0.0212,0.604,187253,0.894,0.0,D,0.0299,-5.0,Major,0.037,145.014,4/4,0.901
+2018,3SUusuA9jH1v6PVwtYMbdv,Last Nite,The Strokes,Is This It,40,92.34,0.275,0.0,True,Rock,70,0.0223,0.624,193373,0.899,0.000155,C,0.0975,-5.71,Major,0.0295,104.055,4/4,0.797
+2018,61JDaStnXY3vbaEjliB5WA,Ghost Ship,Blur,The Magic Whip,40,162.38,0.2,0.275,True,Rock,61,0.0324,0.803,299133,0.722,0.00264,D,0.0763,-6.421,Major,0.0377,139.981,4/4,0.857
+2018,7HKez549fwJQDzx3zLjHKC,Start Me Up - Remastered 2009,The Rolling Stones,Tattoo You,40,70.45,0.425,0.025,True,Rock,76,0.0531,0.638,213067,0.928,0.11,F,0.0875,-4.078,Major,0.0388,122.428,4/4,0.966
+2018,0WQiDwKJclirSYG9v5tayI,There Is a Light That Never Goes Out - 2011 Remaster,The Smiths,The Queen Is Dead,39,131.6,0.1795,0.4103,True,Indie,72,0.04,0.523,244587,0.769,0.0,E,0.136,-5.855,Major,0.0269,136.162,4/4,0.876
+2018,3dJCbcLcqMKJVZ9Vd390K3,Far Away Truths,Albert Hammond Jr,Francis Trouble,39,126.48,0.1026,0.0256,True,Dance,56,0.000829,0.419,218000,0.866,0.0003,A,0.104,-3.944,Major,0.0463,162.061,4/4,0.764
+2018,3kKb3U3a8jmUJQB9ypE1Jl,Under Control,The Strokes,Room On Fire,39,94.51,0.2051,0.0769,True,Indie,53,0.341,0.401,187153,0.723,0.775,C#,0.0543,-4.651,Major,0.0291,90.596,4/4,0.66
+2018,53I7CviVHhNYEKth717RLG,Coins,Local Natives,Sunlit Youth,39,134.87,0.1026,0.0,True,Pop,62,0.0578,0.566,237693,0.576,0.0,F,0.0523,-4.859,Major,0.0365,138.045,4/4,0.607
+2018,5QqyRUZeBE04yJxsD1OC0I,Summer Bummer (feat. A$AP Rocky & Playboi Carti),Lana Del Rey,Lust For Life,39,110.29,0.1795,0.2308,True,Pop,67,0.0155,0.76,260672,0.574,2.02e-05,C#,0.199,-8.57,Major,0.126,134.981,4/4,0.137
+2018,01T0Kq5YOIRF9BQRXJsyfe,Portuguese Knife Fight,Cage The Elephant,Tell Me I'm Pretty,38,77.36,0.1842,0.0526,True,Rock,54,0.00144,0.56,217893,0.928,0.00292,F#,0.318,-4.594,Major,0.056,115.207,4/4,0.612
+2018,0jBE7Fn78EAvmIs3dCd6GO,Is This It,The Strokes,Is This It,38,50.1,0.4737,0.0263,True,Indie,58,0.147,0.667,151333,0.692,3.75e-05,F,0.349,-8.361,Major,0.0285,96.021,4/4,0.846
+2018,1F9WFVKQ0PT4EiZNoZQu2d,Sensitivity,Worn-Tin,Thanatophobia,38,79.44,0.3947,0.0526,True,Rock,49,0.0358,0.705,237742,0.529,0.00338,E,0.42,-6.585,Major,0.029,110.207,4/4,0.931
+2018,21Ay8Y9Pr91nSauPGtK6MW,Barely Legal,The Strokes,Is This It,38,106.37,0.2368,0.0526,True,Rock,55,0.00326,0.426,234693,0.884,0.0495,C,0.0903,-6.279,Major,0.0365,157.811,4/4,0.852
+2018,2GiJYvgVaD2HtM8GqD9EgQ,Electric Love,BØRNS,Dopamine,38,74.66,0.2895,0.1053,True,Indie,74,0.00543,0.611,218107,0.797,0.00137,F#,0.26,-7.627,Minor,0.0533,120.041,4/4,0.518
+2019,7IUBw7EUgcjzGV6zv9fkLX,Secret Door,Arctic Monkeys,Humbug,143,286.68,0.4266,0.007,True,Rock,48,0.0314,0.323,223067,0.806,1.11e-05,G,0.181,-6.554,Minor,0.0769,124.615,4/4,0.548
+2019,1Xtz05nIgJiEYdncfd1w8h,Soledad y el Mar (feat. Los Macorinos),Natalia Lafourcade,"Musas (Un Homenaje al Folclore Latinoamericano en Manos de Los Macorinos, Vol. 1)",141,251.99,0.4752,0.1773,True,Rock,60,0.896,0.726,214547,0.177,2.14e-06,C#,0.116,-14.824,Minor,0.0353,92.934,4/4,0.618
+2019,2CbtdkBeW9Znt4vXTOafAl,A Certain Romance,Arctic Monkeys,"Whatever People Say I Am, That's What I'm Not",134,482.37,0.306,0.0522,True,Rock,54,0.000566,0.455,331200,0.881,6.06e-05,B,0.11,-5.587,Major,0.0401,137.949,4/4,0.201
+2019,0hNhlwnzMLzZSlKGDCuHOo,Space Song,Beach House,Depression Cherry,124,404.68,0.2903,0.0,True,Pop,67,0.218,0.509,320467,0.79,0.125,C,0.144,-7.105,Minor,0.0293,147.073,4/4,0.625
+2019,7seSDB6TiLZarbicyDIjiQ,Batphone,Arctic Monkeys,Tranquility Base Hotel & Casino,115,388.64,0.1304,0.0522,True,Rock,56,0.312,0.675,271613,0.681,0.0,F,0.304,-5.728,Minor,0.0356,106.521,4/4,0.675
+2019,7Eso5mURNFprb5PmhOXDlf,La Plata (feat. Lalo Ebratt),Juanes,La Plata,102,263.36,0.1569,0.0,True,Rock,78,0.201,0.762,195493,0.74,0.0,C#,0.275,-4.72,Minor,0.226,167.881,4/4,0.961
+2019,6voR6zsWIn7vgZYGOFKYSZ,Can't Believe The Way We Flow,James Blake,Assume Form,99,302.36,0.2424,0.0202,True,Indie,65,0.705,0.259,267200,0.536,0.000501,G#,0.432,-10.309,Major,0.0367,143.948,4/4,0.29
+2019,37y7iDayfwm3WXn5BiAoRk,Dark Red,Steve Lacy,Dark Red,97,160.59,0.433,0.0103,True,R&B,68,0.449,0.603,173104,0.783,7.96e-06,F#,0.119,-4.023,Major,0.062,172.041,4/4,0.775
+2019,4VysGAsuHWHDxasPnTgwbo,The Ultracheese,Arctic Monkeys,Tranquility Base Hotel & Casino,93,202.77,0.2796,0.0108,True,Indie,60,0.624,0.476,217720,0.555,3.98e-05,A,0.126,-6.551,Major,0.0404,131.497,3/4,0.426
+2019,4vDQMtAXkPwRxEqM8oXtMQ,Omaha,Toro y Moi,Omaha,91,222.43,0.2198,0.0,True,Dance,57,0.0645,0.618,196791,0.498,0.0301,D#,0.291,-8.29,Major,0.0259,80.055,4/4,0.818
+2019,5Nhsz5O0DIS5Mh5E3tlBbp,Blood Under My Belt,The Drums,Abysmal Thoughts,91,238.54,0.2637,0.0,True,Indie,51,0.0932,0.595,228147,0.894,0.0165,G,0.2,-4.493,Major,0.0523,89.968,4/4,0.79
+2019,1WbLKgeGt4Ilo74WTByV6r,Maud Gone,Car Seat Headrest,Teens of Style,90,322.91,0.3556,0.0556,True,Indie,52,0.0258,0.53,358240,0.362,0.000601,F,0.101,-7.078,Major,0.0272,105.003,4/4,0.21
+2019,0FgNSsaSZTvbLXUumSO8LQ,Star Treatment,Arctic Monkeys,Tranquility Base Hotel & Casino,85,344.96,0.2353,0.0471,True,Rock,63,0.243,0.581,354640,0.767,0.00131,G,0.141,-5.026,Minor,0.0527,120.07,4/4,0.673
+2019,76GlO5H5RT6g7y0gev86Nk,Just like Heaven,The Cure,"Kiss Me, Kiss Me, Kiss Me",85,127.99,0.5294,0.1882,True,Children’s Music,65,0.0271,0.43,212000,0.971,2.16e-05,A,0.185,-3.845,Major,0.0524,151.219,4/4,0.764
+2019,0cs671lxX2eoDzr2KMuo3N,Here Comes Your Man,Pixies,Doolittle,84,112.64,0.5595,0.0,True,Rock,67,0.0451,0.664,201693,0.788,0.0416,D,0.117,-12.323,Major,0.0294,124.51,4/4,0.869
+2019,7wBJfHzpfI3032CSD7CE2m,STARGAZING,Travis Scott,ASTROWORLD,84,139.08,0.4167,0.4286,True,Rap,84,0.00947,0.487,270715,0.789,4.05e-06,G#,0.189,-3.69,Major,0.044,150.007,4/4,0.0564
+2019,62oCnK99vT8HOgwPsvXuiM,Chateau,Angus & Julia Stone,Snow,81,137.78,0.5556,0.284,True,Pop,63,0.658,0.661,273533,0.585,0.876,F,0.102,-11.255,Major,0.0367,129.98,4/4,0.606
+2019,4cQrSREMqBSvJ8ZzBZjVb8,Mile High (feat. Travis Scott & Metro Boomin),James Blake,Assume Form,80,183.31,0.2125,0.025,True,Indie,79,0.403,0.754,193600,0.37,6.22e-05,F#,0.107,-9.854,Minor,0.12,114.941,4/4,0.228
+2019,5KWV7S3osWbeOMPHCeWVyK,Bambi,Jidenna,The Chief,71,178.71,0.3803,0.0141,True,Rap,59,0.109,0.748,250000,0.623,0.0,F,0.15,-5.08,Major,0.0285,105.045,4/4,0.21
+2019,02tvc9CFnTyHuSRlGeNv9w,Corduroy Dreams,Rex Orange County,Bcos U Will Never B Free,68,168.05,0.2206,0.0294,True,Pop,74,0.653,0.61,206975,0.305,0.0,E,0.103,-14.037,Major,0.053,113.818,4/4,0.222
+2019,242UAWExQDujCkiQtLQvcu,Don’t You Know,Durand Jones & The Indications,American Love Call,67,139.29,0.2985,0.0299,True,Soul,46,0.637,0.68,200687,0.658,4.27e-05,E,0.107,-4.186,Minor,0.0339,96.041,4/4,0.722
+2019,0gmGBCJ5XhOmoNR37MmxEE,So What'Cha Want - Remastered 2009,Beastie Boys,Check Your Head,65,192.25,0.1385,0.0154,True,Hip-Hop,52,0.0469,0.7,216941,0.942,2.93e-05,F,0.0666,-7.355,Minor,0.237,171.37,4/4,0.766
+2019,0prVUHQu2xr6pI5iEbKtxo,Beautiful Strangers,Kevin Morby,Beautiful Strangers b/w No Place to Fall,65,264.12,0.2615,0.0308,True,Soul,58,0.762,0.826,375903,0.423,0.0689,E,0.105,-11.127,Major,0.0445,100.042,4/4,0.891
+2019,2xKfXRhw5xaUXfevJJspZf,Why Do Fools Fall in Love,Frankie Lymon,The Best Of Frankie Lymon & The Teenagers,63,168.9,0.0635,0.0,True,Blues,54,0.51,0.388,139667,0.532,3.06e-06,C#,0.0974,-8.685,Major,0.102,173.586,4/4,0.845
+2019,4WKdgb3xzbTSU7WT3kK3na,I Don't Owe You Anything - 2011 Remaster,The Smiths,The Smiths,63,115.12,0.4444,0.0635,True,Dance,52,0.0179,0.696,244640,0.432,0.0,E,0.142,-9.881,Major,0.0269,113.307,4/4,0.597
+2019,4tggZyGJMNJMooWuRbvN5q,Harness Your Hopes - (B-side),Pavement,Brighten the Corners: Nicene Creedence Ed.,63,93.96,0.5397,0.0159,True,Rock,62,0.289,0.605,206947,0.573,0.0406,D,0.133,-7.804,Major,0.037,107.882,4/4,0.581
+2019,5Bp3OmGILMam5w6KnafdKY,Young Love (feat. Laura Marling),Mystery Jets,Twenty One,63,128.91,0.3651,0.0,True,Dance,54,0.141,0.63,202293,0.942,2.12e-06,E,0.0958,-5.186,Major,0.0869,136.155,4/4,0.753
+2019,6JyEh4kl9DLwmSAoNDRn5b,4th Dimension,KIDS SEE GHOSTS,KIDS SEE GHOSTS,63,86.33,0.3651,0.2698,True,Rap,72,0.278,0.765,153351,0.542,1.87e-05,C#,0.609,-6.755,Major,0.39,171.945,4/4,0.734
+2019,75ZvA4QfFiZvzhj2xkaWAh,I Fall Apart,Post Malone,Stoney - Deluxe,61,76.24,0.541,0.2951,True,Rap,88,0.0689,0.556,223347,0.538,0.0,G#,0.196,-5.408,Minor,0.0382,143.95,4/4,0.291
+2019,17XvbAd3K1GOjWy5uQvK2U,Baby,Devendra Banhart,What Will We Be,60,75.78,0.55,0.0,True,Indie,55,0.0498,0.833,185787,0.325,0.0674,C#,0.15,-10.093,Minor,0.0404,102.02,4/4,0.864
+2019,1WypLBcOgtNO0meaWKBkVQ,The Boy,Shannon & The Clams,Onion,60,82.33,0.5333,0.0333,True,Indie,47,0.533,0.435,182787,0.88,0.666,A#,0.113,-5.248,Minor,0.0657,137.209,4/4,0.681
+2019,5T4j3Uv33fQO7tsR2lMl4y,Charlie Don't Surf - Remastered,The Clash,Sandinista! (Remastered),60,131.0,0.4667,0.0,True,Rock,56,0.0976,0.51,294093,0.595,0.0176,D,0.338,-11.021,Major,0.0378,131.761,4/4,0.64
+2019,41zXlQxzTi6cGAjpOXyLYH,idontwannabeyouanymore,Billie Eilish,dont smile at me,59,117.14,0.339,0.0,True,Pop,89,0.737,0.483,203569,0.412,0.0,G,0.116,-8.461,Major,0.0402,170.163,3/4,0.247
+2019,1JdArJ9NKCF9TQASGQgszg,The World's First Ever Monster Truck Front Flip,Arctic Monkeys,Tranquility Base Hotel & Casino,58,118.15,0.2931,0.0172,True,Indie,55,0.346,0.602,180013,0.601,0.349,A#,0.0735,-5.742,Major,0.0303,145.075,4/4,0.553
+2019,2d3QlXE6FXFDeodiS66yjM,Weekend Friend,Goth Babe,Weekend Friend,58,132.69,0.3966,0.0,True,Rock,61,0.032,0.409,209455,0.594,0.0391,C#,0.0904,-9.725,Major,0.031,110.187,4/4,0.212
+2019,0NA5xAtDra50d0Lfs2uvoh,Borrowed Love (feat. Swae Lee & WizKid),Metro Boomin,NOT ALL HEROES WEAR CAPES,57,63.69,0.6491,0.4035,True,Pop,73,0.44,0.52,230240,0.594,0.0,B,0.185,-8.81,Minor,0.462,129.216,5/4,0.393
+2019,27a1mYSG5tYg7dmEjWBcmL,CAN'T SAY,Travis Scott,ASTROWORLD,57,79.16,0.4211,0.3333,True,Pop,82,0.201,0.702,198408,0.708,0.0,A#,0.118,-5.366,Minor,0.0547,147.98,4/4,0.713
+2019,2dEVAvwPAJrWFErXxREGVX,Eres Tú,Carla Morrison,Déjenme Llorar,57,149.75,0.3158,0.0175,True,Pop,69,0.806,0.618,228253,0.307,0.0,D,0.108,-10.875,Major,0.046,188.115,4/4,0.458
+2019,3DamFFqW32WihKkTVlwTYQ,Fireflies,Owl City,Ocean Eyes,56,104.71,0.4464,0.0,True,Rock,79,0.0294,0.591,228347,0.649,0.0,D#,0.133,-6.72,Major,0.0417,90.002,4/4,0.489
+2019,56X1fzloIoGKKOgpLLIGoe,Old English,Young Thug,Old English,56,108.98,0.3214,0.3214,True,Hip-Hop,58,0.0408,0.809,201960,0.801,0.0,C#,0.353,-5.461,Major,0.407,81.94,4/4,0.744
+2019,00HIh9mVUQQAycsQiciWsh,Limestone,Magic City Hippies,Hippie Castle EP,55,119.41,0.2909,0.0545,True,Pop,62,0.282,0.706,209165,0.457,0.00849,E,0.0614,-9.359,Major,0.0383,78.014,4/4,0.723
+2019,0sSdFMuYrn3N9moumV466B,He Can Only Hold Her,Amy Winehouse,Back To Black,55,106.08,0.1818,0.0,True,Soul,59,0.0262,0.651,164880,0.835,0.00685,F#,0.056,-4.311,Minor,0.0649,98.411,4/4,0.692
+2019,2AKwcNHeGAqCpD6etK425X,One Point Perspective,Arctic Monkeys,Tranquility Base Hotel & Casino,55,128.93,0.3091,0.0182,True,Indie,62,0.057,0.714,208640,0.585,0.00444,G#,0.144,-4.57,Major,0.0419,77.104,4/4,0.842
+2019,0z9dPcBhJvqO06QMaKelUE,Drunk on Halloween,Wallows,Drunk on Halloween,54,113.16,0.4444,0.0,True,Rock,62,0.231,0.631,237027,0.634,1.3e-05,F#,0.0924,-4.456,Major,0.0247,100.967,4/4,0.774
+2019,4alHo6RGd0D3OUbTPExTHN,Just What I Needed,The Cars,The Cars,54,99.46,0.4259,0.0,True,Folk,68,0.0152,0.619,225627,0.579,6.4e-05,E,0.0858,-9.307,Major,0.0473,127.224,4/4,0.69
+2019,4wSWZjWH7a5eVxskGxO13w,The View From The Afternoon,Arctic Monkeys,"Whatever People Say I Am, That's What I'm Not",54,124.42,0.3889,0.0,True,Indie,50,0.00487,0.387,222947,0.922,0.0,A,0.187,-5.192,Minor,0.0674,146.478,4/4,0.417
+2019,7to68V64Cu6zk0UDo5tyw3,Confidence,Ocean Alley,Chiaroscuro,54,86.0,0.5556,0.0,True,Indie,74,0.0637,0.59,253077,0.562,0.0,B,0.105,-9.607,Minor,0.0505,140.835,4/4,0.561
+2019,0LtOwyZoSNZKJWHqjzADpW,Feels Like We Only Go Backwards,Tame Impala,Lonerism,53,74.74,0.4717,0.1321,True,Rock,73,0.0453,0.31,192960,0.907,0.369,D,0.247,-2.279,Minor,0.0591,149.931,4/4,0.516
+2019,0YRi3Gq2kkqfuaZ2L4rynD,Sleep Talk,Shannon & The Clams,Sleep Talk,53,78.95,0.3774,0.0,True,Folk,45,0.175,0.457,170587,0.789,0.0,A,0.107,-5.745,Major,0.0376,139.241,4/4,0.515
+2019,1NjmSXMzvwoM3lHmDRcUfs,Powa,Tune-Yards,W H O K I L L,53,213.64,0.1887,0.0377,True,Indie,50,0.677,0.753,303800,0.315,7.66e-05,F,0.129,-7.458,Major,0.0323,109.613,4/4,0.524
+2019,6u0ccx1pJICbSwCPMFCd1b,Avalon,Foxygen,Hang,53,97.76,0.4717,0.0,True,Folk,46,0.309,0.404,226027,0.601,0.000799,G,0.391,-7.683,Major,0.0337,134.118,4/4,0.656
+2019,1FvDJ9KGxcqwv1utyPL3JZ,This Charming Man - 2011 Remaster,The Smiths,The Smiths,52,57.97,0.5385,0.0,True,Indie,73,0.00509,0.611,162920,0.846,0.0,B,0.0784,-5.9,Major,0.0436,103.912,4/4,0.751
+2019,61JDaStnXY3vbaEjliB5WA,Ghost Ship,Blur,The Magic Whip,52,106.02,0.5,0.0385,True,Rock,61,0.0324,0.803,299133,0.722,0.00264,D,0.0763,-6.421,Major,0.0377,139.981,4/4,0.857
+2019,6bGwKHXHNLmTy6yt147FPh,If You Know You Know,Pusha T,DAYTONA,52,75.78,0.4231,0.3654,True,Pop,69,0.0186,0.46,202120,0.697,0.0,F#,0.362,-5.954,Minor,0.325,153.426,4/4,0.701
+2019,29EkMZmUNz1WsuzaMtVo1i,I Bet You Look Good On The Dancefloor,Arctic Monkeys,"Whatever People Say I Am, That's What I'm Not",51,98.42,0.3529,0.098,True,Rock,62,0.00225,0.535,173680,0.948,0.0,F#,0.376,-4.19,Minor,0.0356,103.183,4/4,0.778
+2019,7iMDaY1LnASwCk2uUpMtii,High (feat. Elton John),Young Thug,On the Run,51,60.93,0.549,0.4706,True,Hip-Hop,73,0.223,0.759,195160,0.498,5.84e-05,A#,0.406,-10.615,Major,0.0776,126.972,4/4,0.244
+2019,0H8XeaJunhvpBdBFIYi6Sh,Deja Vu,Post Malone,Stoney - Deluxe,50,143.63,0.22,0.04,True,Rap,77,0.0931,0.62,234213,0.69,0.0,G,0.131,-6.508,Major,0.0493,133.935,4/4,0.331
+2019,1n8wr8tRHs5jmBxNWXedcn,"Bands (feat. OhGeesy, Fenix Flexin & Master Kato)",Shoreline Mafia,Shoreline Mafia Presents Rob Vicious: Traplantic,50,46.5,0.54,0.34,True,Hip-Hop,80,0.371,0.9,174336,0.385,0.0,C#,0.142,-12.189,Minor,0.435,99.964,4/4,0.488
+2019,6EvUAsfncetT0RcWshHCbl,I'll Come Too,James Blake,Assume Form,50,181.89,0.1,0.18,True,R&B,68,0.757,0.661,222400,0.472,0.00275,G,0.192,-7.889,Major,0.164,73.986,4/4,0.206
+2019,6MWtB6iiXyIwun0YzU6DFP,Wow.,Post Malone,Wow.,50,63.99,0.48,0.36,True,Rap,99,0.163,0.833,149520,0.539,2.1e-06,B,0.101,-7.399,Minor,0.178,99.947,4/4,0.385
+2019,3nhzPKCm2yqGmgEhdAg19u,Four Out Of Five,Arctic Monkeys,Tranquility Base Hotel & Casino,49,145.81,0.3878,0.0204,True,Indie,66,0.0626,0.601,312347,0.863,0.0,C,0.0717,-4.31,Major,0.0685,130.189,4/4,0.676
+2019,57oJKJys4oC7NTR7hwZkPU,Science Fiction,Arctic Monkeys,Tranquility Base Hotel & Casino,49,82.44,0.4082,0.0204,True,Rock,55,0.0295,0.542,185907,0.766,0.0802,G,0.396,-5.411,Major,0.0282,88.062,4/4,0.643
+2019,6OwwTVRndoy9aoDxsmrteR,Australia,The Shins,Wincing The Night Away,49,109.67,0.3265,0.0408,True,Folk,64,0.00442,0.434,236733,0.842,0.000142,E,0.308,-4.468,Major,0.038,169.935,4/4,0.838
+2019,6l6LgnyNHL3U6UgSx5Aiph,Lets Go Surfing,The Drums,The Drums,49,92.58,0.2857,0.0,True,Rock,50,0.203,0.581,175427,0.821,0.000316,C#,0.0792,-5.648,Major,0.0319,174.083,4/4,0.806
+2019,7CqleiaEqHVazV19P532X9,Life During Wartime - 2005 Remaster,Talking Heads,Fear of Music,49,86.58,0.449,0.0,True,Dance,50,0.0806,0.801,221320,0.93,0.152,A,0.0558,-7.365,Major,0.0354,133.255,4/4,0.967
+2019,1H4idkmruFoJBg1DvUv2tY,Band On The Run - 2010 Remaster,Paul McCartney,Band On The Run,48,139.95,0.3542,0.0833,True,Rock,69,0.0832,0.479,313027,0.601,0.00142,G,0.11,-8.806,Major,0.0318,124.966,4/4,0.669
+2019,2Dmw4LdpDKYFjKZ7hj1XAh,Darlin',Houndmouth,Little Neon Limelight,48,136.12,0.3333,0.0,True,Rock,60,0.344,0.472,258480,0.347,0.0379,D#,0.101,-8.011,Major,0.0305,116.904,3/4,0.363
+2019,2DFRFqWNahKtFD112H2iEZ,Do You Realize??,The Flaming Lips,Yoshimi Battles the Pink Robots,47,54.17,0.6809,0.0,True,Rock,62,0.006,0.464,213173,0.797,0.000304,C,0.392,-5.244,Major,0.0333,129.964,4/4,0.547
+2019,6YDf6QV7QfCEo8O2dbWalK,Real Love Baby,Father John Misty,Real Love Baby,47,105.14,0.2553,0.0,True,Pop,66,0.0955,0.417,189293,0.687,0.0278,G,0.0989,-6.484,Major,0.0372,204.11,4/4,0.627
+2019,6sT8KTifge2F0lcdtyDkDa,The Next Time Around,Little Joy,Little Joy,47,76.12,0.3617,0.0638,True,Indie,42,0.844,0.748,156947,0.605,0.0711,A#,0.128,-7.987,Major,0.0316,120.019,4/4,0.964
+2019,2xcRTNxhhCL5HbCp4UGkjh,Brother,Mac DeMarco,Salad Days,46,69.23,0.5,0.0652,True,Indie,57,0.13,0.568,212746,0.674,0.0634,D#,0.431,-5.194,Minor,0.0301,93.194,4/4,0.512
+2019,4PpuZIMmeng6qPicveSI22,Beso,Jósean Log,Háblate de Mí,45,55.84,0.6444,0.0,True,Indie,66,0.599,0.793,211022,0.56,0.0,G,0.0952,-8.922,Minor,0.0324,123.011,4/4,0.862
+2019,56KqaFSGTb7ifpt16t5Y1N,Rock the Casbah - Remastered,The Clash,Combat Rock (Remastered),45,75.92,0.4444,0.0889,True,Dance,72,0.287,0.796,222427,0.872,0.0,A,0.284,-6.722,Minor,0.0573,129.894,4/4,0.866
+2019,7KmawNv6JUgZ54gSyVF6VQ,Let Her Go,Mac DeMarco,Salad Days,45,78.4,0.4,0.0889,True,Indie,59,0.00512,0.594,182607,0.663,0.123,F#,0.162,-7.588,Major,0.0292,111.123,4/4,0.806
+2019,0CyRloqqjpeKEAd3cO6J6z,We're Not Just Friends,"Parks, Squares and Alleys",We're Not Just Friends,44,31.5,0.7727,0.3636,True,Indie,55,0.502,0.655,187820,0.653,0.75,E,0.0781,-7.488,Major,0.0278,114.995,4/4,0.732
+2019,0mQiDbYxHElUp1eNpLZXaY,American Sports,Arctic Monkeys,Tranquility Base Hotel & Casino,44,81.8,0.2955,0.0227,True,Indie,57,0.00169,0.372,158040,0.865,0.00293,G,0.127,-4.288,Minor,0.0513,176.689,3/4,0.594
+2019,3geFzA6VBSNZUTmV3bCry6,Mardy Bum,Arctic Monkeys,"Whatever People Say I Am, That's What I'm Not",44,68.84,0.4091,0.0909,True,Rock,60,0.0288,0.634,175440,0.599,0.0,D,0.197,-5.447,Major,0.0365,112.215,4/4,0.312
+2019,7co8zvT6HJuyT81IDukyID,Tranquility Base Hotel & Casino,Arctic Monkeys,Tranquility Base Hotel & Casino,44,103.68,0.3182,0.0227,True,Rock,63,0.0411,0.584,212093,0.835,0.0147,A,0.199,-4.326,Minor,0.0297,142.2,4/4,0.781
+2019,02KpkaZbiutsR0ucxce4Sh,This Will Be Our Year,The Zombies,Odessey and Oracle,43,55.98,0.3721,0.2326,True,Rock,65,0.626,0.535,127733,0.424,0.0,A,0.191,-7.491,Major,0.0314,97.506,4/4,0.539
+2019,3Y4rUyw7XBCK6hGHCOt6rp,"Call It Fate, Call It Karma",The Strokes,Comedown Machine,43,61.68,0.5349,0.0233,True,Rock,63,0.983,0.544,204773,0.241,0.774,E,0.101,-14.779,Minor,0.03,109.437,4/4,0.359
+2019,5Z5YEyR5i8V8Ui2e5jGAAm,Veni Vidi Vici,Black Lips,Good Bad Not Evil,43,52.03,0.4884,0.0,True,Blues,43,0.283,0.666,148307,0.544,0.000801,B,0.15,-7.035,Minor,0.0303,107.335,4/4,0.713
+2019,6113aOfHIC0vbZVDZ6PpRV,Days,The Drums,Portamento,43,82.23,0.4651,0.0233,True,Indie,53,0.369,0.586,269082,0.721,0.16,D,0.141,-7.743,Major,0.0289,84.987,4/4,0.657
+2019,6dGnYIeXmHdcikdzNNDMm2,Here Comes The Sun - Remastered 2009,The Beatles,Abbey Road,43,59.24,0.4651,0.0233,True,Rock,82,0.0339,0.557,185733,0.54,0.00248,A,0.179,-10.484,Major,0.0347,129.171,4/4,0.394
+2019,72wEtgEkcLQ5x4F4ktiVSH,Pa' Mayté,Carlos Vives,La Tierra del Olvido,42,62.33,0.5238,0.0,True,Dance,59,0.0287,0.716,188720,0.871,6.32e-06,C,0.117,-7.336,Minor,0.0606,123.851,4/4,0.967
+2019,0F0imGVd7KnvQPkBmVtPo9,Leave Me Alone - 2015 Remaster,New Order,Power Corruption and Lies,41,71.13,0.6098,0.0,True,Electronic,50,0.0489,0.537,281773,0.862,0.505,G,0.1,-7.648,Major,0.028,134.831,4/4,0.879
+2019,0hQkqM37pYkOuWDDoxk3Ce,Vincent,James Blake,Vincent,41,131.05,0.3415,0.0976,True,R&B,56,0.968,0.409,309307,0.0856,0.000357,G,0.0877,-17.347,Major,0.0403,94.814,4/4,0.367
+2019,0yhxBvedRdGxsPZHJNI4VA,I Thought About Killing You,Kanye West,ye,41,85.98,0.2195,0.0732,True,Rap,67,0.867,0.752,274187,0.396,0.0,D,0.0486,-7.932,Major,0.411,116.016,4/4,0.417
+2019,1qsHYUd2c1wFGcn7e63QmG,Yikes,Kanye West,ye,41,107.19,0.1707,0.0,True,Rap,74,0.15,0.683,188773,0.776,0.0,C#,0.227,-3.251,Minor,0.341,173.996,4/4,0.223
+2019,2EbL9RN1CpNav0UzTQVRdm,Brighter!,Cass McCombs,Big Wheel and Others,41,92.54,0.3415,0.0244,True,Indie,60,0.217,0.625,236960,0.469,0.372,E,0.124,-11.292,Minor,0.0251,108.516,4/4,0.666
+2019,2JtL0a3NHcGkFQ7kfDLKUT,Swing Lo Magellan,Dirty Projectors,Swing Lo Magellan,41,48.35,0.5122,0.0488,True,Indie,53,0.825,0.738,157800,0.366,2.69e-05,F,0.118,-10.231,Minor,0.0324,101.031,4/4,0.507
+2019,3yEtuhGR8jOtusa29jWrhG,Tu Amor Me Hace Bien - Salsa Version,Marc Anthony,Valio La Pena,41,85.33,0.5366,0.0244,True,Pop,71,0.398,0.691,300160,0.658,4.58e-05,C,0.112,-6.496,Major,0.0359,97.68,4/4,0.617
+2019,4cMHCRLPNoEbpnl2rz6GS9,Back on the Chain Gang - 2007 Remaster,Pretenders,Learning to Crawl,41,75.85,0.3902,0.0,True,Rock,63,0.116,0.598,231120,0.901,0.0401,D,0.178,-6.081,Major,0.0359,153.24,4/4,0.814
+2019,70tBw295bLL8B13Jg3SNUs,Charley's Girl,Lou Reed,Coney Island Baby,41,41.45,0.6098,0.0244,True,Dance,51,0.126,0.748,159093,0.831,0.126,A,0.0483,-6.583,Major,0.0613,86.781,4/4,0.848
+2019,3NmndGYOIYocA5OTHMVoaw,Golden Trunks,Arctic Monkeys,Tranquility Base Hotel & Casino,40,78.94,0.3,0.025,True,Indie,57,0.129,0.492,173627,0.564,1.73e-05,D,0.131,-5.811,Major,0.0278,92.544,4/4,0.0896
+2019,4KGyQfes7t5BiaoBvs380e,Fake Tales Of San Francisco,Arctic Monkeys,"Whatever People Say I Am, That's What I'm Not",40,69.33,0.35,0.075,True,Rock,49,0.00998,0.454,177947,0.778,0.0,A,0.0427,-4.225,Major,0.0449,127.158,4/4,0.704
+2019,5RcuACCOhgoc4ZH57AVCLA,Feel Like A Fool,Kali Uchis,Isolation,40,68.87,0.375,0.0,True,Pop,58,0.0245,0.7,185239,0.812,0.0,D#,0.102,-4.8,Major,0.0311,107.983,4/4,0.855
+2019,5uplevkaUGRLExATEbSQiR,Someday,The Growlers,Hung At Heart,40,101.95,0.325,0.075,True,Indie,48,0.953,0.402,215780,0.772,0.86,A#,0.172,-4.578,Major,0.0394,156.116,4/4,0.748
+2019,6gdCb962lq0Xdg7ypVLuLt,Harvest Moon - Recorded at Spotify Studios NYC,Lord Huron,Spotify Singles,40,143.91,0.275,0.0,True,Folk,56,0.803,0.417,346373,0.285,0.005,D,0.269,-11.041,Major,0.0346,120.954,1/4,0.243
+2019,0V34LU5aBA3hYgq178hFFY,Birds Dont Sing,TV Girl,French Exit,39,48.15,0.5385,0.0,True,Rock,59,0.016,0.612,209347,0.942,0.0,G,0.137,-4.549,Major,0.0568,106.57,4/4,0.807
+2019,1tzPSule9WZ9B8SujHv8fp,This Head I Hold,Electric Guest,Mondo,39,45.68,0.5385,0.2564,True,Dance,59,0.0255,0.596,175773,0.871,0.0101,D,0.249,-4.912,Minor,0.0375,80.939,4/4,0.961
+2020,4xvpttkjjEH0l2hrizYla7,Perdido de Amor [Lost in Love],Luiz Bonfá,Solo in Rio 1959,145,317.66,0.331,0.0138,True,Jazz,41,0.947,0.488,206067,0.0374,0.000191,G,0.147,-22.637,Major,0.0403,87.275,4/4,0.259
+2020,1Xtz05nIgJiEYdncfd1w8h,Soledad y el Mar (feat. Los Macorinos),Natalia Lafourcade,"Musas (Un Homenaje al Folclore Latinoamericano en Manos de Los Macorinos, Vol. 1)",130,319.99,0.2923,0.2769,True,Rock,60,0.896,0.726,214547,0.177,2.14e-06,C#,0.116,-14.824,Minor,0.0353,92.934,4/4,0.618
+2020,48ucaKjccruxDbi3Au5ZaH,The Bad Thing,Arctic Monkeys,Favourite Worst Nightmare,118,37.79,0.8559,0.0085,True,Indie,46,0.00118,0.545,143213,0.953,0.0,D,0.26,-3.737,Major,0.0703,111.121,4/4,0.591
+2020,4PGWramunj3Bsz5UXCu4ex,Anyways,Arctic Monkeys,Tranquility Base Hotel & Casino,109,223.4,0.4037,0.0,True,Indie,60,0.529,0.284,221230,0.576,3.91e-05,E,0.187,-6.972,Major,0.035,82.527,4/4,0.323
+2020,6gGSSrKMiV2yec1DrqGhhy,Always Where I Need To Be,The Kooks,Konk,100,125.08,0.5,0.01,True,Rock,58,0.000146,0.331,161720,0.961,0.0,B,0.322,-4.627,Major,0.0663,168.355,4/4,0.882
+2020,5TTGoX70AFrTvuEtqHK37S,No. 1 Party Anthem,Arctic Monkeys,AM,94,201.1,0.3723,0.0319,True,Indie,67,0.33,0.505,243132,0.698,0.0887,C,0.0966,-5.563,Major,0.0297,115.013,4/4,0.599
+2020,26XfDH9AoT6dVpmKVJHBMf,Wavy Gravy,Okey Dokey,"Love You, Mean It",92,266.41,0.3043,0.0978,True,Indie,47,0.252,0.221,227280,0.662,0.000149,G,0.266,-7.314,Major,0.0519,199.924,3/4,0.539
+2020,4bKpnMKt2vBOQ1wZHGEJJO,No Buses,Arctic Monkeys,Who The F*** Are Arctic Monkeys?,92,113.58,0.5435,0.0217,True,Indie,51,0.155,0.481,197320,0.524,0.000147,E,0.0523,-9.051,Major,0.0369,101.883,4/4,0.425
+2020,7nzsY8vlnKdvGOEE0rjAXZ,Arabella,Arctic Monkeys,AM,92,168.34,0.413,0.0326,True,Rock,74,0.0202,0.579,207357,0.558,1.26e-06,D,0.212,-6.986,Major,0.0895,179.949,4/4,0.506
+2020,4iURgDfsolmCJtknzWuyxj,These Girls,Sticky Fingers,Caress Your Soul,90,185.79,0.3,0.0111,True,Reggae,66,0.327,0.358,205787,0.585,2e-06,F#,0.0864,-8.762,Major,0.0776,185.392,4/4,0.407
+2020,3buvRn4CDX86EO9LHTITGn,Heartbreaker - Remaster,Led Zeppelin,Led Zeppelin II,87,184.96,0.4023,0.0115,True,Rock,50,0.0797,0.381,254068,0.734,0.0469,D,0.173,-8.917,Major,0.0933,96.614,4/4,0.565
+2020,6EvUAsfncetT0RcWshHCbl,I'll Come Too,James Blake,Assume Form,86,272.9,0.1279,0.1395,True,R&B,68,0.757,0.661,222400,0.472,0.00275,G,0.192,-7.889,Major,0.164,73.986,4/4,0.206
+2020,5FVd6KXrgO9B3JPmC8OPst,Do I Wanna Know?,Arctic Monkeys,AM,82,167.87,0.4512,0.0366,True,Rock,84,0.186,0.548,272394,0.532,0.000263,F,0.217,-7.596,Major,0.0323,85.03,4/4,0.405
+2020,28J7s6ylqLYzBUTBSUyEjm,Still Take You Home,Arctic Monkeys,"Whatever People Say I Am, That's What I'm Not",81,179.66,0.3704,0.0123,True,Indie,47,0.000669,0.599,173667,0.946,0.0,G#,0.0973,-4.192,Major,0.0378,108.934,4/4,0.653
+2020,2dEVAvwPAJrWFErXxREGVX,Eres Tú,Carla Morrison,Déjenme Llorar,80,172.07,0.35,0.0125,True,Pop,69,0.806,0.618,228253,0.307,0.0,D,0.108,-10.875,Major,0.046,188.115,4/4,0.458
+2020,1NGodWzGlxxkOrgqHO6g3K,The Eternal Tao,The Voidz,The Eternal Tao,78,178.86,0.3333,0.0128,True,Alternative,48,0.0115,0.703,223633,0.79,9.59e-06,G#,0.352,-4.212,Major,0.0807,135.362,4/4,0.635
+2020,71D4LseR0RADPbyvMeTIHR,Can't Stand Me Now,The Libertines,The Libertines,77,127.03,0.4545,0.039,True,Rock,66,0.0111,0.368,203733,0.935,0.00201,E,0.0948,-3.204,Major,0.0587,164.425,4/4,0.558
+2020,63SevszngYpZOwf63o61K4,Nevermind,Dennis Lloyd,Nevermind,76,72.54,0.5921,0.0132,True,Pop,84,0.156,0.592,156600,0.691,9.78e-06,D#,0.418,-8.354,Major,0.196,99.976,4/4,0.0796
+2020,6hFHsQWB7HdVrSe7efRR82,Como te extraño mi amor,Café Tacvba,Avalancha de éxitos,74,147.19,0.4189,0.0676,True,Children’s Music,70,0.0823,0.791,214880,0.759,4.44e-05,A,0.0993,-5.67,Major,0.037,124.725,4/4,0.917
+2020,1U5dJjrL6yq7IH6keAyWOe,What I'm Becoming,Cage The Elephant,Social Cues,72,208.49,0.2361,0.0417,True,Blues,52,0.00366,0.57,230040,0.472,0.00275,C,0.0891,-5.175,Major,0.0285,134.974,4/4,0.219
+2020,1S9VJIS4unNB2D6SEf4BbD,Do You Love Me Still?,The Kooks,Inside In / Inside Out,71,101.04,0.4648,0.0,True,Indie,46,0.218,0.408,195307,0.412,0.000514,C#,0.17,-8.807,Minor,0.0386,138.178,4/4,0.0804
+2020,31u6rUeIEXGrYVoh10U7eu,Leave It In My Dreams,The Voidz,Virtue,71,179.73,0.4225,0.0563,True,Alternative,53,0.0226,0.6,239442,0.746,0.0119,E,0.109,-4.696,Minor,0.0355,118.551,4/4,0.614
+2020,73M2Vb5MfZh8iGKudkMtlw,Always Like This,Bombay Bicycle Club,I Had The Blues But I Shook Them Loose,69,146.35,0.4638,0.0145,True,Rock,66,0.444,0.579,245640,0.605,0.000645,C#,0.11,-6.686,Major,0.0328,121.793,4/4,0.74
+2020,01RbsjW5FmljeVje00TjT1,Momo's,Connan Mockasin,Jassbusters,68,166.65,0.2647,0.2206,True,Folk,40,0.977,0.655,218000,0.128,0.119,A#,0.0993,-13.709,Minor,0.0323,63.061,3/4,0.098
+2020,5OuJTtNve7FxUX82eEBupN,Tommy's Party,Peach Pit,Being So Normal,66,121.96,0.6515,0.0152,True,Indie,62,0.122,0.565,361760,0.438,0.0469,G,0.108,-8.722,Major,0.0311,133.949,4/4,0.211
+2020,1W0OCrMsRP1SLTEdw3JwEz,"Sweet Dreams, TN",The Last Shadow Puppets,Everything You've Come To Expect,65,131.68,0.4,0.0,True,Rock,61,0.000878,0.282,236253,0.566,0.0,B,0.38,-6.924,Minor,0.0291,112.362,3/4,0.477
+2020,4cQrSREMqBSvJ8ZzBZjVb8,Mile High (feat. Travis Scott & Metro Boomin),James Blake,Assume Form,65,147.79,0.2462,0.0154,True,Indie,79,0.403,0.754,193600,0.37,6.22e-05,F#,0.107,-9.854,Minor,0.12,114.941,4/4,0.228
+2020,1Jte640nBiOWyuD7N0odNZ,In Transit,Albert Hammond Jr,Yours to Keep,64,103.19,0.4688,0.0469,True,Blues,42,0.00202,0.468,212680,0.715,0.733,E,0.087,-3.101,Minor,0.0558,141.01,4/4,0.6
+2020,7e8utCy2JlSB8dRHKi49xM,Fluorescent Adolescent,Arctic Monkeys,Favourite Worst Nightmare,64,121.89,0.4219,0.0469,True,Indie,67,0.00178,0.646,173493,0.813,2.26e-05,F#,0.144,-5.29,Minor,0.0288,112.115,4/4,0.821
+2020,0XnhQGfqfi5CnZXcONJuI5,Good Lovin' - Single Version,The Young Rascals,The Young Rascals,62,86.95,0.4355,0.0323,True,Folk,52,0.00206,0.252,150907,0.507,0.00057,D,0.325,-13.337,Major,0.0442,196.494,4/4,0.816
+2020,2d9Xw1OiRL8ca2K4A03aD3,Little Queenie,SadGirl,Vol. Three: The Hand That Did the Deed,62,128.85,0.2097,0.0484,True,Indie,49,0.908,0.572,170251,0.236,0.00492,G#,0.108,-12.164,Major,0.0431,134.731,4/4,0.313
+2020,0639sfoRA7sW4fGS1EzcQu,Loco (Tu Forma de Ser) [Ft. Rubén Albarrán] - MTV Unplugged,Los Auténticos Decadentes,Fiesta Nacional (Mtv Unplugged),61,134.22,0.4754,0.0164,True,Alternative,70,0.395,0.587,249307,0.639,0.0,G,0.68,-8.065,Major,0.0357,116.499,4/4,0.789
+2020,0FgNSsaSZTvbLXUumSO8LQ,Star Treatment,Arctic Monkeys,Tranquility Base Hotel & Casino,61,182.13,0.3934,0.2131,True,Rock,63,0.243,0.581,354640,0.767,0.00131,G,0.141,-5.026,Minor,0.0527,120.07,4/4,0.673
+2020,3BcQFPRZuuUClWStz29WjN,Old Yellow Bricks,Arctic Monkeys,Favourite Worst Nightmare,61,53.93,0.6557,0.0164,True,Rock,55,0.000185,0.663,187133,0.839,4.65e-06,C,0.0808,-4.453,Major,0.0695,135.155,4/4,0.75
+2020,5jJPcImQkogKdwsVS36zH7,Marilyn,Mount Kimbie,Love What Survives,61,86.58,0.5902,0.0164,True,Children’s Music,58,0.351,0.271,246704,0.486,0.156,C,0.0894,-11.956,Minor,0.0407,179.826,3/4,0.31
+2020,6zWU7YALeEDMcPGhKKZJhV,Navajo,Masego,Navajo,61,112.26,0.2951,0.0656,True,Children’s Music,70,0.114,0.686,194157,0.592,1.16e-06,F#,0.248,-7.398,Minor,0.26,89.013,4/4,0.364
+2020,0TeHvhaNBSuv7yGQ9dLouv,Half Full Glass Of Wine,Tame Impala,Tame Impala,60,150.21,0.2833,0.1,True,Rock,51,0.27,0.686,266920,0.779,0.0617,C,0.0785,-7.178,Major,0.0751,126.146,4/4,0.665
+2020,4SNtyKNyYJ8ERT7YLlnFBr,So Young,Portugal. The Man,Woodstock,60,101.06,0.4333,0.1,True,Indie,65,0.348,0.671,246480,0.445,5.93e-05,E,0.155,-7.842,Minor,0.0291,75.996,4/4,0.811
+2020,5GxqKrG0zeKA8uYJMjXwj9,Rock the House,Gorillaz,Gorillaz,60,133.36,0.3833,0.0167,True,Hip-Hop,49,0.0748,0.754,249200,0.825,7.18e-05,D,0.169,-6.498,Major,0.237,171.948,4/4,0.612
+2020,086myS9r57YsLbJpU0TgK9,Why'd You Only Call Me When You're High?,Arctic Monkeys,AM,56,82.46,0.3571,0.0714,True,Rock,78,0.0483,0.691,161124,0.631,1.13e-05,D,0.104,-6.478,Major,0.0368,92.004,4/4,0.8
+2020,5GiygyFRSZ2jey4almSmrL,Shabop Shalom,Devendra Banhart,Smokey Rolls Down Thunder Canyon,56,101.53,0.5536,0.0357,True,Folk,40,0.567,0.558,278213,0.377,0.861,A,0.135,-13.967,Minor,0.0316,103.523,4/4,0.617
+2020,5H6Jp0syB5yEPk7SWYdlmk,The Wind Cries Mary,Jimi Hendrix,Are You Experienced,56,92.97,0.4107,0.0714,True,Rock,63,0.348,0.499,200733,0.495,0.0286,F,0.2,-10.508,Major,0.0501,80.086,4/4,0.339
+2020,07ahbydCmD0CLoN2zIx8bR,"I'm The Man, That Will Find You",Connan Mockasin,Caramel,55,113.91,0.5091,0.0364,True,Folk,45,0.622,0.457,301693,0.316,0.00163,G,0.101,-9.831,Minor,0.0403,143.462,4/4,0.308
+2020,0fDFzVTG8c2fW9EM5f1RHM,Indian Food,Dumbo Gets Mad,Quantum Leap,55,106.03,0.3818,0.0182,True,Indie,51,0.765,0.561,213786,0.896,0.685,D,0.124,-4.903,Major,0.0528,86.808,4/4,0.629
+2020,61JDaStnXY3vbaEjliB5WA,Ghost Ship,Blur,The Magic Whip,55,108.91,0.4545,0.0364,True,Rock,61,0.0324,0.803,299133,0.722,0.00264,D,0.0763,-6.421,Major,0.0377,139.981,4/4,0.857
+2020,0qp8MuZNKelOGTK2HPlXBA,Kids Turned Out Fine,A$AP Rocky,TESTING,54,94.58,0.3333,0.0185,True,Pop,68,0.271,0.305,183120,0.668,3.8e-05,C#,0.369,-9.404,Major,0.222,163.314,5/4,0.128
+2020,44i6jEICONcpRzd3Tyejlp,Feel Me - Single Version,Aeris Roves,Feel Me,54,101.81,0.3519,0.0556,True,R&B,53,0.835,0.667,211766,0.356,1.42e-05,B,0.125,-10.464,Minor,0.46,177.897,4/4,0.513
+2020,4iwpCp7qdDLngGI3gsVTza,Miracle Aligner,The Last Shadow Puppets,Everything You've Come To Expect,54,86.21,0.5926,0.037,True,Rock,61,0.0124,0.562,245728,0.724,1.42e-06,F#,0.223,-8.627,Minor,0.0271,113.056,4/4,0.855
+2020,6TIOhfnPBw0k5s3KHN3VHO,A Different Age,Current Joys,A Different Age,54,178.48,0.3148,0.0,True,Rock,54,0.637,0.627,412418,0.371,0.0643,D,0.0759,-10.621,Major,0.0269,143.935,4/4,0.361
+2020,2QUlMbvD9bL8wHqfsoqoet,Stop The World I Wanna Get Off With You,Arctic Monkeys,Why'd You Only Call Me When You're High?,53,68.03,0.4717,0.0189,True,Indie,63,0.0537,0.661,191040,0.73,3.44e-05,F#,0.14,-6.779,Minor,0.0574,95.027,4/4,0.53
+2020,2AT8iROs4FQueDv2c8q2KE,R U Mine?,Arctic Monkeys,AM,52,65.69,0.5192,0.0192,True,Rock,79,0.00616,0.288,201726,0.758,0.0,F#,0.303,-5.692,Minor,0.0371,97.094,4/4,0.619
+2020,4VysGAsuHWHDxasPnTgwbo,The Ultracheese,Arctic Monkeys,Tranquility Base Hotel & Casino,52,79.93,0.5192,0.3269,True,Indie,60,0.624,0.476,217720,0.555,3.98e-05,A,0.126,-6.551,Major,0.0404,131.497,3/4,0.426
+2020,58ge6dfP91o9oXMzq3XkIS,505,Arctic Monkeys,Favourite Worst Nightmare,52,113.08,0.4231,0.0192,True,Indie,63,0.00237,0.52,253587,0.852,5.79e-05,C,0.0733,-5.866,Major,0.0543,140.267,4/4,0.234
+2020,6wNUBZNWFxdUGof6vkaykE,One For The Road,Arctic Monkeys,AM,52,100.01,0.3462,0.0577,True,Rock,67,0.212,0.415,206052,0.668,0.0615,C,0.27,-6.849,Major,0.036,180.048,4/4,0.842
+2020,55DyBUkjebkcYhDGfEXitR,Cariño,The Marías,Cariño,51,102.42,0.4314,0.0392,True,R&B,59,0.401,0.647,258714,0.388,0.0453,C,0.117,-13.718,Minor,0.0297,113.98,4/4,0.669
+2020,5XeFesFbtLpXzIVDNQP22n,I Wanna Be Yours,Arctic Monkeys,AM,50,100.89,0.4,0.04,True,Indie,73,0.136,0.464,183956,0.417,0.022,C,0.0974,-9.345,Minor,0.0256,67.528,4/4,0.479
+2020,5gRcv46AMTrosmTOqrOV3Q,Dumb,Nirvana,In Utero,50,55.61,0.52,0.02,True,Children’s Music,62,0.425,0.695,151893,0.394,0.738,F#,0.228,-13.585,Major,0.029,113.623,4/4,0.845
+2020,1j9rezdE3YeC7yktZXC1em,I Want It All,Arctic Monkeys,AM,49,49.97,0.551,0.0408,True,Indie,64,0.000637,0.499,185406,0.81,0.0748,F,0.0625,-5.579,Major,0.0347,131.052,4/4,0.288
+2020,11zf7m4vw9Ze7cer9Nyhk1,Pleaser,Wallows,Pleaser,48,61.44,0.5417,0.1042,True,Rock,68,0.126,0.497,187896,0.914,1.98e-05,A,0.274,-4.308,Major,0.0455,148.893,4/4,0.385
+2020,11DdPGqDsM3ux1gVAqUIln,Balaclava,Arctic Monkeys,Favourite Worst Nightmare,47,77.69,0.3404,0.0,True,Rock,50,0.00168,0.417,167440,0.824,8.09e-05,B,0.343,-4.524,Minor,0.105,137.836,4/4,0.642
+2020,4gZDCOFuLCxCRWNhSEcOtJ,These Days,Wallows,Spring EP,47,88.94,0.3617,0.0,True,Rock,67,0.0398,0.655,202627,0.668,0.0302,C,0.0759,-6.733,Major,0.0272,93.003,4/4,0.867
+2020,61OkcfgMfjlJQ7MJPU0HLz,Dance Little Liar,Arctic Monkeys,Humbug,47,154.05,0.1702,0.1064,True,Indie,45,0.0586,0.538,283493,0.607,0.769,C#,0.0975,-9.133,Minor,0.0352,100.158,4/4,0.543
+2020,6YWtvUPKgCYSiPDBuAjj0Q,Crust Bucket,The Frights,The Frights,47,111.45,0.4043,0.0,True,Indie,51,0.0663,0.204,259239,0.858,0.0032,E,0.371,-4.655,Major,0.076,166.02,3/4,0.268
+2020,6kcHg7XL6SKyPNd78daRBL,Sweet Talk,Saint Motel,saintmotelevision,47,84.95,0.3617,0.0213,True,Children’s Music,62,0.0392,0.67,192040,0.843,0.0,C#,0.225,-4.311,Major,0.0454,117.01,4/4,0.713
+2020,73mlvsfJM2qwlDUJxeaatI,Daft Punk Is Playing at My House,LCD Soundsystem,LCD Soundsystem,47,74.33,0.5745,0.0213,True,Dance,59,0.0222,0.92,314557,0.914,7.62e-05,G,0.114,-4.555,Major,0.0444,135.923,4/4,0.974
+2020,6giLMzQSzjxQ7T2kmRhlVb,Piel Canela,Mi Sobrino Memo,Piel Canela,46,65.25,0.5435,0.0,True,Indie,59,0.656,0.734,212500,0.697,0.0,F#,0.124,-6.104,Major,0.0326,120.04,4/4,0.58
+2020,6m6R6O2BOZDCNymhJ45spI,Loner,Kali Uchis,Por Vida,46,29.77,0.7826,0.0,True,R&B,61,0.873,0.722,212000,0.675,0.118,C#,0.305,-5.61,Minor,0.0775,120.012,4/4,0.507
+2020,0MHXrqn909p0LRTPsNsGEi,Move on Up - Single Edit,Curtis Mayfield,Move on Up,45,45.51,0.6222,0.0222,True,Soul,61,0.417,0.538,165790,0.969,0.00154,B,0.119,-5.626,Minor,0.0906,138.652,4/4,0.928
+2020,0oakHTPj4SF7Si0NAsLwi8,Las flores,Café Tacvba,Re,45,101.77,0.1556,0.3556,True,Children’s Music,64,0.186,0.615,135133,0.928,4.4e-06,A#,0.147,-4.218,Major,0.0412,156.926,4/4,0.962
+2020,0tZ3mElWcr74OOhKEiNz1x,Bulls On Parade,Rage Against The Machine,Evil Empire,45,92.47,0.3556,0.0,True,Rap,74,0.0124,0.412,229467,0.919,0.0601,F,0.424,-7.291,Major,0.184,166.367,4/4,0.572
+2020,2os0aK782bakCPmjow0SU0,Drunk Drivers/Killer Whales,Car Seat Headrest,Teens of Denial,45,101.03,0.5778,0.0889,True,Rock,60,0.218,0.534,374653,0.414,2.11e-06,D,0.103,-7.952,Major,0.0403,117.079,4/4,0.458
+2020,3DPFmwFtV5ElQaTniLOdgk,Hunnybee,Unknown Mortal Orchestra,Sex & Food,45,86.35,0.4889,0.0222,True,Hip-Hop,69,0.569,0.956,268333,0.373,0.394,F#,0.314,-7.963,Major,0.0773,119.994,4/4,0.568
+2020,4hSfY4G2SIUlwGViX1ve6J,The Art School Kids,Slow Hollows,Atelophobia,45,50.03,0.5333,0.0,True,Indie,50,0.326,0.493,146361,0.395,0.0169,B,0.393,-18.211,Minor,0.0282,111.665,4/4,0.536
+2020,5Bp3OmGILMam5w6KnafdKY,Young Love (feat. Laura Marling),Mystery Jets,Twenty One,45,40.54,0.6444,0.0,True,Dance,54,0.141,0.63,202293,0.942,2.12e-06,E,0.0958,-5.186,Major,0.0869,136.155,4/4,0.753
+2020,6OpU3cvY19M2hFxTbLKy5L,Juno,Choker,Honeybloom,45,79.03,0.5111,0.0667,True,Children’s Music,57,0.921,0.442,231681,0.267,0.00026,G,0.148,-12.857,Major,0.0365,120.075,4/4,0.116
+2020,1GC1MIaRMW3kfVK9VyD5Ii,Tous les mêmes,Stromae,Racine Carrée - Standard US Version,44,47.31,0.6591,0.0455,True,Pop,55,0.208,0.676,210933,0.651,0.0026,F,0.278,-9.088,Minor,0.135,110.02,4/4,0.631
+2020,3jZ0GKAZiDMya0dZPrw8zq,Desire Lines,Deerhunter,Halcyon Digest,44,81.48,0.6818,0.0227,True,Folk,59,0.0565,0.318,404413,0.918,0.293,D,0.659,-6.288,Major,0.0373,120.567,4/4,0.6
+2020,3onYsieuDICdVt5ULZSExF,Barefoot In The Park (feat. ROSALÍA),James Blake,Assume Form,44,95.46,0.3636,0.0682,True,Indie,71,0.832,0.558,211200,0.632,0.105,A,0.198,-8.339,Minor,0.284,161.764,4/4,0.519
+2020,2LGdO5MtFdyphi2EihANZG,Knee Socks,Arctic Monkeys,AM,43,77.62,0.5116,0.093,True,Indie,69,0.123,0.665,257563,0.542,0.00291,B,0.342,-8.323,Minor,0.033,97.975,4/4,0.587
+2020,2wF5p2dfUbEiqAnCRVNwmK,Tenderness,Parquet Courts,Wide Awake!,43,55.22,0.5814,0.0465,True,Rock,58,0.165,0.716,186107,0.736,0.000171,G,0.0746,-3.761,Major,0.0363,98.005,4/4,0.945
+2020,7gsArdm7rk6X6wsMr2QKWS,From The Ritz To The Rubble,Arctic Monkeys,"Whatever People Say I Am, That's What I'm Not",43,48.22,0.4186,0.0465,True,Rock,54,0.00147,0.216,193427,0.882,0.0,B,0.308,-5.176,Minor,0.0439,189.286,4/4,0.656
+2020,0NdTUS4UiNYCNn5FgVqKQY,Snap Out Of It,Arctic Monkeys,AM,42,64.01,0.4524,0.0714,True,Rock,73,0.249,0.728,193030,0.638,0.0,F,0.116,-6.455,Minor,0.0336,130.014,4/4,0.872
+2020,0cgWTzGYVUWELohSykTxrb,Moi c'est,Camélia Jordana,Camelia Jordana,42,24.36,0.7619,0.0476,True,Indie,53,0.762,0.862,170893,0.409,0.0871,F#,0.0927,-10.255,Minor,0.0399,135.013,4/4,0.8
+2020,2PuUFT13yCzUOZun94WOXv,Suite: Judy Blue Eyes - 2005 Remaster,"Crosby, Stills & Nash","Crosby, Stills & Nash",42,82.29,0.6905,0.0238,True,Folk,66,0.469,0.451,444053,0.364,0.0,A,0.197,-13.126,Major,0.0436,154.206,4/4,0.298
+2020,3nhzPKCm2yqGmgEhdAg19u,Four Out Of Five,Arctic Monkeys,Tranquility Base Hotel & Casino,42,80.54,0.5238,0.2381,True,Indie,66,0.0626,0.601,312347,0.863,0.0,C,0.0717,-4.31,Major,0.0685,130.189,4/4,0.676
+2020,0x47zt71IYykbt1ET933pJ,Hiding tonight,Alex Turner,Submarine - Original Songs From The Film By Alex Turner,41,87.37,0.3902,0.1707,True,Rock,47,0.915,0.543,186720,0.122,0.0,C,0.373,-18.863,Major,0.0337,99.835,4/4,0.282
+2020,2AKwcNHeGAqCpD6etK425X,One Point Perspective,Arctic Monkeys,Tranquility Base Hotel & Casino,41,68.37,0.5122,0.2683,True,Indie,62,0.057,0.714,208640,0.585,0.00444,G#,0.144,-4.57,Major,0.0419,77.104,4/4,0.842
+2020,2M7enaZSs1DRRjZscA4LAj,Reminiscing,The Buttertones,Buttertones,41,82.46,0.3415,0.0488,True,Rock,50,0.000591,0.399,180000,0.707,0.201,B,0.126,-7.809,Major,0.0307,125.137,4/4,0.577
+2020,3bBmpVl9rQKJsFFGLFilIS,Charcoal Baby,Blood Orange,Negro Swan,41,78.33,0.4634,0.0732,True,Indie,65,0.14,0.622,242341,0.46,0.000369,G,0.119,-8.389,Minor,0.0372,183.241,4/4,0.514
+2020,6B182GP3TvEfmgUoIMVUSJ,Evil,Interpol,Antics,41,89.5,0.2927,0.0244,True,Indie,64,0.00128,0.497,215827,0.738,0.653,F,0.0725,-4.09,Major,0.0396,129.078,4/4,0.599
+2020,22UDw8rSfLbUsaAGTXQ4Z8,American Boy,Estelle,Shine,40,78.04,0.45,0.025,True,Soul,78,0.171,0.727,284733,0.729,0.0,C,0.07,-2.99,Major,0.326,117.932,4/4,0.512
+2020,2EEinN4Zk8MUv4OQuLsTBj,Age of Consent - 2015 Remaster,New Order,Power Corruption and Lies,40,151.23,0.225,0.025,True,Electronic,65,0.00101,0.372,315333,0.91,0.0944,D,0.13,-5.559,Major,0.0392,161.964,4/4,0.756
+2020,5xRlNALFbZ7gaWGlySwfTM,Break up Together,Theo Katzman,Heartbreak Hits,40,57.79,0.575,0.0,True,Soul,49,0.564,0.87,207622,0.414,3.47e-05,F,0.121,-10.995,Major,0.0452,103.958,4/4,0.89
+2020,6PuoZT4kgw5DrUEdnQ6e01,This Must Be The Place,Sure Sure,Sure Sure,40,63.98,0.5,0.075,True,Soul,56,0.349,0.886,219261,0.371,0.00138,F,0.0985,-10.542,Major,0.0465,115.026,4/4,0.928
+2020,7co8zvT6HJuyT81IDukyID,Tranquility Base Hotel & Casino,Arctic Monkeys,Tranquility Base Hotel & Casino,40,47.58,0.6,0.225,True,Rock,63,0.0411,0.584,212093,0.835,0.0147,A,0.199,-4.326,Minor,0.0297,142.2,4/4,0.781
+2020,150eNdHgoV9hYBUjsQXSVM,Love Buzz - Remastered,Nirvana,Bleach: Deluxe Edition,39,37.9,0.5641,0.0,True,Rock,63,3.22e-05,0.47,215120,0.885,0.196,D#,0.169,-7.224,Major,0.0354,138.153,4/4,0.79
+2020,2d3QlXE6FXFDeodiS66yjM,Weekend Friend,Goth Babe,Weekend Friend,39,60.14,0.4872,0.0256,True,Rock,61,0.032,0.409,209455,0.594,0.0391,C#,0.0904,-9.725,Major,0.031,110.187,4/4,0.212
+2020,3EK4tGkSiO5xvvB5sM4tln,Amárrame,Mon Laferte,La Trenza,39,66.97,0.4103,0.0,True,Children’s Music,72,0.247,0.563,207333,0.674,0.00226,F,0.107,-4.554,Minor,0.048,179.977,4/4,0.784
+2020,3SUusuA9jH1v6PVwtYMbdv,Last Nite,The Strokes,Is This It,39,58.35,0.4615,0.0513,True,Rock,70,0.0223,0.624,193373,0.899,0.000155,C,0.0975,-5.71,Major,0.0295,104.055,4/4,0.797
+2020,3Y4rUyw7XBCK6hGHCOt6rp,"Call It Fate, Call It Karma",The Strokes,Comedown Machine,39,61.5,0.5128,0.0769,True,Rock,63,0.983,0.544,204773,0.241,0.774,E,0.101,-14.779,Minor,0.03,109.437,4/4,0.359
+2021,03v70ZBxmcPX3RWAZMzqaW,Clouds,BØRNS,Dopamine,234,628.2,0.1325,0.0,True,Pop,58,0.194,0.644,190253,0.478,0.00376,B,0.106,-6.469,Major,0.0529,159.898,4/4,0.496
+2021,1LzNfuep1bnAUR9skqdHCK,Fade Into You,Mazzy Star,So Tonight That I Might See,119,443.22,0.1765,0.0,True,Children’s Music,72,0.245,0.42,295600,0.33,0.000679,A,0.0677,-13.925,Major,0.0275,157.143,3/4,0.175
+2021,1Dr5JexwA15wmKe7Y7maA9,Past Lives,BØRNS,Dopamine,117,336.02,0.3248,0.0085,True,Indie,63,0.0664,0.743,274320,0.685,6.75e-05,E,0.0884,-6.863,Major,0.0975,109.988,4/4,0.443
+2021,2H30WL3exSctlDC9GyRbD4,Live Well,Palace,So Long Forever,116,277.09,0.4569,0.0517,True,Soul,57,0.285,0.503,249840,0.647,0.0,E,0.0719,-5.367,Minor,0.0272,96.015,3/4,0.41
+2021,6WVheb5G29cbDOzF4qMfli,Road Head,Japanese Breakfast,Soft Sounds from Another Planet,101,217.92,0.2871,0.0,True,Pop,60,0.0978,0.54,195107,0.674,0.156,E,0.147,-8.734,Major,0.0296,95.036,4/4,0.165
+2021,0CZ8lquoTX2Dkg7Ak2inwA,1950,King Princess,1950,91,211.09,0.3516,0.0989,True,Pop,84,0.648,0.6,225133,0.535,4.7e-06,E,0.162,-7.043,Major,0.107,71.912,4/4,0.269
+2021,4XCpDE4pLTkkQ0kudqBLdS,Psylla,Glass Animals,Glass Animals,85,225.11,0.2471,0.0,True,Children’s Music,48,0.088,0.776,211194,0.577,0.000283,E,0.169,-9.232,Major,0.0348,124.487,4/4,0.478
+2021,28kOpVf1aCgL0LSFfuKV4w,Oom Sha La La,Haley Heynderickx,I Need to Start a Garden,83,136.76,0.3976,0.0,True,Indie,58,0.275,0.538,177340,0.417,0.0,D,0.206,-9.176,Major,0.0361,115.422,4/4,0.252
+2021,5uZLsGY9fknBd5Rxr7AIss,Shut Up Kiss Me,Angel Olsen,MY WOMAN,82,183.11,0.2439,0.0,True,Pop,60,0.0552,0.373,202200,0.63,0.0,G,0.107,-5.131,Major,0.0461,115.942,4/4,0.352
+2021,6JuEshIRliNXRU1LXctRjZ,Halah,Mazzy Star,She Hangs Brightly,81,196.16,0.2346,0.0,True,Children’s Music,51,0.23,0.622,196227,0.448,0.0,C,0.102,-10.709,Major,0.0265,106.085,4/4,0.553
+2021,1dlgaGdQXmsYKMRuewIZkF,Miss Alissa,Eagles Of Death Metal,Peace Love Death Metal,79,109.3,0.4557,0.0,True,Children’s Music,47,0.805,0.55,158600,0.991,0.0,C#,0.197,-3.704,Major,0.12,172.389,4/4,0.882
+2021,3LueS3mbuB1yaJNN0Ale6U,Avant Gardener,Courtney Barnett,The Double EP: A Sea of Split Peas,79,183.86,0.4684,0.0,True,Rock,53,0.00149,0.443,312227,0.737,0.0032,C,0.121,-4.509,Major,0.0293,115.277,4/4,0.746
+2021,7wvwXi9Z66dcH5t202vVkN,Will He,Joji,In Tongues (Deluxe),77,194.61,0.2597,0.0,True,R&B,75,0.837,0.618,202103,0.217,0.000163,A#,0.538,-15.372,Major,0.0515,116.013,4/4,0.0872
+2021,4kiMvD7yPec5viFrCQDiYK,Henrietta,The Fratellis,Costello Music,76,132.22,0.3816,0.0,True,Indie,48,0.023,0.609,211627,0.951,0.0,F#,0.136,-3.267,Minor,0.0918,122.455,4/4,0.872
+2021,0dqJjKKxuKD5Dt3QH2n4CG,Hands Down,The Greeting Committee,It’s Not All That Bad,75,197.14,0.3867,0.0133,True,Indie,55,0.393,0.43,257693,0.641,0.0036,E,0.223,-7.027,Major,0.034,100.39,4/4,0.288
+2021,5lJUXSjRjevVy7I3P87wuK,Your Touch,The Black Keys,Magic Potion,74,108.18,0.4324,0.0,True,Children’s Music,50,0.8,0.532,162587,0.768,2.01e-05,E,0.377,-8.698,Minor,0.0551,116.026,4/4,0.698
+2021,1V7mHn6zEEUpgysBYxiW9r,2 Atoms In A Molecule,Noah And The Whale,"Peaceful, The World Lays Me Down",70,116.36,0.3143,0.0,True,Folk,44,0.461,0.633,124627,0.68,0.000108,E,0.225,-9.748,Major,0.086,145.043,4/4,0.538
+2021,4sNG6zQBmtq7M8aeeKJRMQ,Brazil,Declan McKenna,What Do You Think About the Car?,62,95.43,0.5806,0.0,True,Children’s Music,68,0.0941,0.687,252307,0.617,1.32e-05,E,0.0898,-5.213,Major,0.0287,121.08,4/4,0.665
+2021,2aPTvyE09vUCRwVvj0I8WK,Sundress,A$AP Rocky,Sundress,58,63.14,0.5517,0.0,True,Rap,77,0.176,0.721,158206,0.704,3.71e-06,F#,0.143,-6.364,Major,0.0606,125.004,4/4,0.735
+2021,3IXRdLsQib8m0hBbQpe7T8,Hang Me Up To Dry,Cold War Kids,Robbers & Cowards,57,85.1,0.4561,0.0175,True,Children’s Music,62,0.0241,0.509,218787,0.916,0.000402,D,0.36,-2.793,Major,0.0324,92.432,4/4,0.672
+2021,4fPBB44eDH71YohayI4eKV,You Only Live Once,The Strokes,First Impressions Of Earth,55,90.15,0.4,0.0,True,Children’s Music,66,0.0238,0.63,189227,0.908,0.592,B,0.116,-2.42,Major,0.0326,120.522,4/4,0.968
+2021,1Dp7JGFNjvg8Nk0CtMCcnr,Hard Feelings/Loveless,Lorde,Melodrama,51,109.29,0.3725,0.0,True,Dance,63,0.0328,0.487,367391,0.445,0.0104,C#,0.0778,-10.959,Minor,0.113,97.031,4/4,0.18
+2021,6KKHXbJtnJPjla3V49YPac,"Prune, You Talk Funny",Gus Dapperton,"Prune, You Talk Funny",51,81.22,0.4902,0.0,True,Indie,66,0.0177,0.57,212701,0.75,0.00247,A#,0.197,-7.193,Minor,0.0383,140.063,4/4,0.578
+2021,6ioeN8jQ8Qc3tS8dhpoAVi,Way With Words,Bahamas,Earthtones,51,73.11,0.549,0.0,True,Indie,65,0.359,0.785,260960,0.53,0.00198,F#,0.0774,-6.995,Minor,0.0634,146.38,4/4,0.729
+2021,3zobfMEipF81bJfPVp1h09,Stay in My Corner,The Arcs,"Yours, Dreamily,",50,102.5,0.3,0.02,True,Rock,55,0.0409,0.437,199160,0.689,0.00824,B,0.147,-6.003,Minor,0.0343,143.451,4/4,0.467
+2021,7w6QlKAOcNEnqRgrnJvQtr,Stuck on the puzzle,Alex Turner,Submarine - Original Songs From The Film By Alex Turner,50,111.94,0.4,0.0,True,Rock,57,0.0792,0.58,211053,0.682,0.0316,E,0.161,-8.523,Major,0.0332,77.53,4/4,0.774
+2021,08VEQesIyvMu4xIxec8lMT,"Moodna, Once With Grace",Gus Dapperton,"Moodna, Once With Grace",48,72.06,0.4583,0.0,True,Rock,62,0.372,0.28,198014,0.42,8.87e-06,E,0.134,-9.553,Minor,0.0366,65.13,4/4,0.148
+2021,0khHA65uKHItjWKdxWeXFs,In the City,Anika,Anika,48,96.37,0.1042,0.0,True,Folk,44,0.000629,0.567,151979,0.518,9.03e-05,A,0.239,-9.803,Major,0.0285,111.712,4/4,0.399
+2021,6lbLn5iL2NBJnbib7bTXMn,Dræm Girl,No Vacation,Summer Break Mixtape,48,148.77,0.2292,0.0,True,Rock,57,0.00164,0.192,234607,0.952,0.716,D,0.307,-5.888,Major,0.258,172.752,4/4,0.262
+2021,5HLes17mwCwKt81mi0Tk35,"Archie, Marry Me",Alvvays,Alvvays,47,106.74,0.2766,0.0,True,Indie,58,0.00956,0.27,196560,0.83,0.434,G,0.142,-4.592,Major,0.0741,117.314,4/4,0.205
+2021,5Wyy2JHaM8cKEN6YDC6C8O,Pressure To Party,Julia Jacklin,Crushing,47,94.67,0.2979,0.0,True,Indie,50,0.000124,0.483,182307,0.81,4.79e-05,E,0.118,-3.949,Major,0.0366,141.906,4/4,0.382
+2021,6gpSU2C1VJq0xaVIGtQPVi,Francis Forever,Mitski,Bury Me At Makeout Creek,47,51.94,0.4468,0.0,True,Pop,57,0.00262,0.535,149680,0.448,1.94e-05,D,0.115,-9.167,Major,0.0279,101.984,4/4,0.32
+2021,1dJuteDIOkGfDSN7zPkzNv,She Don't Use Jelly,The Flaming Lips,Transmissions From the Satellite Heart,46,58.12,0.5652,0.0,True,Children’s Music,58,0.207,0.33,222279,0.556,4.39e-05,G,0.315,-11.494,Major,0.0796,173.828,4/4,0.506
+2021,5AKYyNPYhumqKeOMhdEgQO,I Saw You Close Your Eyes,Local Natives,I Saw You Close Your Eyes,46,73.31,0.4348,0.0,True,Rock,61,0.0729,0.41,216840,0.637,3.77e-05,A,0.732,-6.673,Major,0.0327,77.398,4/4,0.238
+2021,2AKwcNHeGAqCpD6etK425X,One Point Perspective,Arctic Monkeys,Tranquility Base Hotel & Casino,45,128.8,0.2667,0.0,True,Indie,62,0.057,0.714,208640,0.585,0.00444,G#,0.144,-4.57,Major,0.0419,77.104,4/4,0.842
+2021,2EEinN4Zk8MUv4OQuLsTBj,Age of Consent - 2015 Remaster,New Order,Power Corruption and Lies,45,104.13,0.4444,0.0,True,Electronic,65,0.00101,0.372,315333,0.91,0.0944,D,0.13,-5.559,Major,0.0392,161.964,4/4,0.756
+2021,47KDDZgFiX1w6RFOuLXsSn,Tomorrow,Shakey Graves,Tomorrow,45,71.6,0.5111,0.0,True,Folk,69,0.73,0.564,240587,0.354,3.43e-06,G,0.208,-10.85,Major,0.0334,98.075,3/4,0.423
+2021,1zdKc6UvnPuoVHkr0NYyIf,Glass in the park,Alex Turner,Submarine - Original Songs From The Film By Alex Turner,44,113.78,0.3182,0.0,True,Indie,45,0.903,0.553,239653,0.19,0.000227,D,0.0993,-14.961,Major,0.0298,100.002,4/4,0.299
+2021,2fXKyAyPrEa24c6PJyqznF,Common People - Full Length Version,Pulp,Different Class,44,75.42,0.5682,0.0,True,Rock,69,0.00562,0.323,351693,0.803,5.9e-05,C,0.073,-9.034,Major,0.0408,144.271,4/4,0.54
+2021,3pJfnBjO3kjudEchcPEDxS,Afuera,Caifanes,El Nervio Del Volcan,44,83.77,0.4773,0.0,True,Children’s Music,71,0.209,0.487,288600,0.553,2.81e-05,F#,0.0992,-11.197,Minor,0.0425,126.043,4/4,0.699
+2021,0x47zt71IYykbt1ET933pJ,Hiding tonight,Alex Turner,Submarine - Original Songs From The Film By Alex Turner,43,107.25,0.2791,0.0,True,Rock,47,0.915,0.543,186720,0.122,0.0,C,0.373,-18.863,Major,0.0337,99.835,4/4,0.282
+2021,3jp7Ryj1sX3riA7NQaVlLd,Whistle For The Choir,The Fratellis,Costello Music,43,93.92,0.3488,0.0,True,Children’s Music,50,0.0591,0.579,215853,0.686,0.0,E,0.0876,-4.336,Major,0.0338,131.634,4/4,0.761
+2021,3labT48xWDOOR5dWUUPCkk,Caught Me Thinkin,Bahamas,Barchords,42,48.67,0.5952,0.0,True,Folk,47,0.208,0.767,180200,0.718,3.76e-06,A,0.343,-5.845,Major,0.0433,118.429,4/4,0.897
+2021,5Ss6DqCldgTmIo6BekVOJT,You Say I'm in Love,Banes World,You Say I'm in Love,42,42.62,0.5952,0.0,True,Pop,69,0.427,0.623,176761,0.285,0.00278,C#,0.189,-16.687,Minor,0.0538,140.028,4/4,0.343
+2021,6dtPJwNdLuyVGPWyHOI6GP,It's Only Sex,Car Seat Headrest,Living While Starving,41,56.09,0.4878,0.0244,True,Indie,46,0.368,0.589,283000,0.519,0.457,G,0.119,-8.069,Major,0.0411,119.981,4/4,0.482
+2021,1UsXMQwIzCKSk6oIdRE5Jc,Veins,Palace,Veins,40,59.53,0.5,0.0,True,Soul,47,0.349,0.429,269975,0.273,0.0384,C,0.111,-9.719,Major,0.0287,110.161,3/4,0.112
+2021,1o6DclZHw0HomxXEQR1ijX,Rock & Roll - Full Length Version; 2015 Remaster,The Velvet Underground,Loaded: Re-Loaded 45th Anniversary Edition,40,84.89,0.425,0.0,True,Folk,59,0.00401,0.494,283000,0.735,3.14e-06,F,0.544,-8.347,Major,0.0345,132.526,4/4,0.742
+2021,1KlDcHrlDPUJJPmMup3tUp,5 Years Time,Noah And The Whale,"Peaceful, The World Lays Me Down",39,63.88,0.5128,0.0,True,Folk,56,0.335,0.8,214920,0.559,0.0,C,0.148,-7.11,Major,0.116,121.967,4/4,0.788
+2021,1W0OCrMsRP1SLTEdw3JwEz,"Sweet Dreams, TN",The Last Shadow Puppets,Everything You've Come To Expect,39,65.08,0.4615,0.0,True,Rock,61,0.000878,0.282,236253,0.566,0.0,B,0.38,-6.924,Minor,0.0291,112.362,3/4,0.477
+2021,4D2rEIyYw0meeh8AOXqfxK,Honey Sweet,Blossoms,Blossoms,39,49.75,0.5641,0.0,True,Indie,62,0.0268,0.573,215647,0.708,0.00485,E,0.271,-6.098,Minor,0.037,110.003,4/4,0.626
+2021,6cUcoLNlWP05KpaJXaXG7g,Sex Tourists,French Kicks,Swimming,39,53.88,0.5641,0.0,True,Indie,45,0.281,0.489,211787,0.519,7.25e-06,F#,0.121,-6.099,Major,0.0266,108.259,4/4,0.163
+2021,1bKQdPJ9lid6Yg26HAx8Tf,"Lights Out, Words Gone",Bombay Bicycle Club,A Different Kind Of Fix,38,80.12,0.5526,0.0,True,Indie,57,0.577,0.649,301347,0.76,0.332,G#,0.107,-7.275,Major,0.0298,106.002,4/4,0.654
+2021,2GiJYvgVaD2HtM8GqD9EgQ,Electric Love,BØRNS,Dopamine,37,63.06,0.4865,0.0,True,Indie,74,0.00543,0.611,218107,0.797,0.00137,F#,0.26,-7.627,Minor,0.0533,120.041,4/4,0.518
+2021,2lwwrWVKdf3LR9lbbhnr6R,Float On,Modest Mouse,Good News For People Who Love Bad News,37,34.15,0.6486,0.0,True,Indie,72,0.013,0.649,208467,0.888,2.23e-06,F#,0.0888,-4.807,Major,0.0293,100.975,4/4,0.553
+2021,2rphAUoua7y2GNpjnoXWlG,Gotta Cheer Up,Cotton Jones,Paranoid Cocoon,37,58.8,0.3784,0.0,True,Folk,56,0.397,0.523,192613,0.631,0.000163,D,0.123,-7.494,Minor,0.0262,105.096,4/4,0.715
+2021,3HdcqQpq7zb5GbEKBDY34p,Humbug Mountain Song,Fruit Bats,Absolute Loser,37,38.19,0.6216,0.0,True,Rock,63,0.0355,0.593,184347,0.926,0.0582,F#,0.311,-5.361,Minor,0.0319,100.011,4/4,0.945
+2021,414J8tKHbtF16XOiHGBEso,Tezeta (Nostalgia),Mulatu Astatke,"Ethiopiques, Vol. 4: Ethio Jazz 1969-1974",37,51.93,0.7027,0.0,True,World,54,0.954,0.546,376640,0.355,0.92,F,0.0891,-10.199,Minor,0.0368,81.054,3/4,0.5
+2021,4HOg84QsolNLzNp08qZ3sX,didya think,Arlie,Wait,37,41.57,0.6216,0.0,True,Rock,55,0.00415,0.468,200467,0.89,1.21e-05,E,0.508,-2.974,Major,0.0701,140.265,4/4,0.709
+2021,1Y8L4hT9CDJH6ROK2XGxgO,On the Beach - 2016 Remaster,Neil Young,On the Beach,36,70.45,0.6111,0.0,True,Rock,56,0.566,0.683,419013,0.311,0.0372,A,0.113,-13.54,Minor,0.0343,116.958,4/4,0.404
+2021,6ZoXt2on0ub2ORSTWnJCjs,Circles,Durand Jones & The Indications,American Love Call,36,52.65,0.5278,0.0,True,Soul,45,0.254,0.527,198096,0.556,1.51e-05,E,0.225,-5.158,Minor,0.0604,205.693,4/4,0.933
+2021,7hm4HTk9encxT0LYC0J6oI,Someday,The Strokes,Is This It,36,53.98,0.4167,0.0,True,Children’s Music,68,0.00425,0.538,183440,0.52,0.0,A,0.367,-7.46,Major,0.0299,106.031,4/4,0.678
+2021,1XYX4JnSULbKGCi5uSjeJy,It's hard to get around the wind,Alex Turner,Submarine - Original Songs From The Film By Alex Turner,35,80.05,0.3143,0.0,True,Indie,46,0.87,0.436,247013,0.244,0.000371,C,0.102,-19.096,Major,0.0339,145.42,4/4,0.359
+2021,4mpAm83XX1iS63l8wmkEC6,Spread Your Love,Black Rebel Motorcycle Club,B.R.M.C.,35,36.05,0.6,0.0,True,Indie,59,0.00987,0.415,225333,0.901,0.361,D,0.136,-3.124,Major,0.0428,128.216,4/4,0.424
+2021,5KkoM9rbevlWf8EePOrwfS,Drinking Song,Haley Heynderickx,I Need to Start a Garden,35,52.45,0.4286,0.0,True,Folk,51,0.89,0.621,195846,0.219,1.4e-05,C,0.111,-11.305,Major,0.0381,120.495,3/4,0.253
+2021,6IY3cC281mz9q0bViUEldz,It's A Trip!,Joywave,Content,35,34.1,0.5429,0.0,True,Indie,65,0.114,0.679,183525,0.71,0.00322,G#,0.255,-5.009,Minor,0.0321,97.99,4/4,0.685
+2021,71cUqXJ3h1r0Ees6YdENLU,Coffee,Sylvan Esso,Sylvan Esso,35,66.33,0.4571,0.0,True,Pop,61,0.348,0.457,269693,0.455,0.00122,C,0.142,-8.112,Major,0.188,100.049,4/4,0.163
+2021,207qLd1ovrqfYVBBDrNMUM,Dance This Mess Around,The B-52's,The B-52's,34,81.32,0.3235,0.0,True,Dance,50,0.0168,0.608,276560,0.712,0.000369,D#,0.129,-7.957,Major,0.0821,161.072,4/4,0.542
+2021,3SUusuA9jH1v6PVwtYMbdv,Last Nite,The Strokes,Is This It,34,38.49,0.5882,0.0,True,Rock,70,0.0223,0.624,193373,0.899,0.000155,C,0.0975,-5.71,Major,0.0295,104.055,4/4,0.797
+2021,3hJLKtTpgct9Y9wKww0BiR,Miss You - Remastered,The Rolling Stones,Some Girls,34,62.14,0.5,0.0,True,Rock,66,0.462,0.803,288667,0.725,0.0137,A,0.46,-4.726,Minor,0.0432,109.7,4/4,0.785
+2021,6qQGxKyy6LcyZVsWn93lyS,Pink Triangle,Weezer,Pinkerton,34,28.6,0.6765,0.0,True,Rock,52,0.0118,0.282,238600,0.894,0.0,F#,0.347,-4.834,Major,0.0822,118.809,4/4,0.466
+2021,3TZwjdclvWt7iPJUnMpgcs,Jump Around,House Of Pain,House of Pain (Fine Malt Lyrics),33,55.69,0.3636,0.0,True,Hip-Hop,75,0.0113,0.854,214947,0.71,8.72e-05,E,0.166,-6.32,Minor,0.0793,106.894,4/4,0.818
+2021,3stWWPN41byqp8loPdy92u,Master of None,Beach House,Beach House,33,51.83,0.5152,0.0,True,Rock,61,0.674,0.492,199414,0.344,0.531,F,0.0933,-15.259,Major,0.0259,86.485,4/4,0.247
+2021,5dnvWWkwwFJoDDc0QoSbvf,Is It Any Wonder?,Durand Jones & The Indications,Durand Jones & The Indications,33,50.73,0.6364,0.0,True,Soul,55,0.636,0.541,276600,0.378,0.594,D,0.0899,-6.283,Minor,0.0296,136.94,4/4,0.401
+2021,62ZXL1CWLJDiDWUZUhfLfU,Dopamine,BØRNS,Dopamine,33,57.55,0.4242,0.0606,True,Rock,56,0.0155,0.551,224373,0.813,5.82e-06,F,0.105,-4.25,Major,0.0621,97.556,4/4,0.568
+2021,6jg5SRvdGxvJ0DzNV0UqEK,Please Don't Go,Mike Posner,31 Minutes to Takeoff,33,49.9,0.5455,0.0,True,Pop,61,0.00296,0.699,196813,0.882,0.0544,E,0.13,-3.896,Minor,0.0311,120.016,4/4,0.657
+2021,1UGD3lW3tDmgZfAVDh6w7r,Devil In A New Dress,Kanye West,My Beautiful Dark Twisted Fantasy,32,51.83,0.4062,0.0,True,Pop,66,0.0175,0.433,351947,0.76,0.0,G#,0.158,-4.935,Minor,0.0726,79.789,4/4,0.205
+2021,2TeYAizye4GlmzQq5zyf91,The Physical Attractions,The Symposium,The Symposium,32,28.37,0.8125,0.125,True,Indie,43,0.00163,0.363,284770,0.499,0.522,F,0.123,-10.099,Minor,0.0335,137.804,4/4,0.532
+2021,4PJxptsSC9S89hTO8gRCv3,Piledriver waltz,Alex Turner,Submarine - Original Songs From The Film By Alex Turner,32,64.71,0.4062,0.0,True,Rock,47,0.119,0.533,204880,0.748,0.612,C#,0.316,-7.861,Major,0.0285,105.921,3/4,0.343
+2021,5EYi2rH4LYs6M21ZLOyQTx,Loving Is Easy (feat. Benny Sings),Rex Orange County,Loving Is Easy (feat. Benny Sings),32,35.94,0.5,0.0,True,Pop,80,0.217,0.756,155720,0.609,0.00474,D#,0.096,-7.927,Major,0.0544,117.023,4/4,0.537
+2021,5dmPNuHmRRJuHmJTDa7NuJ,Bambi,Hippo Campus,Bambi,32,29.67,0.7188,0.0,True,Rock,66,0.0661,0.739,194400,0.471,9.78e-05,G#,0.116,-8.456,Major,0.0436,90.002,4/4,0.31
+2021,2IDaot6HBRmqldvBjCp0iA,Dug My Heart,BØRNS,Dopamine,31,35.28,0.5806,0.0,True,Indie,53,0.024,0.571,189573,0.811,0.000191,A,0.121,-5.497,Major,0.0903,166.066,4/4,0.601
+2021,2VMJkgrhqfOOYBlZif2nvX,She Wants My Money,Dominic Fike,"Don't Forget About Me, Demos",31,29.47,0.5484,0.0,True,Alternative,63,0.771,0.704,133560,0.478,0.000516,A,0.0875,-6.562,Major,0.047,128.789,4/4,0.42
+2021,5ZaQW8tvH33GVJ0E3sLz2w,Misty Morning,Travis Bretzer,Bitter Suites,31,22.24,0.7097,0.0,True,Indie,44,0.55,0.696,156958,0.299,0.00014,G,0.131,-11.433,Major,0.0354,143.188,4/4,0.223
+2021,5bJ1DrEM4hNCafcDd1oxHx,Self Care,Mac Miller,Swimming,31,38.11,0.6452,0.0,True,Pop,81,0.367,0.52,345133,0.538,0.00187,C#,0.119,-8.109,Major,0.206,141.894,4/4,0.177
+2021,6EvUAsfncetT0RcWshHCbl,I'll Come Too,James Blake,Assume Form,31,85.23,0.3226,0.0,True,R&B,68,0.757,0.661,222400,0.472,0.00275,G,0.192,-7.889,Major,0.164,73.986,4/4,0.206
+2021,0SBariQWfKjoslW2XSIFOm,Seventeen,Peach Pit,Sweet FA,30,38.49,0.6333,0.0,True,Rock,57,0.00837,0.559,216427,0.89,0.00759,B,0.103,-5.188,Major,0.0387,91.509,4/4,0.809
+2021,0U3u0HdRQjD8mAMYBak4Ok,Saw You In A Dream,The Japanese House,Saw You In A Dream,30,44.28,0.5667,0.0,True,Indie,62,0.0729,0.605,208280,0.446,0.0,E,0.149,-8.244,Major,0.028,94.044,4/4,0.685
+2021,3Pu3IChaAoa5EjgUBv5F6x,Ballroom Blitz,Sweet,Desolation Boulevard,30,46.7,0.5333,0.0,True,Rock,58,0.0821,0.644,246573,0.799,0.00154,E,0.055,-10.856,Minor,0.0598,108.382,4/4,0.889
+2021,0FgNSsaSZTvbLXUumSO8LQ,Star Treatment,Arctic Monkeys,Tranquility Base Hotel & Casino,29,44.4,0.6552,0.0,True,Rock,63,0.243,0.581,354640,0.767,0.00131,G,0.141,-5.026,Minor,0.0527,120.07,4/4,0.673
+2021,1HYnjKqSSHh1tdl2Hi57zH,"Wasteland, Baby!",Hozier,"Wasteland, Baby!",29,48.74,0.4828,0.0345,True,Pop,65,0.612,0.427,266467,0.407,0.386,D,0.109,-9.665,Major,0.0382,168.844,4/4,0.244
+2021,1Xtz05nIgJiEYdncfd1w8h,Soledad y el Mar (feat. Los Macorinos),Natalia Lafourcade,"Musas (Un Homenaje al Folclore Latinoamericano en Manos de Los Macorinos, Vol. 1)",29,56.13,0.3793,0.0,True,Rock,60,0.896,0.726,214547,0.177,2.14e-06,C#,0.116,-14.824,Minor,0.0353,92.934,4/4,0.618
+2021,2pA4ip3VIEVcIa3qE02oAX,"10,000 Emerald Pools",BØRNS,Dopamine,29,59.72,0.2414,0.1034,True,Rock,66,0.00694,0.568,174693,0.578,0.000353,F#,0.099,-5.589,Major,0.0404,139.951,4/4,0.555
+2021,2zPANzQTt5Nbkg0eBPb7HI,There Will Never Be Another You - Vocal Version,Chet Baker,Chet Baker Sings,29,25.61,0.6897,0.0,True,Jazz,46,0.949,0.513,180627,0.112,0.0018,D#,0.0721,-16.156,Major,0.0574,168.754,3/4,0.577
+2021,4V0x90QcMh4ZxwHzEWOdtK,Feel It All Around,Washed Out,Life of Leisure,29,27.2,0.6897,0.0345,True,Alternative,62,0.000105,0.34,192080,0.737,0.762,G#,0.0699,-4.681,Major,0.0582,172.022,4/4,0.499
+2021,6LOZws7T3jqZz78unPgFF9,Dead To Me,Kali Uchis,Isolation,29,45.28,0.4828,0.0,True,Pop,66,0.432,0.675,199506,0.761,0.0,E,0.102,-4.469,Minor,0.0466,119.001,4/4,0.428
+2021,6SpLc7EXZIPpy0sVko0aoU,Misery Business,Paramore,Riot!,29,19.64,0.7241,0.0,True,Pop,71,0.00272,0.517,211520,0.906,9.26e-06,C#,0.113,-3.677,Major,0.0735,172.977,4/4,0.731
+2021,6gU7ohksNd6LsEJMWfDRhp,Soma,The Strokes,Is This It,29,52.28,0.2414,0.0,True,Rock,53,0.0747,0.499,153840,0.706,0.00289,C,0.0753,-7.335,Major,0.0302,148.931,4/4,0.483
+2021,7zFXmv6vqI4qOt4yGf3jYZ,Get You (feat. Kali Uchis),Daniel Caesar,Freudian,29,51.37,0.5517,0.0,True,Pop,80,0.422,0.658,278180,0.294,5.2e-05,E,0.0749,-8.533,Minor,0.0321,74.038,4/4,0.358
+2021,09x9v1o51dbqi5H0u7UGfp,I Will - Remastered 2009,The Beatles,The Beatles,28,22.7,0.5357,0.0,True,Rock,58,0.742,0.631,105933,0.387,0.000406,F,0.0822,-11.529,Major,0.0262,103.11,4/4,0.832
+2021,11EOvxJRG665bwRU0z6YVa,Luna,Bombay Bicycle Club,"So Long, See You Tomorrow",28,44.9,0.4643,0.0357,True,Children’s Music,57,0.0306,0.579,190867,0.917,0.000579,F,0.143,-5.4,Major,0.048,121.989,4/4,0.387
+2022,1XGwjdHXHNu3842f75eg3T,The Waiting,Angel Olsen,Half Way Home,246,726.42,0.2561,0.0041,True,Folk,42,0.72,0.606,222617,0.492,0.0,G,0.125,-8.247,Major,0.0419,108.289,4/4,0.616
+2022,5Wyy2JHaM8cKEN6YDC6C8O,Pressure To Party,Julia Jacklin,Crushing,150,307.94,0.3067,0.0067,True,Indie,50,0.000124,0.483,182307,0.81,4.79e-05,E,0.118,-3.949,Major,0.0366,141.906,4/4,0.382
+2022,4BMk6XhlXJW7ZgIS8vSBZk,Caderas Blancas,Mon Laferte,Norma,120,328.65,0.2,0.025,True,Children’s Music,64,0.244,0.652,225400,0.834,9.25e-06,G#,0.122,-6.072,Minor,0.112,94.999,4/4,0.643
+2022,4aCnN8VmKVqX4PnSB1Ie07,"Creator, Destroyer",Angel Olsen,Strange Cacti,117,275.32,0.3077,0.0171,True,Folk,42,0.846,0.401,234547,0.29,0.0,A#,0.111,-9.052,Minor,0.029,104.626,4/4,0.0849
+2022,3BlsMrQVvRCk3jmmKV7otm,Island Music,Tennis,Yours Conditionally,109,234.7,0.3303,0.055,True,Folk,42,0.956,0.29,219213,0.465,0.912,B,0.0935,-18.178,Minor,0.164,97.711,4/4,0.307
+2022,5JeZZtqY0loM9UHQVIChby,Some things Cosmic,Angel Olsen,Strange Cacti,100,171.72,0.34,0.03,True,Folk,41,0.919,0.214,174867,0.182,0.00465,G#,0.113,-13.538,Major,0.0368,143.171,4/4,0.104
+2022,5HLes17mwCwKt81mi0Tk35,"Archie, Marry Me",Alvvays,Alvvays,78,138.94,0.4615,0.0385,True,Indie,58,0.00956,0.27,196560,0.83,0.434,G,0.142,-4.592,Major,0.0741,117.314,4/4,0.205
+2022,6TJAFFa2VaRdFB5UA4BJRt,Origins,Tennis,Young & Old,77,187.91,0.2857,0.0,True,Indie,46,0.0463,0.578,208139,0.825,0.0201,F,0.162,-4.659,Minor,0.0284,113.907,4/4,0.951
+2022,3eiXtKo5PAWArBDAw1gkhI,El Beso,Mon Laferte,Norma,74,160.76,0.2568,0.0676,True,Alternative,56,0.254,0.732,178640,0.84,1.69e-05,E,0.187,-7.07,Minor,0.115,102.993,4/4,0.717
+2022,4skuEIloXWuxxgekKupkEH,Tu Falta De Querer,Mon Laferte,Mon Laferte - Vol. 1,73,184.81,0.3699,0.3151,True,Pop,73,0.0251,0.394,278547,0.475,0.00749,A#,0.112,-7.935,Major,0.028,129.995,3/4,0.441
+2022,0OEBOJhSObnFuHuasXdt52,Dia de Enero,Shakira,"Fijación Oral, Vol. 1",72,152.89,0.2778,0.1528,True,Dance,63,0.35,0.687,173133,0.361,1.11e-05,A#,0.11,-11.589,Major,0.0792,165.747,4/4,0.526
+2022,00kIWJu9IHiQ6i0qJAU0Z9,Amor Completo,Mon Laferte,Mon Laferte - Vol. 1,71,129.3,0.4648,0.0986,True,Children’s Music,66,0.664,0.393,241880,0.418,5.46e-05,E,0.108,-8.976,Major,0.0269,175.548,3/4,0.346
+2022,1e2LGT07diSwc7UYnK7txi,More Of The Same,Caroline Rose,LONER,70,201.28,0.3429,0.0143,True,Indie,52,0.0824,0.731,248791,0.764,3.95e-06,G,0.0725,-4.5,Major,0.028,98.01,4/4,0.638
+2022,3jw5KrLTxeIzpSvByNsH7F,Blue Coupe,Twin Peaks,Sweet '17 Singles,68,124.55,0.4559,0.0735,True,Indie,49,0.261,0.597,222672,0.864,0.0747,F,0.0973,-5.629,Major,0.0271,130.079,4/4,0.55
+2022,71gZOVZcfn2Yp6evM2PdzW,Shake Your Lonely,Twin Peaks,Sweet '17 Singles,68,138.56,0.4265,0.0882,True,Indie,45,0.369,0.457,215688,0.523,0.0691,D,0.312,-7.846,Major,0.0256,150.096,4/4,0.604
+2022,5kTfGxslMBLVeapaoeb0ZW,Soul No. 5,Caroline Rose,LONER,65,112.8,0.4923,0.0154,True,Indie,44,4.66e-05,0.453,189949,0.803,0.0655,D,0.0674,-4.768,Major,0.0445,159.571,4/4,0.385
+2022,1gQxoBZiyLK5hRLLoBg89x,Primaveral,Mon Laferte,La Trenza,63,135.55,0.4286,0.0794,True,Children’s Music,59,0.286,0.629,231653,0.645,0.128,F,0.102,-5.412,Major,0.0237,99.99,4/4,0.547
+2022,3LueS3mbuB1yaJNN0Ale6U,Avant Gardener,Courtney Barnett,The Double EP: A Sea of Split Peas,56,163.64,0.3571,0.0357,True,Rock,53,0.00149,0.443,312227,0.737,0.0032,C,0.121,-4.509,Major,0.0293,115.277,4/4,0.746
+2022,2NsMwNWumJXCdTg2IZCLZ5,Lento,Julieta Venegas,Si,54,114.35,0.3704,0.0185,True,Rock,67,0.202,0.762,239227,0.745,3.05e-05,F,0.042,-7.426,Major,0.0442,143.965,4/4,0.804
+2022,3EK4tGkSiO5xvvB5sM4tln,Amárrame,Mon Laferte,La Trenza,52,106.72,0.3462,0.0769,True,Children’s Music,72,0.247,0.563,207333,0.674,0.00226,F,0.107,-4.554,Minor,0.048,179.977,4/4,0.784
+2022,4kiMvD7yPec5viFrCQDiYK,Henrietta,The Fratellis,Costello Music,52,88.87,0.4038,0.0769,True,Indie,48,0.023,0.609,211627,0.951,0.0,F#,0.136,-3.267,Minor,0.0918,122.455,4/4,0.872
+2022,5FlBGGwGuqYmqr0qeBWrxe,Five to One,The Doors,Waiting for the Sun,50,92.5,0.34,0.46,True,Rock,56,0.203,0.615,264960,0.401,0.0,E,0.086,-14.07,Minor,0.0507,87.959,4/4,0.672
+2022,05iMQqncVBIm4AE26EvaTL,Andar Conmigo,Julieta Venegas,Si,49,106.59,0.2449,0.0204,True,Rock,69,0.3,0.77,193373,0.585,0.0,C,0.116,-8.06,Major,0.0285,116.994,4/4,0.912
+2022,3geFzA6VBSNZUTmV3bCry6,Mardy Bum,Arctic Monkeys,"Whatever People Say I Am, That's What I'm Not",49,45.48,0.6531,0.0,True,Rock,60,0.0288,0.634,175440,0.599,0.0,D,0.197,-5.447,Major,0.0365,112.215,4/4,0.312
+2022,2M7enaZSs1DRRjZscA4LAj,Reminiscing,The Buttertones,Buttertones,47,91.79,0.2766,0.0426,True,Rock,50,0.000591,0.399,180000,0.707,0.201,B,0.126,-7.809,Major,0.0307,125.137,4/4,0.577
+2022,2ZNYFHhkBoS4KHr5eXnQth,Funeral,Mon Laferte,Norma,47,146.84,0.2553,0.0213,True,Children’s Music,57,0.741,0.695,268307,0.452,0.0,F#,0.164,-8.143,Major,0.0424,95.011,4/4,0.424
+2022,28UP90XhjCovLtieduYr9P,Mi Buen Amor,Mon Laferte,La Trenza,46,94.95,0.3478,0.3913,True,Children’s Music,70,0.557,0.4,227587,0.541,2.13e-05,G,0.136,-4.527,Major,0.0274,99.343,3/4,0.268
+2022,3Hx7RXqCS7Kzjy2ot2q1Gk,Fever,The Black Keys,Turn Blue,46,63.26,0.5652,0.0435,True,Indie,63,0.00378,0.609,246307,0.674,0.000302,A,0.129,-6.506,Minor,0.0355,127.541,4/4,0.743
+2022,4mq4UFHLd9OZXRBClDyTed,Game,ELIZA,A Real Romantic,42,135.82,0.2857,0.0,True,R&B,46,0.648,0.84,301745,0.343,0.523,B,0.121,-13.413,Minor,0.0493,129.972,4/4,0.943
+2022,6d5faX65tSGFKcXsOJQRFi,In the Morning I'll Be Better,Tennis,Yours Conditionally,42,64.75,0.5,0.0476,True,Indie,53,0.632,0.343,213173,0.607,0.00808,C,0.0824,-5.048,Major,0.0357,155.579,3/4,0.599
+2022,28kOpVf1aCgL0LSFfuKV4w,Oom Sha La La,Haley Heynderickx,I Need to Start a Garden,41,73.68,0.3902,0.0488,True,Indie,58,0.275,0.538,177340,0.417,0.0,D,0.206,-9.176,Major,0.0361,115.422,4/4,0.252
+2022,5KkoM9rbevlWf8EePOrwfS,Drinking Song,Haley Heynderickx,I Need to Start a Garden,41,87.23,0.3415,0.0244,True,Folk,51,0.89,0.621,195846,0.219,1.4e-05,C,0.111,-11.305,Major,0.0381,120.495,3/4,0.253
+2022,3HMYsT5mnqQ57tVjvqlETb,Flaco,Mon Laferte,La Trenza,39,119.54,0.1282,0.0513,True,Children’s Music,58,0.196,0.454,256773,0.419,0.0039,A,0.197,-5.678,Major,0.0255,146.711,3/4,0.238
+2022,6g6FWPdAMf55CpmkoE7jF1,Invéntame,Mon Laferte,Invéntame,39,88.08,0.3333,0.1538,True,Children’s Music,62,0.00154,0.564,205800,0.494,2.73e-05,G,0.172,-9.135,Major,0.0271,96.924,4/4,0.108
+2022,3AgrcbfCREzW0kGFUNJnqW,Rocky's Late Night,Albert Hammond Jr,Francis Trouble,38,71.89,0.4737,0.2368,True,Blues,45,0.0538,0.619,256787,0.672,0.0699,C,0.0518,-6.429,Minor,0.0385,94.998,4/4,0.805
+2022,4M1lEbqPzlEw1JYWB6aE7K,Estoy Aquí,Shakira,Pies Descalzos,38,102.78,0.3684,0.0,True,Dance,64,0.0307,0.732,232467,0.814,0.0,D,0.0691,-7.716,Major,0.0402,116.973,4/4,0.782
+2022,79DO6dBi8936P6EShLB209,Lightning Bolt,Jake Bugg,Jake Bugg,38,52.82,0.3947,0.1053,True,Indie,60,0.0818,0.551,144013,0.839,0.0,A,0.151,-4.555,Major,0.0787,116.051,4/4,0.681
+2022,2CbtdkBeW9Znt4vXTOafAl,A Certain Romance,Arctic Monkeys,"Whatever People Say I Am, That's What I'm Not",36,95.03,0.3889,0.0278,True,Rock,54,0.000566,0.455,331200,0.881,6.06e-05,B,0.11,-5.587,Major,0.0401,137.949,4/4,0.201
+2022,0Xn1VqBjoL4PAGxyatEO0Z,Gotas De Agua Dulce,Juanes,La Vida Es Un Ratico,35,70.03,0.3143,0.1143,True,Dance,60,0.0204,0.681,188040,0.859,0.0,C#,0.131,-3.457,Minor,0.0294,153.889,4/4,0.94
+2022,14g6foD6sxO1qgkDKuPgWv,Swingin Party - 2008 Remaster,The Replacements,Tim,35,48.71,0.6286,0.0,True,Dance,55,0.0224,0.647,233573,0.69,0.0,F#,0.147,-8.657,Minor,0.0454,117.514,4/4,0.682
+2022,6Yu1OL8I0D4vjOzYdsXYGK,12:51,The Strokes,Room On Fire,35,36.91,0.5429,0.0286,True,Indie,58,0.312,0.452,153133,0.889,0.8,E,0.558,-3.838,Major,0.0379,145.056,4/4,0.591
+2022,582EVyAFKmKPa1bVPSDurJ,Two Fingers,Jake Bugg,Jake Bugg,34,39.39,0.6176,0.0882,True,Indie,61,0.00252,0.486,195987,0.677,0.0,F,0.102,-5.227,Major,0.0314,120.576,4/4,0.913
+2022,6ikh8e4YxgOlb11LWUaBp4,The Keys,Matt Duncan,Soft Times,34,67.55,0.3235,0.0,True,Soul,51,0.511,0.782,217066,0.478,0.0117,C,0.131,-11.132,Major,0.0671,94.997,4/4,0.693
+2022,7hm4HTk9encxT0LYC0J6oI,Someday,The Strokes,Is This It,34,30.58,0.6765,0.1176,True,Children’s Music,68,0.00425,0.538,183440,0.52,0.0,A,0.367,-7.46,Major,0.0299,106.031,4/4,0.678
+2022,1TYRcvY3JTYoLVhADPpDH5,Red Light Indicates Doors Are Secured,Arctic Monkeys,"Whatever People Say I Am, That's What I'm Not",32,50.06,0.375,0.0625,True,Indie,46,0.00316,0.622,143627,0.846,0.0,B,0.0989,-4.831,Minor,0.0311,110.683,4/4,0.914
+2022,31u6rUeIEXGrYVoh10U7eu,Leave It In My Dreams,The Voidz,Virtue,32,53.79,0.5,0.1562,True,Alternative,53,0.0226,0.6,239442,0.746,0.0119,E,0.109,-4.696,Minor,0.0355,118.551,4/4,0.614
+2022,3SUusuA9jH1v6PVwtYMbdv,Last Nite,The Strokes,Is This It,32,38.84,0.5938,0.0312,True,Rock,70,0.0223,0.624,193373,0.899,0.000155,C,0.0975,-5.71,Major,0.0295,104.055,4/4,0.797
+2022,0Juciz8gOjrO89qw5KwQV5,Call Me Irresponsible - 2001 Remaster,Bobby Darin,From Hello Dolly To Goodbye Charlie,30,34.85,0.3667,0.0333,True,Soul,45,0.695,0.607,124560,0.347,0.0,G,0.121,-12.241,Major,0.0369,125.485,4/4,0.644
+2022,29EkMZmUNz1WsuzaMtVo1i,I Bet You Look Good On The Dancefloor,Arctic Monkeys,"Whatever People Say I Am, That's What I'm Not",30,32.61,0.5667,0.0,True,Rock,62,0.00225,0.535,173680,0.948,0.0,F#,0.376,-4.19,Minor,0.0356,103.183,4/4,0.778
+2022,3jp7Ryj1sX3riA7NQaVlLd,Whistle For The Choir,The Fratellis,Costello Music,30,38.39,0.6,0.0667,True,Children’s Music,50,0.0591,0.579,215853,0.686,0.0,E,0.0876,-4.336,Major,0.0338,131.634,4/4,0.761
+2022,7LngfsOr2JVe4y7VXnjqvn,Alive & Amplified,The Mooney Suzuki,Alive & Amplified,30,21.62,0.7667,0.1667,True,Blues,35,0.00014,0.314,184307,0.983,0.000487,D,0.282,-3.228,Major,0.12,184.084,4/4,0.516
+2022,0ZRrJTPXDToRJ2iLo9oLrW,When The Sun Goes Down,Arctic Monkeys,"Whatever People Say I Am, That's What I'm Not",29,42.48,0.5172,0.069,True,Rock,59,0.0341,0.348,202133,0.875,0.0,B,0.117,-4.758,Minor,0.199,169.152,4/4,0.407
+2022,1F6IbA7di42uPc3cff8PXV,Flaming Hot Cheetos,Clairo,Flaming Hot Cheetos,29,35.61,0.3793,0.1034,True,Pop,74,0.865,0.817,123884,0.551,0.000151,G,0.101,-9.33,Minor,0.133,109.966,4/4,0.142
+2022,2vVHf43MQ8V3gDbo8HRlnJ,Perhaps Vampires Is A Bit Strong But…,Arctic Monkeys,"Whatever People Say I Am, That's What I'm Not",29,36.77,0.6552,0.069,True,Indie,48,0.000293,0.371,268627,0.914,8.75e-05,B,0.0852,-4.917,Minor,0.081,134.982,4/4,0.394
+2022,3ItzRpwvKtkDSNdRSjXu7Z,Chelsea Dagger,The Fratellis,Costello Music,29,43.81,0.5172,0.069,True,Indie,63,0.0468,0.519,215173,0.825,0.0,G,0.0604,-3.087,Major,0.145,154.777,4/4,0.581
+2022,3e5eR2DBoHD2qR4HN3YmTv,Whole Wide World,Bahamas,Pink Strat,29,37.54,0.4483,0.0345,True,Folk,62,0.598,0.731,155240,0.447,0.000279,F,0.116,-9.038,Major,0.0386,108.838,4/4,0.595
+2022,5ojVq0bohB1uEEMga1IO3j,You Probably Couldn't See For The Lights But You Were Staring Straight At Me,Arctic Monkeys,"Whatever People Say I Am, That's What I'm Not",29,23.56,0.6207,0.1034,True,Indie,46,0.00384,0.58,130813,0.972,0.0,B,0.296,-4.274,Minor,0.0589,105.492,4/4,0.926
+2022,7wYU1avLwl1Gtkib8OTrZp,Dionysus,The Buttertones,Buttertones,29,48.96,0.4828,0.2069,True,Indie,49,0.00269,0.331,209040,0.61,0.0548,A,0.14,-8.138,Major,0.0293,132.746,4/4,0.55
+2022,3bt6gBOA41MHQfXy0Jf855,Don't Know How To Keep Loving You,Julia Jacklin,Crushing,28,53.43,0.6429,0.0714,True,Folk,54,0.213,0.589,332987,0.419,0.000187,F,0.106,-6.524,Minor,0.0275,132.121,4/4,0.154
+2022,4PJxptsSC9S89hTO8gRCv3,Piledriver waltz,Alex Turner,Submarine - Original Songs From The Film By Alex Turner,28,26.25,0.6429,0.0,True,Rock,47,0.119,0.533,204880,0.748,0.612,C#,0.316,-7.861,Major,0.0285,105.921,3/4,0.343
+2022,7sI80PK0P3tDCvULKszqzL,Set to Attack,Albert Hammond Jr,Francis Trouble,28,28.54,0.6429,0.0357,True,Rock,56,0.0453,0.765,208213,0.806,0.0129,C,0.0914,-4.464,Minor,0.0276,116.017,4/4,0.964
+2022,03pRnmoWR9IVKkIR73iGIG,Take It Easy (Ever After Lasting Love),White Denim,Stiff,27,49.93,0.4074,0.0,True,Blues,38,0.728,0.591,207107,0.453,0.0395,E,0.142,-11.467,Major,0.0369,98.943,4/4,0.397
+2022,0hCjDPhl5JbFpYbrlebXvB,In the Kingdom,Mazzy Star,Seasons of Your Day,27,77.83,0.3704,0.0741,True,Children’s Music,51,0.537,0.338,314753,0.456,0.331,C,0.0925,-10.008,Major,0.027,171.819,4/4,0.347
+2022,1Bph2KY0MA2JUiX5uADWjZ,Broken,Jake Bugg,Jake Bugg,27,66.59,0.4444,0.0741,True,Indie,58,0.335,0.439,247014,0.442,0.00889,G#,0.107,-8.873,Major,0.0288,119.81,4/4,0.189
+2022,3MJov5mT64K42o1Rffhblq,Never in My Wildest Dreams,Dan Auerbach,Waiting on a Song,27,32.27,0.5926,0.037,True,Rock,67,0.315,0.559,176027,0.466,0.0039,F,0.0933,-6.769,Major,0.0362,117.21,4/4,0.623
+2022,59xYAblNy1Xr4U1IsJ3gZb,Simple As This,Jake Bugg,Jake Bugg,27,85.18,0.1481,0.0741,True,Indie,59,0.623,0.612,199453,0.578,0.0,G#,0.0983,-8.092,Major,0.025,96.985,4/4,0.696
+2022,7gsArdm7rk6X6wsMr2QKWS,From The Ritz To The Rubble,Arctic Monkeys,"Whatever People Say I Am, That's What I'm Not",27,34.39,0.4074,0.0,True,Rock,54,0.00147,0.216,193427,0.882,0.0,B,0.308,-5.176,Minor,0.0439,189.286,4/4,0.656
+2022,0IVkP59yJ9GFF6B7IrvrxA,Paper Bag,Fiona Apple,When The Pawn...,26,51.58,0.3077,0.0769,True,Folk,51,0.714,0.715,219267,0.446,2.29e-05,C,0.11,-9.904,Major,0.0366,140.969,3/4,0.845
+2022,1ZozGivTAYsOwhy6LVHsPX,Kool Thing,Sonic Youth,Goo,26,17.37,0.7692,0.1154,True,Rock,57,0.0107,0.25,246200,0.8,0.111,G,0.118,-11.6,Major,0.0443,154.341,4/4,0.298
+2022,4m3vLNZkFAjm30XxPXf7E3,Eres para Mí (with Anita Tijoux),Julieta Venegas,Limon Y Sal,26,71.85,0.1538,0.0769,True,Rock,64,0.0701,0.8,192760,0.685,6.22e-06,F#,0.278,-5.841,Minor,0.0778,96.986,4/4,0.899
+2022,5t1Eqjxu93ub0LiTgxZQOB,Flathead,The Fratellis,Costello Music,26,25.88,0.6154,0.0769,True,Alternative,41,0.0118,0.599,197440,0.942,0.0,C,0.327,-5.196,Major,0.155,105.144,4/4,0.334
+2022,68qYhu1du0kbiyAtnIKNLh,Tea for Two,Albert Hammond Jr,Francis Trouble,26,35.83,0.6538,0.0769,True,Blues,43,0.114,0.604,248600,0.749,0.0,G,0.0788,-4.356,Minor,0.0313,110.044,4/4,0.737
+2022,6DUKQUhWqUySYngLXLNwP2,Automatic Stop,The Strokes,Room On Fire,26,29.2,0.6154,0.0385,True,Rock,57,0.00336,0.68,207029,0.536,0.737,C#,0.0884,-6.078,Major,0.0384,105.917,4/4,0.959
+2022,7KwJrAQMoJyUEBes3evMLv,Orpheus Under the Influence,The Buttertones,Buttertones,26,31.82,0.4615,0.0769,True,Rock,57,0.0365,0.362,134080,0.871,0.000256,D,0.114,-6.546,Major,0.0502,151.722,4/4,0.526
+2022,2gZUPNdnz5Y45eiGxpHGSc,POWER,Kanye West,My Beautiful Dark Twisted Fantasy,25,43.95,0.28,0.0,True,Rap,79,0.0162,0.543,292093,0.915,0.0,C,0.744,-4.746,Minor,0.113,153.998,4/4,0.577
+2022,3UI9I3e1g1y5T3SMfdgfGO,Colgando en tus manos (con Marta Sánchez),Carlos Baute,De mi puño y letra - Edicion Coleccionista,25,36.83,0.56,0.04,True,Pop,74,0.535,0.836,230280,0.637,0.0,F#,0.129,-4.803,Major,0.0367,120.025,4/4,0.875
+2022,5FFowl1Ve4S5OehL6OywSg,Waiting Room,Fugazi,13 Songs,25,33.63,0.36,0.0,True,Indie,61,0.00401,0.616,173267,0.727,0.86,C#,0.157,-8.176,Minor,0.0365,92.259,4/4,0.54
+2022,5HjqXQPZi27d92H5gCo1Oq,Making Breakfast,Twin Peaks,Wild Onion,25,39.08,0.24,0.0,True,Rock,49,0.000267,0.495,132669,0.782,0.736,A,0.54,-4.694,Major,0.0315,116.114,4/4,0.451
+2022,6i8gUFwd6cFuC20Wz4wDPq,Burning Man,Third Eye Blind,Third Eye Blind,25,59.4,0.16,0.36,True,Alternative,41,0.0176,0.666,179733,0.655,2.37e-06,D,0.358,-8.243,Major,0.027,91.228,4/4,0.714
+2022,78Gzxi27GuNHTfkn2BylG4,What Ever Happened?,The Strokes,Room On Fire,25,19.58,0.72,0.04,True,Children’s Music,56,9.67e-05,0.547,169273,0.599,0.679,B,0.229,-6.057,Major,0.0344,116.165,4/4,0.587
+2022,0WQiDwKJclirSYG9v5tayI,There Is a Light That Never Goes Out - 2011 Remaster,The Smiths,The Queen Is Dead,24,20.92,0.75,0.125,True,Indie,72,0.04,0.523,244587,0.769,0.0,E,0.136,-5.855,Major,0.0269,136.162,4/4,0.876
+2022,4XYo3W8U6IY42EbB01rnR4,Heaven,Clairo,Heaven,24,45.48,0.4167,0.0417,True,Indie,64,0.224,0.733,233871,0.262,4.79e-06,C,0.105,-13.766,Major,0.028,135.497,3/4,0.444
+2022,00t7QTffOR3SA3L1BvSQVq,Suicidal Thoughts - 2005 Remaster,The Notorious B.I.G.,Ready to Die - The Remaster; 2015 Remaster,23,49.87,0.2609,0.0435,True,Hip-Hop,63,0.44,0.506,170227,0.505,2.3e-05,G#,0.0938,-10.198,Major,0.444,76.016,4/4,0.0788
+2022,1Jte640nBiOWyuD7N0odNZ,In Transit,Albert Hammond Jr,Yours to Keep,23,38.32,0.4783,0.0,True,Blues,42,0.00202,0.468,212680,0.715,0.733,E,0.087,-3.101,Minor,0.0558,141.01,4/4,0.6
+2022,1K7xX7qHXeIMwfTtxieAxH,Head Alone,Julia Jacklin,Crushing,23,31.26,0.5217,0.0,True,Folk,45,0.0594,0.614,178987,0.591,1.45e-05,B,0.183,-5.724,Major,0.0328,114.992,4/4,0.379
+2022,1pHP4JeQV9wDx87D6qH9hD,Here It Goes Again,OK Go,Oh No,23,10.31,0.8696,0.0,True,Pop,63,0.000342,0.537,179813,0.882,9.06e-05,C,0.12,-2.306,Major,0.0403,145.729,4/4,0.81
+2022,6QQ0yYfjTS8XhiuDqGCXA3,Look At Grandma,Bo Diddley,Where It All Began,23,32.21,0.5217,0.087,True,Blues,29,0.0472,0.694,215253,0.842,0.0,G,0.0585,-6.298,Major,0.0972,116.155,4/4,0.635
+2022,12lKq3hZs1BwcqKnA5VXxO,Velvet Ditch,The Arcs,"Yours, Dreamily,",22,13.87,0.8182,0.2273,True,Blues,39,0.000598,0.626,192093,0.727,0.000596,E,0.1,-9.829,Minor,0.0481,121.352,3/4,0.546
+2022,2Xb6wJYGi0QXwURw5WWvI5,Right Down the Line,Gerry Rafferty,City to City,22,37.41,0.5455,0.1364,True,Rock,66,0.213,0.783,267773,0.322,0.00243,C,0.114,-15.091,Major,0.0343,128.226,4/4,0.77
+2022,7dITAq1YP5e0kTcaDq4YWI,Limón y Sal,Julieta Venegas,Limon Y Sal,22,38.99,0.4091,0.0909,True,Rock,69,0.138,0.634,205413,0.649,0.0,B,0.288,-6.056,Major,0.0255,111.03,4/4,0.491
+2022,7mJG18yZGq0aXKWNtK3FQf,Algo Está Cambiando,Julieta Venegas,Si,22,45.76,0.3636,0.0,True,Alternative,53,0.0635,0.64,240120,0.6,8.48e-05,E,0.0925,-7.997,Minor,0.0359,87.008,4/4,0.365
+2022,1i6N76fftMZhijOzFQ5ZtL,Psycho Killer - 2005 Remaster,Talking Heads,Talking Heads '77,21,13.36,0.5714,0.0952,True,Dance,72,0.0707,0.721,261413,0.521,0.00552,D,0.127,-8.123,Major,0.0612,123.118,4/4,0.942
+2022,2fscHtYDKLd7xYRCTe3prP,Amor (Ft. Mon Laferte) - Mtv Unplugged,Los Auténticos Decadentes,Amor (Ft. Mon Laferte) (Mtv Unplugged),21,32.29,0.5238,0.0476,True,Children’s Music,70,0.0339,0.597,312443,0.818,0.0,A,0.978,-5.317,Minor,0.0472,92.869,4/4,0.688
+2022,3IXRdLsQib8m0hBbQpe7T8,Hang Me Up To Dry,Cold War Kids,Robbers & Cowards,21,37.7,0.4762,0.0952,True,Children’s Music,62,0.0241,0.509,218787,0.916,0.000402,D,0.36,-2.793,Major,0.0324,92.432,4/4,0.672
+2022,3PG7BAJG9WkmNOJOlc4uAo,Femme Fatale,The Velvet Underground,The Velvet Underground & Nico 45th Anniversary,21,19.93,0.619,0.0952,True,Alternative,52,0.913,0.55,159000,0.145,0.0,C,0.118,-15.753,Major,0.0332,103.918,4/4,0.138
+2022,3fk5fBFB27GbWGATdBpOgr,Carmesí,Vicente Garcia,A la Mar,21,29.93,0.4762,0.1429,True,Reggae,63,0.654,0.809,181467,0.508,0.000224,C#,0.105,-9.182,Major,0.0328,121.968,4/4,0.732
+2022,4fPBB44eDH71YohayI4eKV,You Only Live Once,The Strokes,First Impressions Of Earth,21,32.67,0.5238,0.0,True,Children’s Music,66,0.0238,0.63,189227,0.908,0.592,B,0.116,-2.42,Major,0.0326,120.522,4/4,0.968
+2022,6Y5k0NupErwLzOQXDxfVFa,Te Quiero Comer La Boca,La Mosca Tse-Tse,Buenos Muchachos,21,21.61,0.6667,0.0476,True,Ska,61,0.105,0.774,204933,0.665,4.89e-05,C,0.148,-6.42,Major,0.0326,106.842,4/4,0.968
+2022,1Jmqubf9kGkWeYQXQKImL5,People Are Strange,The Doors,Strange Days,20,11.85,0.7,0.15,True,Rock,69,0.685,0.699,130173,0.467,0.0,E,0.315,-8.578,Minor,0.0375,119.287,4/4,0.764
+2022,3QHA3SBpz2SDEpI1HuMT0e,The Only One,The Black Keys,Brothers,20,52.85,0.4,0.1,True,Rock,51,0.693,0.434,300347,0.653,0.0421,C#,0.177,-6.969,Minor,0.0324,105.09,4/4,0.625
+2023,5HgAZuHFAU5qLLMYuIQkgq,Run Right Back,The Black Keys,El Camino,78,171.52,0.2051,0.0513,True,Rock,56,0.03,0.511,197000,0.766,0.00752,D,0.221,-5.445,Minor,0.0473,79.963,4/4,0.632
+2023,32lewphnrnKx7lgsanoakd,Dearest,The Black Keys,Rave On Buddy Holly,75,168.92,0.0667,0.08,True,Blues,39,0.4,0.7,124920,0.248,0.00513,F#,0.121,-13.922,Major,0.104,103.671,4/4,0.53
+2023,5HjqXQPZi27d92H5gCo1Oq,Making Breakfast,Twin Peaks,Wild Onion,72,130.81,0.2222,0.1806,True,Rock,49,0.000267,0.495,132669,0.782,0.736,A,0.54,-4.694,Major,0.0315,116.114,4/4,0.451
+2023,3SUusuA9jH1v6PVwtYMbdv,Last Nite,The Strokes,Is This It,70,155.89,0.3,0.5857,True,Rock,70,0.0223,0.624,193373,0.899,0.000155,C,0.0975,-5.71,Major,0.0295,104.055,4/4,0.797
+2023,79DO6dBi8936P6EShLB209,Lightning Bolt,Jake Bugg,Jake Bugg,66,117.6,0.3485,0.2273,True,Indie,60,0.0818,0.551,144013,0.839,0.0,A,0.151,-4.555,Major,0.0787,116.051,4/4,0.681
+2023,3Wwd0W89C56cCRilh8HFNs,The Go Getter,The Black Keys,Brothers,63,204.76,0.2222,0.3016,True,Rock,46,0.159,0.646,216947,0.719,0.000432,C#,0.0758,-7.192,Major,0.0685,160.008,4/4,0.71
+2023,5rTIpPWeO0IL4HWlGWrz5G,Brianstorm,Arctic Monkeys,Favourite Worst Nightmare,62,136.87,0.1452,0.1129,True,Rock,55,8.39e-05,0.421,170253,0.98,0.00125,C#,0.237,-4.229,Major,0.212,165.193,4/4,0.435
+2023,2MVwrvjmcdt4MsYYLCYMt8,Tighten Up,The Black Keys,Brothers,59,80.09,0.5254,0.2881,True,Rock,64,0.00121,0.504,211080,0.705,4.12e-06,F#,0.453,-6.179,Minor,0.0665,108.965,4/4,0.567
+2023,3QHA3SBpz2SDEpI1HuMT0e,The Only One,The Black Keys,Brothers,59,171.42,0.3898,0.1695,True,Rock,51,0.693,0.434,300347,0.653,0.0421,C#,0.177,-6.969,Minor,0.0324,105.09,4/4,0.625
+2023,6dU5RxthbuaN31bRbEDlNw,Everlasting Light,The Black Keys,Brothers,58,108.7,0.4138,0.2931,True,Rock,59,0.127,0.641,203773,0.582,0.00632,E,0.354,-6.554,Major,0.0483,181.039,4/4,0.725
+2023,0grFc6klR3hxoHLcgCYsF4,Howlin' for You,The Black Keys,Brothers,51,84.42,0.4118,0.2549,True,Rock,70,0.028,0.705,191800,0.735,0.0783,B,0.112,-6.646,Major,0.0931,132.627,4/4,0.448
+2023,25YlltWXRb9k7KbrEBRuhJ,Lo/Hi,The Black Keys,"""Let's Rock""",50,100.91,0.28,0.32,True,Alternative,66,0.0151,0.606,177768,0.679,0.000433,D,0.0962,-7.445,Major,0.0321,122.016,4/4,0.707
+2023,6O0xnpq8xNi4VNvS6yezHN,Plastic Soul,Mondo Cozmo,Plastic Soul,50,225.58,0.1,0.14,True,Children’s Music,43,0.239,0.389,298333,0.714,0.757,D#,0.169,-5.232,Major,0.0315,77.294,4/4,0.348
+2023,2qoLCpTRYv6h8Vx94hxkvl,Ten Cent Pistol,The Black Keys,Brothers,48,88.23,0.4583,0.375,True,Rock,51,0.325,0.588,269307,0.488,0.0139,C,0.18,-8.462,Minor,0.03,104.717,4/4,0.328
+2023,4qjqO5m5e5vebk9upd7xUU,Never Gonna Give You Up,The Black Keys,Brothers,48,82.72,0.4792,0.3958,True,Rock,51,0.324,0.557,218987,0.665,0.000281,F#,0.0713,-6.19,Minor,0.0328,75.805,4/4,0.437
+2023,4c15DmbPf9g3HNPipLBBu0,I'm Not the One,The Black Keys,Brothers,45,54.2,0.6444,0.2444,True,Indie,48,0.543,0.604,229213,0.406,0.000545,A,0.0932,-10.016,Minor,0.0306,139.897,4/4,0.474
+2023,582EVyAFKmKPa1bVPSDurJ,Two Fingers,Jake Bugg,Jake Bugg,45,66.12,0.4889,0.2667,True,Indie,61,0.00252,0.486,195987,0.677,0.0,F,0.102,-5.227,Major,0.0314,120.576,4/4,0.913
+2023,1XGwjdHXHNu3842f75eg3T,The Waiting,Angel Olsen,Half Way Home,41,128.74,0.1463,0.1951,True,Folk,42,0.72,0.606,222617,0.492,0.0,G,0.125,-8.247,Major,0.0419,108.289,4/4,0.616
+2023,2UE4m8egf0aREmOi47sDOk,Next Girl,The Black Keys,Brothers,41,81.98,0.3659,0.3415,True,Rock,53,0.022,0.383,198213,0.748,0.00014,C#,0.114,-6.343,Minor,0.0343,171.568,4/4,0.255
+2023,0OM9ri37LIbPc9hffwsyb1,Hard To Explain,The Strokes,Is This It,40,93.08,0.3,0.25,True,Rock,60,0.000456,0.408,224333,0.665,0.863,G,0.0888,-6.286,Major,0.0578,82.525,4/4,0.667
+2023,1comODdI862K7ei34XZRa4,Too Afraid to Love You,The Black Keys,Brothers,40,64.07,0.45,0.25,True,Rock,49,0.0156,0.531,204733,0.676,0.00287,B,0.0988,-6.173,Minor,0.0299,136.759,4/4,0.544
+2023,26ZnmGlPGXaOzPDydAP9D5,She's Long Gone,The Black Keys,Brothers,40,67.97,0.375,0.275,True,Indie,52,0.0361,0.349,186000,0.866,0.0406,B,0.216,-6.676,Minor,0.112,167.951,4/4,0.488
+2023,5JeZZtqY0loM9UHQVIChby,Some things Cosmic,Angel Olsen,Strange Cacti,38,48.94,0.4737,0.1053,True,Folk,41,0.919,0.214,174867,0.182,0.00465,G#,0.113,-13.538,Major,0.0368,143.171,4/4,0.104
+2023,2y42MmBCfEhqIkFAJs0V8Z,Black Mud,The Black Keys,Brothers,37,26.09,0.6486,0.2703,True,Rock,52,0.253,0.515,129440,0.502,0.883,B,0.345,-8.898,Minor,0.058,143.937,4/4,0.374
+2023,4BD3sl4HjTAzWGVIP8LLm4,I Wanna C U,Blood Orange,Angel's Pulse,37,14.78,0.7027,0.1622,True,Alternative,59,0.715,0.793,74725,0.304,0.181,C,0.114,-12.191,Minor,0.0442,99.773,4/4,0.72
+2023,78krcD2vFUXJ3Y0XXeiHWH,Sinister Kid,The Black Keys,Brothers,37,67.22,0.4054,0.2432,True,Rock,54,0.133,0.761,224480,0.828,0.0858,A,0.348,-7.259,Major,0.0721,139.616,4/4,0.935
+2023,6gU7ohksNd6LsEJMWfDRhp,Soma,The Strokes,Is This It,34,42.16,0.4706,0.1471,True,Rock,53,0.0747,0.499,153840,0.706,0.00289,C,0.0753,-7.335,Major,0.0302,148.931,4/4,0.483
+2023,0BQH5uHglCuHVImyCjOOHc,Unknown Brother,The Black Keys,Brothers,33,51.98,0.5152,0.2727,True,Indie,48,0.466,0.5,239693,0.552,0.00221,A,0.108,-7.888,Major,0.0413,83.81,4/4,0.209
+2023,0NfdbvWFwlVMA183QibxCB,Me Vale,Maná,¿Dónde Jugarán Los Niños?,33,139.4,0.2424,0.5758,True,Pop,59,0.00201,0.534,271320,0.925,0.000692,A,0.134,-5.198,Major,0.035,166.9,4/4,0.753
+2023,7hm4HTk9encxT0LYC0J6oI,Someday,The Strokes,Is This It,33,42.94,0.6061,0.1818,True,Children’s Music,68,0.00425,0.538,183440,0.52,0.0,A,0.367,-7.46,Major,0.0299,106.031,4/4,0.678
+2023,0LO7f7ZJg871B8hLTRzrfB,Julia,Mt. Joy,Mt. Joy,32,62.66,0.3438,0.2188,True,Pop,60,0.681,0.566,190453,0.412,0.017,F,0.0741,-6.994,Major,0.0267,81.879,4/4,0.47
+2023,2jggaUpOvn2G6Pv2HCEU6m,Esa noche,Café Tacvba,Re,31,43.33,0.4839,0.6129,True,Children’s Music,62,0.768,0.738,206373,0.418,0.0,F#,0.135,-9.452,Minor,0.032,134.855,4/4,0.592
+2023,4kiMvD7yPec5viFrCQDiYK,Henrietta,The Fratellis,Costello Music,31,48.7,0.3548,0.129,True,Indie,48,0.023,0.609,211627,0.951,0.0,F#,0.136,-3.267,Minor,0.0918,122.455,4/4,0.872
+2023,59xYAblNy1Xr4U1IsJ3gZb,Simple As This,Jake Bugg,Jake Bugg,31,55.02,0.4194,0.5161,True,Indie,59,0.623,0.612,199453,0.578,0.0,G#,0.0983,-8.092,Major,0.025,96.985,4/4,0.696
+2023,1FvDJ9KGxcqwv1utyPL3JZ,This Charming Man - 2011 Remaster,The Smiths,The Smiths,29,38.36,0.4483,0.1034,True,Indie,73,0.00509,0.611,162920,0.846,0.0,B,0.0784,-5.9,Major,0.0436,103.912,4/4,0.751
+2023,4lY95OMGb9WxP6IYut64ir,Shake It Out,Florence + The Machine,Ceremonials - Deluxe Edition,29,134.28,0.1724,0.2414,True,Pop,65,0.0126,0.519,277720,0.808,0.0,A#,0.105,-4.097,Major,0.0383,107.505,4/4,0.251
+2023,4OkPamOn5GofkOQu64Z4eR,Teddy Picker,Arctic Monkeys,Favourite Worst Nightmare,28,30.71,0.4286,0.0714,True,Rock,54,0.000413,0.637,160640,0.973,2.23e-05,A,0.104,-3.386,Major,0.112,150.223,4/4,0.8
+2023,0W0euvQlhbcsTydzsD4EQk,Death Letter Blues,Son House,Father Of The Delta Blues: The Complete 1965 Sessions,26,68.21,0.2692,0.1923,True,Blues,38,0.865,0.803,259160,0.288,0.0593,G,0.0833,-15.418,Minor,0.0629,115.685,4/4,0.865
+2023,0jBE7Fn78EAvmIs3dCd6GO,Is This It,The Strokes,Is This It,26,23.3,0.6154,0.1538,True,Indie,58,0.147,0.667,151333,0.692,3.75e-05,F,0.349,-8.361,Major,0.0285,96.021,4/4,0.846
+2023,5FlBGGwGuqYmqr0qeBWrxe,Five to One,The Doors,Waiting for the Sun,26,67.26,0.1923,0.1538,True,Rock,56,0.203,0.615,264960,0.401,0.0,E,0.086,-14.07,Minor,0.0507,87.959,4/4,0.672
+2023,7KwJrAQMoJyUEBes3evMLv,Orpheus Under the Influence,The Buttertones,Buttertones,26,19.14,0.6154,0.0385,True,Rock,57,0.0365,0.362,134080,0.871,0.000256,D,0.114,-6.546,Major,0.0502,151.722,4/4,0.526
+2023,0ElRzK07sc9eszyk1ea9Ab,Human Fly,The Cramps,Off The Bone,25,38.12,0.36,0.6,True,Dance,53,0.0389,0.531,136427,0.849,0.00763,A,0.186,-10.754,Major,0.111,119.516,4/4,0.305
+2023,0z9dPcBhJvqO06QMaKelUE,Drunk on Halloween,Wallows,Drunk on Halloween,25,69.06,0.32,0.56,True,Rock,62,0.231,0.631,237027,0.634,1.3e-05,F#,0.0924,-4.456,Major,0.0247,100.967,4/4,0.774
+2023,3ghXwIS6cr3P5InauKlqFy,These Days,The Black Keys,Brothers,25,41.17,0.68,0.32,True,Children’s Music,46,0.746,0.436,311840,0.288,0.00208,G,0.098,-10.726,Major,0.0315,117.482,4/4,0.268
+2023,3iiObSfkcBsETljmSB4Hcs,When It Started,The Strokes,Is This It,25,30.65,0.44,0.04,True,Rock,49,0.265,0.722,175200,0.654,0.00392,C,0.15,-8.107,Major,0.0328,131.962,4/4,0.904
+2023,4mdyVTV7Tr5YDFnD2kvSM4,Bruises,Chairlift,Does You Inspire You,25,58.83,0.36,0.32,True,Dance,56,0.0175,0.579,241467,0.554,0.0221,C,0.101,-7.08,Major,0.0587,185.183,4/4,0.838
+2023,2CzWeyC9zlDpIOZPUUKrBW,1234,Feist,The Reminder,24,41.9,0.2917,0.25,True,Folk,60,0.219,0.71,183667,0.491,1.99e-06,D,0.0859,-7.382,Major,0.0504,109.933,4/4,0.638
+2023,48UPSzbZjgc449aqz8bxox,Californication,Red Hot Chili Peppers,Californication,24,73.3,0.2917,0.0417,True,Rock,82,0.0021,0.592,329733,0.767,0.00165,A,0.127,-2.788,Minor,0.027,96.483,4/4,0.328
+2023,4fPBB44eDH71YohayI4eKV,You Only Live Once,The Strokes,First Impressions Of Earth,24,24.39,0.6667,0.4583,True,Children’s Music,66,0.0238,0.63,189227,0.908,0.592,B,0.116,-2.42,Major,0.0326,120.522,4/4,0.968
+2023,5sCab5LlHPDB6NjvrZMwdX,Rudy,Rostam,Half-Light,24,66.04,0.2917,0.4167,True,Folk,41,0.377,0.654,233227,0.605,0.0,D,0.0891,-9.031,Major,0.136,90.016,4/4,0.457
+2023,6MdqqkQ8sSC0WB4i8PyRuQ,No Diggity,Blackstreet,Another Level,24,130.55,0.125,0.2083,True,R&B,79,0.303,0.868,304600,0.646,0.0,C#,0.284,-4.674,Minor,0.288,88.641,4/4,0.67
+2023,6Vmow8PuUaU7W1T2WWLZk2,Go Gina,SZA,Ctrl,24,48.74,0.3333,0.2083,True,Pop,65,0.799,0.603,161613,0.606,0.0,A,0.391,-6.634,Major,0.114,80.176,4/4,0.463
+2023,1420BGhbXGkIJtbtBlfpYE,The Modern Age,The Strokes,Is This It,23,38.12,0.3913,0.2609,True,Rock,56,0.0116,0.528,208067,0.888,0.762,D,0.154,-6.039,Major,0.0326,145.971,4/4,0.897
+2023,2M7enaZSs1DRRjZscA4LAj,Reminiscing,The Buttertones,Buttertones,23,65.66,0.0435,0.087,True,Rock,50,0.000591,0.399,180000,0.707,0.201,B,0.126,-7.809,Major,0.0307,125.137,4/4,0.577
+2023,6EvUAsfncetT0RcWshHCbl,I'll Come Too,James Blake,Assume Form,23,32.59,0.5217,0.4348,True,R&B,68,0.757,0.661,222400,0.472,0.00275,G,0.192,-7.889,Major,0.164,73.986,4/4,0.206
+2023,77oU2rjC5XbjQfNe3bD6so,Beast Of Burden - Remastered 1994,The Rolling Stones,Some Girls,23,76.62,0.3043,0.1304,True,Rock,73,0.387,0.787,265173,0.877,0.00065,C#,0.0387,-3.822,Minor,0.032,100.61,4/4,0.837
+2023,01T0Kq5YOIRF9BQRXJsyfe,Portuguese Knife Fight,Cage The Elephant,Tell Me I'm Pretty,22,40.42,0.3636,0.0455,True,Rock,54,0.00144,0.56,217893,0.928,0.00292,F#,0.318,-4.594,Major,0.056,115.207,4/4,0.612
+2023,1Bph2KY0MA2JUiX5uADWjZ,Broken,Jake Bugg,Jake Bugg,22,49.19,0.4091,0.5,True,Indie,58,0.335,0.439,247014,0.442,0.00889,G#,0.107,-8.873,Major,0.0288,119.81,4/4,0.189
+2023,1LzNfuep1bnAUR9skqdHCK,Fade Into You,Mazzy Star,So Tonight That I Might See,22,70.38,0.3182,0.7727,True,Children’s Music,72,0.245,0.42,295600,0.33,0.000679,A,0.0677,-13.925,Major,0.0275,157.143,3/4,0.175
+2023,2g3JAKjKruTL40VffoGLmg,Blue Sunday,The Doors,Morrison Hotel,22,22.93,0.5455,0.1818,True,Rock,53,0.592,0.447,130800,0.319,0.0385,F,0.0945,-11.642,Major,0.0283,73.868,4/4,0.133
+2023,3zksbXteOCeSusJ5Xltr3t,Bubble Gum,Clairo,Bubble Gum,22,56.43,0.1818,0.1364,True,Pop,60,0.979,0.509,175961,0.0167,2.72e-05,A,0.387,-24.639,Major,0.115,207.97,3/4,0.229
+2023,4iEOVEULZRvmzYSZY2ViKN,Left Hand Free,alt-J,This Is All Yours,22,38.27,0.3182,0.0909,True,Indie,64,0.462,0.697,173631,0.877,0.00943,D#,0.083,-4.465,Major,0.0462,101.99,4/4,0.802
+2023,1IFRVS4t1olI0XG9RBWdKH,The Girl,City and Colour,Bring Me Your Love (Special Edition),21,37.6,0.381,0.381,True,Folk,59,0.837,0.404,360107,0.542,7.21e-05,A#,0.137,-7.578,Major,0.0349,109.166,4/4,0.183
+2023,1Q5kgpp4pmyGqPwNBzkSrw,Roadhouse Blues,The Doors,Morrison Hotel,21,64.1,0.1429,0.1905,True,Rock,72,0.337,0.612,243827,0.634,4.6e-05,A,0.147,-8.212,Major,0.0319,121.059,4/4,0.904
+2023,21Ay8Y9Pr91nSauPGtK6MW,Barely Legal,The Strokes,Is This It,21,44.34,0.2857,0.2381,True,Rock,55,0.00326,0.426,234693,0.884,0.0495,C,0.0903,-6.279,Major,0.0365,157.811,4/4,0.852
+2023,45QyGXbqTWaFUrIKe2ugs3,D Is for Dangerous,Arctic Monkeys,Favourite Worst Nightmare,21,19.11,0.4286,0.0952,True,Rock,49,1.05e-05,0.551,134733,0.928,0.000108,C#,0.145,-4.776,Major,0.0365,145.057,4/4,0.736
+2023,6g6FWPdAMf55CpmkoE7jF1,Invéntame,Mon Laferte,Invéntame,21,53.64,0.1905,0.4286,True,Children’s Music,62,0.00154,0.564,205800,0.494,2.73e-05,G,0.172,-9.135,Major,0.0271,96.924,4/4,0.108
+2023,10u9028SSfRyIKxV4xrzsg,Darling Baby,The Elgins,Hitsville USA - The Motown Singles Collection 1959-1971,20,34.27,0.25,0.2,True,Blues,44,0.419,0.574,156107,0.53,0.0,A#,0.241,-10.111,Major,0.0262,112.629,3/4,0.83
+2023,5G1sTBGbZT5o4PNRc75RKI,Lonely Boy,The Black Keys,El Camino,20,16.65,0.75,0.0,True,Rock,72,0.00417,0.356,193653,0.872,0.00975,D,0.0997,-7.837,Major,0.068,166.3,4/4,0.607
+2023,5XeFesFbtLpXzIVDNQP22n,I Wanna Be Yours,Arctic Monkeys,AM,20,15.34,0.65,0.1,True,Indie,73,0.136,0.464,183956,0.417,0.022,C,0.0974,-9.345,Minor,0.0256,67.528,4/4,0.479
+2023,5lN1EH25gdiqT1SFALMAq1,Gold on the Ceiling,The Black Keys,El Camino,20,44.63,0.2,0.35,True,Indie,69,0.00772,0.505,224333,0.833,7.9e-05,C,0.069,-4.632,Major,0.0475,130.121,4/4,0.565
+2023,3AJwUDP919kvQ9QcozQPxg,Yellow,Coldplay,Parachutes,19,40.53,0.3158,0.1579,True,Pop,82,0.00239,0.429,266773,0.661,0.00013,B,0.234,-7.227,Major,0.0281,173.365,4/4,0.285
+2023,4riDfclV7kPDT9D58FpmHd,Some,Steve Lacy,Some,19,25.54,0.2105,0.0526,True,Hip-Hop,63,0.00548,0.784,118393,0.554,0.254,G,0.0995,-6.417,Major,0.03,104.01,4/4,0.634
+2023,53PkA8aXiwH4ppa0V0iO7o,oh baby,LCD Soundsystem,american dream,19,71.77,0.4211,0.1579,True,Folk,63,0.0192,0.58,349693,0.622,0.653,F,0.648,-12.005,Major,0.0352,169.442,4/4,0.781
+2023,5piJiL6aRhvrKBa9YuEfS9,Peace Frog,The Doors,Morrison Hotel,19,32.71,0.3158,0.1579,True,Rock,60,0.16,0.646,178773,0.725,0.00324,C,0.345,-7.457,Major,0.0372,112.62,4/4,0.813
+2023,0djZ2ndRfAL69WYNra5jRC,April Come She Will,Simon & Garfunkel,Sounds Of Silence,18,20.34,0.3889,0.2222,True,Rock,58,0.863,0.489,109387,0.186,0.000152,A,0.2,-16.237,Major,0.029,102.245,4/4,0.349
+2023,0dy6iXYIF0piirySAzCBwF,The End Has No End,The Strokes,Room On Fire,18,22.64,0.5,0.5556,True,Indie,53,0.000799,0.536,185435,0.655,0.832,C#,0.229,-3.713,Major,0.0336,136.006,4/4,0.552
+2023,0qp8MuZNKelOGTK2HPlXBA,Kids Turned Out Fine,A$AP Rocky,TESTING,18,20.81,0.5,0.2778,True,Pop,68,0.271,0.305,183120,0.668,3.8e-05,C#,0.369,-9.404,Major,0.222,163.314,5/4,0.128
+2023,1YLJVmuzeM2YSUkCCaTNUB,Dog Days Are Over,Florence + The Machine,Lungs,18,16.37,0.7222,0.0,True,Pop,70,0.0416,0.492,251840,0.81,0.00379,G,0.117,-5.315,Major,0.0847,149.954,4/4,0.245
+2023,1nIUgRxbi4aY4fV5A26Jrp,I'll Be Your Man,The Black Keys,The Big Come Up,18,32.15,0.2778,0.3333,True,Blues,41,0.43,0.597,140933,0.729,0.000281,A,0.167,-3.35,Major,0.0327,120.086,4/4,0.712
+2023,3BlsMrQVvRCk3jmmKV7otm,Island Music,Tennis,Yours Conditionally,18,23.83,0.5556,0.3889,True,Folk,42,0.956,0.29,219213,0.465,0.912,B,0.0935,-18.178,Minor,0.164,97.711,4/4,0.307
+2023,3IXRdLsQib8m0hBbQpe7T8,Hang Me Up To Dry,Cold War Kids,Robbers & Cowards,18,17.48,0.7222,0.1111,True,Children’s Music,62,0.0241,0.509,218787,0.916,0.000402,D,0.36,-2.793,Major,0.0324,92.432,4/4,0.672
+2023,3QIoEi8Enr9uHffwInGIsC,Please Come Home for Christmas - 2013 Remaster,Eagles,Please Come Home for Christmas / Funky New Year,18,47.46,0.1667,0.8889,True,Folk,48,0.599,0.612,177440,0.289,0.00266,A,0.0561,-11.568,Major,0.0421,183.18,3/4,0.466
+2023,3jp7Ryj1sX3riA7NQaVlLd,Whistle For The Choir,The Fratellis,Costello Music,18,35.75,0.5556,0.2778,True,Children’s Music,50,0.0591,0.579,215853,0.686,0.0,E,0.0876,-4.336,Major,0.0338,131.634,4/4,0.761
+2023,3kKb3U3a8jmUJQB9ypE1Jl,Under Control,The Strokes,Room On Fire,18,25.63,0.5,0.2778,True,Indie,53,0.341,0.401,187153,0.723,0.775,C#,0.0543,-4.651,Major,0.0291,90.596,4/4,0.66
+2023,4JpazKcfOhbwqZrsYhzHee,Jackie and Wilson,Hozier,Hozier (Expanded Edition),18,45.55,0.2222,0.3889,True,Folk,67,0.0579,0.555,223120,0.727,7.52e-06,F#,0.0937,-4.202,Major,0.0388,82.142,4/4,0.739
+2023,5By7Pzgl6TMuVJG168VWzS,Michelle - Remastered 2009,The Beatles,Rubber Soul,18,32.18,0.3333,0.5,True,Rock,67,0.652,0.578,162373,0.29,0.0,F,0.105,-12.501,Minor,0.0341,117.403,4/4,0.666
+2023,5RoIXwyTCdyUjpMMkk4uPd,Sweet Disposition,The Temper Trap,Conditions,18,36.7,0.4444,0.2778,True,Pop,66,0.0701,0.531,230800,0.821,0.171,D,0.124,-6.812,Major,0.0439,129.139,4/4,0.34
+2023,6VnpKLtfNH4Dk09YSGPSyR,It Ain't Over 'Til It's Over,Lenny Kravitz,Mama Said,18,45.72,0.2778,0.0,True,Rock,67,0.422,0.679,242640,0.568,0.00948,F#,0.322,-10.74,Major,0.0423,159.689,4/4,0.93
+2023,7J3NsRNtQ0N7umdQQAlWNT,New Coat,White Denim,Last Day of Summer (Remastered),18,22.24,0.3889,0.2222,True,Blues,30,0.303,0.512,161200,0.855,0.000129,B,0.0881,-6.177,Minor,0.248,188.021,4/4,0.687
+2023,7e8utCy2JlSB8dRHKi49xM,Fluorescent Adolescent,Arctic Monkeys,Favourite Worst Nightmare,18,20.26,0.5,0.0556,True,Indie,67,0.00178,0.646,173493,0.813,2.26e-05,F#,0.144,-5.29,Minor,0.0288,112.115,4/4,0.821
+2023,2ytWZnTYDffdE8q6bXV6VM,ScreMER,Albert Hammond Jr,Francis Trouble,17,27.43,0.3529,0.7059,True,Blues,32,0.0239,0.533,151173,0.964,3.05e-06,B,0.0948,-3.042,Major,0.0919,126.096,4/4,0.652
+2023,6JuEshIRliNXRU1LXctRjZ,Halah,Mazzy Star,She Hangs Brightly,17,42.13,0.1765,0.2941,True,Children’s Music,51,0.23,0.622,196227,0.448,0.0,C,0.102,-10.709,Major,0.0265,106.085,4/4,0.553
+2023,78Gzxi27GuNHTfkn2BylG4,What Ever Happened?,The Strokes,Room On Fire,17,18.85,0.5294,0.4118,True,Children’s Music,56,9.67e-05,0.547,169273,0.599,0.679,B,0.229,-6.057,Major,0.0344,116.165,4/4,0.587
+2023,7HKez549fwJQDzx3zLjHKC,Start Me Up - Remastered 2009,The Rolling Stones,Tattoo You,17,42.53,0.2353,0.1176,True,Rock,76,0.0531,0.638,213067,0.928,0.11,F,0.0875,-4.078,Major,0.0388,122.428,4/4,0.966
+2023,0LtOwyZoSNZKJWHqjzADpW,Feels Like We Only Go Backwards,Tame Impala,Lonerism,16,3.66,0.9375,0.0625,True,Rock,73,0.0453,0.31,192960,0.907,0.369,D,0.247,-2.279,Minor,0.0591,149.931,4/4,0.516
+2023,0hDQV9X1Da5JrwhK8gu86p,Maps,Yeah Yeah Yeahs,Fever To Tell,16,19.43,0.625,0.25,True,Folk,66,0.000413,0.502,219987,0.94,0.542,G,0.553,-5.178,Major,0.084,119.762,4/4,0.144
+2023,2UWdUez9MB9yzL7Y81Mcip,The Suburbs,Arcade Fire,The Suburbs,16,61.13,0.25,0.125,True,Indie,68,0.0578,0.616,315200,0.682,0.0241,F#,0.342,-6.148,Minor,0.0265,117.78,4/4,0.528
+2023,3jw5KrLTxeIzpSvByNsH7F,Blue Coupe,Twin Peaks,Sweet '17 Singles,16,38.28,0.1875,0.0,True,Indie,49,0.261,0.597,222672,0.864,0.0747,F,0.0973,-5.629,Major,0.0271,130.079,4/4,0.55
+2023,4aCnN8VmKVqX4PnSB1Ie07,"Creator, Destroyer",Angel Olsen,Strange Cacti,16,35.22,0.4375,0.0,True,Folk,42,0.846,0.401,234547,0.29,0.0,A#,0.111,-9.052,Minor,0.029,104.626,4/4,0.0849
+2024,3SUusuA9jH1v6PVwtYMbdv,Last Nite,The Strokes,Is This It,82,137.85,0.4512,0.061,True,Rock,70,0.0223,0.624,193373,0.899,0.000155,C,0.0975,-5.71,Major,0.0295,104.055,4/4,0.797
+2024,4F1AgKpuFRMLEgtPETVwZk,You've Got To Hide Your Love Away - Remastered 2009,The Beatles,Help!,68,126.97,0.1324,0.0147,True,Rock,65,0.207,0.398,129120,0.392,0.0,G,0.102,-9.05,Major,0.0282,184.267,3/4,0.378
+2024,7hm4HTk9encxT0LYC0J6oI,Someday,The Strokes,Is This It,49,81.31,0.4286,0.0816,True,Children’s Music,68,0.00425,0.538,183440,0.52,0.0,A,0.367,-7.46,Major,0.0299,106.031,4/4,0.678
+2024,0OM9ri37LIbPc9hffwsyb1,Hard To Explain,The Strokes,Is This It,43,72.97,0.5116,0.0465,True,Rock,60,0.000456,0.408,224333,0.665,0.863,G,0.0888,-6.286,Major,0.0578,82.525,4/4,0.667
+2024,2BIfG6wL1t5wk1KixoK2BV,Chicago,flipturn,Heavy Colors,40,150.2,0.275,0.025,True,Indie,44,0.542,0.709,319821,0.655,0.00271,E,0.0931,-9.638,Major,0.0342,111.971,4/4,0.609
+2024,415dK4glwDO7fXxYg3np8B,Pictures of Girls,Wallows,Spring EP,32,74.27,0.3125,0.1875,True,Children’s Music,65,0.000248,0.443,204667,0.819,0.00759,F#,0.0802,-5.502,Major,0.0322,154.958,4/4,0.494
+2024,3iiObSfkcBsETljmSB4Hcs,When It Started,The Strokes,Is This It,31,48.24,0.4194,0.0,True,Rock,49,0.265,0.722,175200,0.654,0.00392,C,0.15,-8.107,Major,0.0328,131.962,4/4,0.904
+2024,4TTV7EcfroSLWzXRY6gLv6,Alexander Hamilton,Leslie Odom Jr.,Hamilton,31,60.48,0.3226,0.1935,True,Jazz,72,0.524,0.609,236738,0.435,0.0,B,0.118,-7.862,Minor,0.284,131.998,4/4,0.563
+2024,79DO6dBi8936P6EShLB209,Lightning Bolt,Jake Bugg,Jake Bugg,30,42.31,0.4667,0.0667,True,Indie,60,0.0818,0.551,144013,0.839,0.0,A,0.151,-4.555,Major,0.0787,116.051,4/4,0.681
+2024,0ewrI06EIDMGXvgJxuyF3U,Dearly Departed (feat. Esmé Patterson),Shakey Graves,And The War Came,29,71.01,0.2759,0.1379,True,Folk,62,0.303,0.576,212800,0.609,0.0,G,0.164,-5.921,Major,0.107,86.703,4/4,0.737
+2024,1420BGhbXGkIJtbtBlfpYE,The Modern Age,The Strokes,Is This It,29,68.85,0.3448,0.069,True,Rock,56,0.0116,0.528,208067,0.888,0.762,D,0.154,-6.039,Major,0.0326,145.971,4/4,0.897
+2024,4UmJMAY5TqXPAnsDW1Mci7,"Alone, Together",The Strokes,Is This It,27,74.67,0.1481,0.037,True,Children’s Music,50,0.00778,0.515,188640,0.863,0.896,G,0.0616,-5.756,Major,0.0308,143.017,4/4,0.961
+2024,57Xjny5yNzAcsxnusKmAfA,Reptilia,The Strokes,Room On Fire,27,36.9,0.5556,0.0741,True,Indie,71,0.000563,0.486,219754,0.666,0.789,A,0.101,-5.084,Major,0.033,157.992,4/4,0.741
+2024,4dneV7C1yDt9UtyxrQY375,Boys Don't Cry - Single Version,The Cure,Three Imaginary Boys,25,35.87,0.4,0.04,True,Dance,63,0.00486,0.465,157533,0.841,0.0,B,0.109,-5.767,Minor,0.0634,168.743,4/4,0.689
+2024,5rTIpPWeO0IL4HWlGWrz5G,Brianstorm,Arctic Monkeys,Favourite Worst Nightmare,25,25.04,0.6,0.12,True,Rock,55,8.39e-05,0.421,170253,0.98,0.00125,C#,0.237,-4.229,Major,0.212,165.193,4/4,0.435
+2024,6gU7ohksNd6LsEJMWfDRhp,Soma,The Strokes,Is This It,25,36.71,0.44,0.04,True,Rock,53,0.0747,0.499,153840,0.706,0.00289,C,0.0753,-7.335,Major,0.0302,148.931,4/4,0.483
+2024,1MHYAqWWdDRePmnqORynrq,Kathleen,Catfish and the Bottlemen,The Balcony,24,17.21,0.75,0.0417,True,Rock,68,0.000406,0.487,160886,0.888,0.00104,B,0.405,-4.736,Minor,0.0887,137.939,4/4,0.563
+2024,6VnpKLtfNH4Dk09YSGPSyR,It Ain't Over 'Til It's Over,Lenny Kravitz,Mama Said,24,58.01,0.2917,0.0417,True,Rock,67,0.422,0.679,242640,0.568,0.00948,F#,0.322,-10.74,Major,0.0423,159.689,4/4,0.93
+2024,0qRR9d89hIS0MHRkQ0ejxX,Rich Girl,Daryl Hall & John Oates,Bigger Than Both Of Us,23,34.8,0.3043,0.087,True,Folk,68,0.461,0.573,142787,0.683,0.0,F,0.0935,-6.644,Major,0.176,169.519,4/4,0.817
+2024,21Ay8Y9Pr91nSauPGtK6MW,Barely Legal,The Strokes,Is This It,23,56.21,0.3478,0.1304,True,Rock,55,0.00326,0.426,234693,0.884,0.0495,C,0.0903,-6.279,Major,0.0365,157.811,4/4,0.852
+2024,0seTertVGvHrEJu7hlIWRq,Take It Or Leave It,The Strokes,Is This It,22,49.54,0.2727,0.0,True,Rock,49,0.000959,0.43,196067,0.913,0.369,D,0.137,-6.203,Minor,0.0389,154.066,4/4,0.481
+2024,5HjqXQPZi27d92H5gCo1Oq,Making Breakfast,Twin Peaks,Wild Onion,22,26.17,0.5,0.0,True,Rock,49,0.000267,0.495,132669,0.782,0.736,A,0.54,-4.694,Major,0.0315,116.114,4/4,0.451
+2024,0jBE7Fn78EAvmIs3dCd6GO,Is This It,The Strokes,Is This It,21,27.4,0.4762,0.0476,True,Indie,58,0.147,0.667,151333,0.692,3.75e-05,F,0.349,-8.361,Major,0.0285,96.021,4/4,0.846
+2024,1FvDJ9KGxcqwv1utyPL3JZ,This Charming Man - 2011 Remaster,The Smiths,The Smiths,21,20.61,0.619,0.0,True,Indie,73,0.00509,0.611,162920,0.846,0.0,B,0.0784,-5.9,Major,0.0436,103.912,4/4,0.751
+2024,2EEinN4Zk8MUv4OQuLsTBj,Age of Consent - 2015 Remaster,New Order,Power Corruption and Lies,21,60.76,0.4762,0.0,True,Electronic,65,0.00101,0.372,315333,0.91,0.0944,D,0.13,-5.559,Major,0.0392,161.964,4/4,0.756
+2024,2gNfxysfBRfl9Lvi9T3v6R,Disciples,Tame Impala,Currents,21,12.53,0.6667,0.0476,True,Rock,63,0.078,0.661,108547,0.869,0.924,F,0.398,-5.477,Major,0.0334,126.971,4/4,0.8
+2024,3zYpRGnnoegSpt3SguSo3W,Off the Wall,Michael Jackson,Off the Wall,21,66.39,0.0952,0.1429,True,Pop,63,0.182,0.827,246000,0.595,0.0,D#,0.0785,-13.909,Minor,0.0565,118.741,4/4,0.921
+2024,4IU1RL4BKvFyXtbTwaHAvW,Ventura Highway,America,Homecoming,21,27.25,0.5238,0.0952,True,Rock,70,0.223,0.673,211387,0.581,0.000206,D,0.063,-10.205,Major,0.029,130.771,4/4,0.818
+2024,4kiMvD7yPec5viFrCQDiYK,Henrietta,The Fratellis,Costello Music,20,23.36,0.5,0.05,True,Indie,48,0.023,0.609,211627,0.951,0.0,F#,0.136,-3.267,Minor,0.0918,122.455,4/4,0.872
+2024,5KupfEBaVJwL7D2ZN0n1Q1,Trying Your Luck,The Strokes,Is This It,20,52.69,0.2,0.0,True,Children’s Music,50,0.00855,0.503,202760,0.689,0.0126,A,0.131,-9.424,Minor,0.0313,143.906,4/4,0.615
+2024,0bRXwKfigvpKZUurwqAlEh,Lovely Day,Bill Withers,Menagerie,19,56.53,0.2632,0.0526,True,Soul,73,0.292,0.69,254560,0.651,0.00241,A,0.105,-8.267,Major,0.0324,97.918,4/4,0.706
+2024,1YrnDTqvcnUKxAIeXyaEmU,How Soon Is Now? - 2011 Remaster,The Smiths,Hatful of Hollow,19,44.15,0.5789,0.0,True,Dance,68,0.000854,0.398,408173,0.93,0.121,B,0.0874,-6.76,Major,0.0615,190.818,4/4,0.725
+2024,4m3uMuu1gYYjZPtZvTOe6t,Orgasm of Death,The Growlers,Casual Acquaintances,19,54.07,0.2632,0.0,True,Rock,50,0.000303,0.415,235693,0.728,0.000106,B,0.595,-5.568,Minor,0.0303,154.992,4/4,0.703
+2024,6PuoZT4kgw5DrUEdnQ6e01,This Must Be The Place,Sure Sure,Sure Sure,19,45.66,0.2632,0.0,True,Soul,56,0.349,0.886,219261,0.371,0.00138,F,0.0985,-10.542,Major,0.0465,115.026,4/4,0.928
+2024,7zMUCLm1TN9o9JlLISztxO,Burning Love,Elvis Presley,Elvis (Fool),19,51.06,0.0,0.0,True,Rock,68,0.0993,0.66,170293,0.748,0.00585,D,0.283,-11.206,Major,0.0284,143.549,4/4,0.972
+2024,11zf7m4vw9Ze7cer9Nyhk1,Pleaser,Wallows,Pleaser,18,20.83,0.5,0.0,True,Rock,68,0.126,0.497,187896,0.914,1.98e-05,A,0.274,-4.308,Major,0.0455,148.893,4/4,0.385
+2024,3KfbEIOC7YIv90FIfNSZpo,In My Life - Remastered 2009,The Beatles,Rubber Soul,18,24.26,0.3889,0.0556,True,Rock,72,0.449,0.688,146333,0.435,0.0,A,0.113,-11.359,Major,0.0323,103.239,4/4,0.435
+2024,582EVyAFKmKPa1bVPSDurJ,Two Fingers,Jake Bugg,Jake Bugg,18,37.9,0.2778,0.0,True,Indie,61,0.00252,0.486,195987,0.677,0.0,F,0.102,-5.227,Major,0.0314,120.576,4/4,0.913
+2024,7FwBtcecmlpc1sLySPXeGE,Dancing In the Dark,Bruce Springsteen,Born In The U.S.A.,18,57.63,0.1111,0.1111,True,Rock,75,0.0115,0.527,241307,0.942,0.0,C#,0.188,-5.64,Minor,0.0366,148.723,4/4,0.495
+2024,7oOOI85fVQvVnK5ynNMdW7,Rock with You - Single Version,Michael Jackson,Off the Wall,18,33.53,0.5,0.1111,True,Pop,75,0.179,0.808,220627,0.535,9.91e-05,C#,0.158,-12.521,Major,0.0353,114.031,4/4,0.848
+2024,2nGFzvICaeEWjIrBrL2RAx,Put Your Records On,Corinne Bailey Rae,Corinne Bailey Rae,17,49.9,0.1765,0.0588,True,R&B,77,0.167,0.739,215360,0.511,1.34e-06,A,0.133,-7.844,Major,0.0362,96.038,4/4,0.542
+2024,31u6rUeIEXGrYVoh10U7eu,Leave It In My Dreams,The Voidz,Virtue,17,31.71,0.4706,0.1176,True,Alternative,53,0.0226,0.6,239442,0.746,0.0119,E,0.109,-4.696,Minor,0.0355,118.551,4/4,0.614
+2024,6O0xnpq8xNi4VNvS6yezHN,Plastic Soul,Mondo Cozmo,Plastic Soul,17,63.91,0.1176,0.4118,True,Children’s Music,43,0.239,0.389,298333,0.714,0.757,D#,0.169,-5.232,Major,0.0315,77.294,4/4,0.348
+2024,2M7enaZSs1DRRjZscA4LAj,Reminiscing,The Buttertones,Buttertones,16,25.09,0.5,0.0625,True,Rock,50,0.000591,0.399,180000,0.707,0.201,B,0.126,-7.809,Major,0.0307,125.137,4/4,0.577
+2024,3ItzRpwvKtkDSNdRSjXu7Z,Chelsea Dagger,The Fratellis,Costello Music,16,20.84,0.5625,0.0625,True,Indie,63,0.0468,0.519,215173,0.825,0.0,G,0.0604,-3.087,Major,0.145,154.777,4/4,0.581
+2024,4mvPRLDf0ZedTzzXaXEavJ,Listen to Your Friends,Declan McKenna,What Do You Think About the Car?,16,20.42,0.6875,0.0625,True,Rock,58,0.293,0.324,258933,0.839,0.0,A,0.224,-7.08,Major,0.0819,99.941,4/4,0.679
+2024,7EqpEBPOohgk7NnKvBGFWo,Wait for It,Leslie Odom Jr.,Hamilton,16,16.46,0.6875,0.0625,True,Jazz,69,0.125,0.561,193750,0.474,5.07e-06,F#,0.0922,-9.638,Major,0.155,86.897,4/4,0.513
+2024,0nCAVzknkzRXRgB6LhRv04,Molly's Chambers,Kings of Leon,Youth And Young Manhood,15,16.94,0.4,0.0,True,Indie,61,0.222,0.598,134907,0.911,3.84e-06,B,0.216,-3.97,Major,0.0515,146.469,4/4,0.953
+2024,2qOm7ukLyHUXWyR4ZWLwxA,It Was A Good Day,Ice Cube,The Predator,15,35.97,0.3333,0.0,True,Rap,74,0.321,0.796,260000,0.748,4.94e-05,F,0.217,-5.409,Minor,0.126,82.384,4/4,0.802
+2024,4OkPamOn5GofkOQu64Z4eR,Teddy Picker,Arctic Monkeys,Favourite Worst Nightmare,15,31.35,0.3333,0.0,True,Rock,54,0.000413,0.637,160640,0.973,2.23e-05,A,0.104,-3.386,Major,0.112,150.223,4/4,0.8
+2024,4sNG6zQBmtq7M8aeeKJRMQ,Brazil,Declan McKenna,What Do You Think About the Car?,15,35.56,0.3333,0.0,True,Children’s Music,68,0.0941,0.687,252307,0.617,1.32e-05,E,0.0898,-5.213,Major,0.0287,121.08,4/4,0.665
+2024,7CqleiaEqHVazV19P532X9,Life During Wartime - 2005 Remaster,Talking Heads,Fear of Music,15,36.75,0.3333,0.0,True,Dance,50,0.0806,0.801,221320,0.93,0.152,A,0.0558,-7.365,Major,0.0354,133.255,4/4,0.967
+2024,0gEyKnHvgkrkBM6fbeHdwK,Linger,The Cranberries,"Everybody Else Is Doing It, So Why Can't We?",14,40.81,0.2857,0.0,True,Pop,76,0.0783,0.439,274707,0.434,4.87e-05,G,0.14,-14.918,Major,0.0265,94.845,4/4,0.204
+2024,0grFc6klR3hxoHLcgCYsF4,Howlin' for You,The Black Keys,Brothers,14,18.32,0.5,0.2143,True,Rock,70,0.028,0.705,191800,0.735,0.0783,B,0.112,-6.646,Major,0.0931,132.627,4/4,0.448
+2024,3Y4rUyw7XBCK6hGHCOt6rp,"Call It Fate, Call It Karma",The Strokes,Comedown Machine,14,32.1,0.2857,0.3571,True,Rock,63,0.983,0.544,204773,0.241,0.774,E,0.101,-14.779,Minor,0.03,109.437,4/4,0.359
+2024,4riDfclV7kPDT9D58FpmHd,Some,Steve Lacy,Some,14,16.82,0.3571,0.0,True,Hip-Hop,63,0.00548,0.784,118393,0.554,0.254,G,0.0995,-6.417,Major,0.03,104.01,4/4,0.634
+2024,5vmRQ3zELMLUQPo2FLQ76x,Smalltown Boy,Bronski Beat,The Age of Consent,14,19.33,0.6429,0.0714,True,Rock,71,0.288,0.685,302413,0.584,0.00918,F,0.124,-10.616,Minor,0.0276,134.546,4/4,0.939
+2024,0LO7f7ZJg871B8hLTRzrfB,Julia,Mt. Joy,Mt. Joy,13,32.45,0.1538,0.0769,True,Pop,60,0.681,0.566,190453,0.412,0.017,F,0.0741,-6.994,Major,0.0267,81.879,4/4,0.47
+2024,1Y373MqadDRtclJNdnUXVc,Paranoid - 2012 - Remaster,Black Sabbath,Paranoid,13,28.91,0.1538,0.0769,True,Rock,69,4.52e-05,0.415,168406,0.658,0.000735,E,0.176,-12.051,Minor,0.0696,163.015,4/4,0.45
+2024,225xvV8r1yKMHErSWivnow,"I Don't Want to Miss a Thing - From ""Armageddon"" Soundtrack",Aerosmith,Armageddon - The Album,13,13.33,0.6923,0.4615,True,Rock,78,0.165,0.383,298760,0.662,0.0,D,0.248,-5.162,Major,0.0333,121.154,4/4,0.138
+2024,31H6au3jhblhr6MMJiXnCq,"Hungry Eyes - From ""Dirty Dancing"" Soundtrack",Eric Carmen,The Definitive Collection,13,36.12,0.3846,0.0769,True,Pop,73,0.011,0.712,251067,0.549,0.0,F,0.118,-9.484,Major,0.0254,109.882,4/4,0.552
+2024,76GlO5H5RT6g7y0gev86Nk,Just like Heaven,The Cure,"Kiss Me, Kiss Me, Kiss Me",13,23.88,0.4615,0.0,True,Children’s Music,65,0.0271,0.43,212000,0.971,2.16e-05,A,0.185,-3.845,Major,0.0524,151.219,4/4,0.764
+2024,0PDCewmZCp0P5s00bptcdd,This Will Be (An Everlasting Love),Natalie Cole,Inseparable,12,24.18,0.1667,0.0,True,Rock,71,0.228,0.685,171960,0.623,0.00234,G#,0.0295,-11.146,Major,0.042,126.739,4/4,0.896
+2024,0z9dPcBhJvqO06QMaKelUE,Drunk on Halloween,Wallows,Drunk on Halloween,12,32.15,0.25,0.0833,True,Rock,62,0.231,0.631,237027,0.634,1.3e-05,F#,0.0924,-4.456,Major,0.0247,100.967,4/4,0.774
+2024,3IXRdLsQib8m0hBbQpe7T8,Hang Me Up To Dry,Cold War Kids,Robbers & Cowards,12,15.49,0.5833,0.1667,True,Children’s Music,62,0.0241,0.509,218787,0.916,0.000402,D,0.36,-2.793,Major,0.0324,92.432,4/4,0.672
+2024,3jp7Ryj1sX3riA7NQaVlLd,Whistle For The Choir,The Fratellis,Costello Music,12,23.49,0.4167,0.0833,True,Children’s Music,50,0.0591,0.579,215853,0.686,0.0,E,0.0876,-4.336,Major,0.0338,131.634,4/4,0.761
+2024,46eu3SBuFCXWsPT39Yg3tJ,Don't Stop 'Til You Get Enough,Michael Jackson,Off the Wall,12,40.46,0.3333,0.4167,True,Pop,77,0.126,0.878,365467,0.821,0.0461,B,0.183,-9.875,Major,0.089,118.881,4/4,0.947
+2024,4MLBqAEzNN89o2M9h92Z26,Get Back - Remastered 2009,The Beatles,Let It Be,12,25.16,0.3333,0.1667,True,Rock,65,0.492,0.761,189387,0.592,0.00626,D,0.61,-9.836,Major,0.0586,123.095,4/4,0.332
+2024,5G1sTBGbZT5o4PNRc75RKI,Lonely Boy,The Black Keys,El Camino,12,14.19,0.5833,0.1667,True,Rock,72,0.00417,0.356,193653,0.872,0.00975,D,0.0997,-7.837,Major,0.068,166.3,4/4,0.607
+2024,5HgAZuHFAU5qLLMYuIQkgq,Run Right Back,The Black Keys,El Camino,12,14.34,0.4167,0.1667,True,Rock,56,0.03,0.511,197000,0.766,0.00752,D,0.221,-5.445,Minor,0.0473,79.963,4/4,0.632
+2024,5t1Eqjxu93ub0LiTgxZQOB,Flathead,The Fratellis,Costello Music,12,15.79,0.5833,0.0,True,Alternative,41,0.0118,0.599,197440,0.942,0.0,C,0.327,-5.196,Major,0.155,105.144,4/4,0.334
+2024,6xxXrNJnnsQNLdgNk8S4y8,Hate To Say I Told You So,The Hives,Veni Vidi Vicious,12,7.25,0.75,0.0,True,Dance,60,0.00109,0.451,199760,0.929,0.00785,F,0.442,-5.021,Major,0.0549,135.767,4/4,0.378
+2024,7KwJrAQMoJyUEBes3evMLv,Orpheus Under the Influence,The Buttertones,Buttertones,12,4.87,0.8333,0.0,True,Rock,57,0.0365,0.362,134080,0.871,0.000256,D,0.114,-6.546,Major,0.0502,151.722,4/4,0.526
+2024,7tZwFmarYtM2Yxy8IRW8wb,Baby Where You Are,Mountain Man,Magic Ship,12,11.13,0.6667,0.0833,True,Folk,43,0.945,0.608,169333,0.0491,0.0321,G,0.115,-19.527,Major,0.0382,127.688,3/4,0.337
+2024,07CyrZF9eVd02zzIse7tZA,In Between Days - 2006 Remaster,The Cure,The Head on the Door,11,20.32,0.3636,0.0909,True,Children’s Music,53,0.109,0.541,177987,0.83,0.701,A,0.167,-6.246,Major,0.0316,142.592,4/4,0.711
+2024,19Ym5Sg0YyOCa6ao21bdoG,Gypsy,Fleetwood Mac,Greatest Hits,11,18.3,0.6364,0.0,True,Rock,69,0.017,0.622,264907,0.54,0.00771,F,0.265,-13.99,Major,0.0261,130.879,4/4,0.847
+2024,1i6N76fftMZhijOzFQ5ZtL,Psycho Killer - 2005 Remaster,Talking Heads,Talking Heads '77,11,19.12,0.5455,0.0909,True,Dance,72,0.0707,0.721,261413,0.521,0.00552,D,0.127,-8.123,Major,0.0612,123.118,4/4,0.942
+2024,1pHP4JeQV9wDx87D6qH9hD,Here It Goes Again,OK Go,Oh No,11,7.39,0.7273,0.0909,True,Pop,63,0.000342,0.537,179813,0.882,9.06e-05,C,0.12,-2.306,Major,0.0403,145.729,4/4,0.81
+2024,27qG9sy9FaxB7sd3pRMAAO,Jackie Wants a Black Eye,Dr. Dog,"Shame, Shame",11,19.01,0.4545,0.0,True,Folk,44,0.151,0.508,184827,0.695,1.1e-06,C,0.448,-5.368,Major,0.12,143.142,4/4,0.707
+2024,4JpazKcfOhbwqZrsYhzHee,Jackie and Wilson,Hozier,Hozier (Expanded Edition),11,27.21,0.2727,0.0909,True,Folk,67,0.0579,0.555,223120,0.727,7.52e-06,F#,0.0937,-4.202,Major,0.0388,82.142,4/4,0.739
+2024,4RvWPyQ5RL0ao9LPZeSouE,Everybody Wants To Rule The World,Tears For Fears,Songs From The Big Chair,11,12.86,0.7273,0.0909,True,Pop,81,0.372,0.638,251489,0.8,0.00553,G,0.113,-12.077,Major,0.0572,112.055,4/4,0.569
+2024,5lWRaa0fBxDE5yU91npPq7,Just A Girl,No Doubt,Tragic Kingdom,11,22.27,0.0909,0.0,True,Rock,63,0.0999,0.637,209200,0.904,8.2e-05,D,0.138,-4.769,Major,0.0505,108.011,4/4,0.77
+2024,64D3dzWyj0GpQT1AHx4kbK,Panic - 2011 Remaster,The Smiths,Louder Than Bombs,11,10.0,0.6364,0.0,True,Indie,62,0.0175,0.53,140507,0.861,0.0177,G,0.0857,-4.67,Major,0.0372,130.476,4/4,0.844
+2024,6suRRwX61xSMfU7wJuCVdy,For Reasons Unknown,The Killers,Sam's Town,11,17.04,0.4545,0.0909,True,Rock,61,0.000458,0.504,212267,0.884,0.0399,D#,0.108,-4.214,Major,0.0366,140.398,4/4,0.516
+2024,7wmYgsLNRB9EpqpvR3hkvN,Problems III,The Growlers,Casual Acquaintances,11,26.13,0.2727,0.0,True,Rock,54,0.0489,0.332,214106,0.731,0.00347,C,0.178,-4.565,Major,0.0446,90.028,4/4,0.636
+2024,0WQiDwKJclirSYG9v5tayI,There Is a Light That Never Goes Out - 2011 Remaster,The Smiths,The Queen Is Dead,10,19.8,0.5,0.0,True,Indie,72,0.04,0.523,244587,0.769,0.0,E,0.136,-5.855,Major,0.0269,136.162,4/4,0.876
+2024,0zqmyB1prgGGiOS10sjH8A,"When They Fight, They Fight",Generationals,Con Law,10,16.38,0.4,0.0,True,Pop,62,0.242,0.755,200213,0.898,0.000145,B,0.144,-2.051,Minor,0.0323,119.756,4/4,0.966
+2024,1qjrYozGqc7upUgfN776lZ,Sara Smile,Daryl Hall & John Oates,Daryl Hall & John Oates (The Silver Album),10,12.83,0.6,0.1,True,Rock,65,0.354,0.592,185293,0.397,0.000894,D,0.119,-10.81,Minor,0.0676,150.038,3/4,0.205
+2024,25YlltWXRb9k7KbrEBRuhJ,Lo/Hi,The Black Keys,"""Let's Rock""",10,23.06,0.2,0.2,True,Alternative,66,0.0151,0.606,177768,0.679,0.000433,D,0.0962,-7.445,Major,0.0321,122.016,4/4,0.707
+2024,2AX5E86cn9n2dgioZEjirI,Golden Brown,The Stranglers,La Folie,10,20.94,0.3,0.1,True,Dance,67,0.143,0.562,206760,0.383,0.124,F#,0.138,-15.474,Major,0.0304,93.764,3/4,0.599
+2024,3mYCd23hPxJW5okSvMoy3x,Heart In a Cage,The Strokes,First Impressions Of Earth,10,17.14,0.5,0.1,True,Children’s Music,50,2.73e-06,0.418,206173,0.857,0.805,G#,0.368,-5.133,Major,0.0404,140.02,4/4,0.12
+2024,3mlMpmY8oZIBFc39D9zLbh,The Long And Winding Road - Remastered 2009,The Beatles,Let It Be,10,19.36,0.4,0.4,True,Rock,61,0.756,0.299,218187,0.329,0.0105,D#,0.0559,-10.096,Major,0.0279,132.282,4/4,0.392
+2024,45QyGXbqTWaFUrIKe2ugs3,D Is for Dangerous,Arctic Monkeys,Favourite Worst Nightmare,10,9.43,0.6,0.1,True,Rock,49,1.05e-05,0.551,134733,0.928,0.000108,C#,0.145,-4.776,Major,0.0365,145.057,4/4,0.736
+2024,6K4t31amVTZDgR3sKmwUJJ,The Less I Know The Better,Tame Impala,Currents,10,18.11,0.5,0.2,True,Rock,82,0.0115,0.64,216320,0.74,0.00678,E,0.167,-4.083,Major,0.0284,116.879,4/4,0.785
+2024,6Yu1OL8I0D4vjOzYdsXYGK,12:51,The Strokes,Room On Fire,10,7.91,0.7,0.0,True,Indie,58,0.312,0.452,153133,0.889,0.8,E,0.558,-3.838,Major,0.0379,145.056,4/4,0.591
+2024,6squXSZ3rl7tENdZiOuIEj,Here In My Arms,Leon Bridges,Coming Home,10,16.35,0.2,0.4,True,Soul,56,0.608,0.555,126920,0.414,0.00615,C#,0.0969,-8.514,Minor,0.0261,73.64,4/4,0.673
+2024,6yCjhDzcVIfxvTjBKhhn7P,Sunday Morning,No Doubt,Tragic Kingdom,10,25.02,0.3,0.1,True,Rock,53,0.00906,0.589,273067,0.785,1.82e-05,E,0.127,-5.367,Major,0.0312,157.109,4/4,0.787
+2024,6zeDYmP3ARpURvpK29Q09P,Someday,Sugar Ray,14:59,10,10.41,0.7,0.0,True,Rock,56,0.0105,0.745,242800,0.682,0.0862,C#,0.21,-4.39,Minor,0.0287,110.857,4/4,0.938
+2024,7MBSbBrx0TvBYyKEcpGcJb,Sweet Marie,The Walters,Young Men,10,13.27,0.3,0.0,True,Indie,52,0.914,0.245,137092,0.425,0.646,A,0.116,-8.379,Major,0.0324,203.816,4/4,0.254
+2024,7m7V3K1yHLfJB2Sx9FKinU,Just to Hear You Say That You Love Me (with Tim McGraw),Faith Hill,Faith,10,13.73,0.7,0.1,True,Country,42,0.292,0.473,268373,0.536,0.0,C#,0.107,-8.517,Major,0.0251,82.769,4/4,0.216
+2025,6Qb7gtV6Q4MnUjSbkFcopl,50 Ways to Leave Your Lover,Paul Simon,Still Crazy After All These Years,31,47.09,0.4516,0.0968,True,Folk,69,0.166,0.815,217347,0.372,0.000116,G,0.0767,-12.814,Major,0.0752,101.684,4/4,0.293
+2025,4TTV7EcfroSLWzXRY6gLv6,Alexander Hamilton,Leslie Odom Jr.,Hamilton,24,11.5,0.7083,0.0417,True,Jazz,72,0.524,0.609,236738,0.435,0.0,B,0.118,-7.862,Minor,0.284,131.998,4/4,0.563
+2025,6L0BBPYeWnaQJeDa0ox0IA,Impossible Germany,Wilco,Sky Blue Sky,21,75.25,0.4286,0.0,True,Country,49,0.584,0.553,357160,0.727,0.138,E,0.113,-6.395,Minor,0.0254,104.95,4/4,0.507
+2025,7G7tgVYORlDuVprcYHuFJh,Don't Dream It's Over,Crowded House,Crowded House,21,48.43,0.2381,0.1429,True,Rock,73,0.0148,0.439,236933,0.422,4.84e-05,G#,0.0697,-17.227,Major,0.0409,81.833,4/4,0.551
+2025,1Omt5bfz1tZUCqd26HxbS0,Beyond,Leon Bridges,Good Thing,19,48.92,0.1579,0.1053,True,Blues,68,0.229,0.58,240600,0.687,0.0,F#,0.109,-5.4,Major,0.106,76.014,4/4,0.187
+2025,1Wrzhfa5bNlqvsnCztz190,Devuélveme a mi chica,Hombres G,Hombres G,16,39.06,0.0625,0.0,True,Alternative,68,0.0031,0.603,194867,0.843,0.0337,A,0.445,-7.597,Minor,0.0557,172.676,4/4,0.503
+2025,7FwBtcecmlpc1sLySPXeGE,Dancing In the Dark,Bruce Springsteen,Born In The U.S.A.,16,35.45,0.375,0.125,True,Rock,75,0.0115,0.527,241307,0.942,0.0,C#,0.188,-5.64,Minor,0.0366,148.723,4/4,0.495
+2025,0P09TBGSKiQwfUsEh1UafT,The World Was Wide Enough,Leslie Odom Jr.,Hamilton,15,27.22,0.4667,0.0,True,Jazz,62,0.466,0.653,302191,0.351,0.0,F,0.107,-12.776,Major,0.648,116.605,3/4,0.309
+2025,1oTHteQbmJw15rPxPVXUTv,Insane in the Brain,Cypress Hill,Black Sunday,13,41.78,0.0769,0.0769,True,Hip-Hop,71,0.0297,0.897,208267,0.612,0.186,B,0.0894,-10.489,Major,0.211,102.305,4/4,0.767
+2025,2BIfG6wL1t5wk1KixoK2BV,Chicago,flipturn,Heavy Colors,13,40.3,0.3846,0.3077,True,Indie,44,0.542,0.709,319821,0.655,0.00271,E,0.0931,-9.638,Major,0.0342,111.971,4/4,0.609
+2025,79DO6dBi8936P6EShLB209,Lightning Bolt,Jake Bugg,Jake Bugg,13,13.79,0.5385,0.1538,True,Indie,60,0.0818,0.551,144013,0.839,0.0,A,0.151,-4.555,Major,0.0787,116.051,4/4,0.681
+2025,1CsMuJeMzRqNgS7G0fo1Gv,How to Fight Loneliness,Wilco,Summerteeth,12,24.48,0.4167,0.0,True,Folk,52,0.596,0.692,232027,0.378,0.11,B,0.134,-12.671,Minor,0.0308,123.658,4/4,0.4
+2025,1LzNfuep1bnAUR9skqdHCK,Fade Into You,Mazzy Star,So Tonight That I Might See,12,23.16,0.3333,0.0,True,Children’s Music,72,0.245,0.42,295600,0.33,0.000679,A,0.0677,-13.925,Major,0.0275,157.143,3/4,0.175
+2025,2W9u3whoCkQYOUbmnSrHi1,What'd I Miss,Daveed Diggs,Hamilton,12,12.11,0.6667,0.0,True,Children’s Music,65,0.169,0.539,236701,0.577,0.0,G,0.14,-7.762,Major,0.386,177.786,4/4,0.319
+2025,4kiMvD7yPec5viFrCQDiYK,Henrietta,The Fratellis,Costello Music,12,17.4,0.5,0.0833,True,Indie,48,0.023,0.609,211627,0.951,0.0,F#,0.136,-3.267,Minor,0.0918,122.455,4/4,0.872
+2025,5773KSWFzg9kCc8yazjbSt,Deceptacon,Le Tigre,Le Tigre,12,15.97,0.4167,0.3333,True,Children’s Music,55,0.055,0.603,184627,0.864,0.00493,E,0.0986,-3.341,Minor,0.0668,160.488,4/4,0.616
+2025,7EqpEBPOohgk7NnKvBGFWo,Wait for It,Leslie Odom Jr.,Hamilton,12,6.84,0.8333,0.1667,True,Jazz,69,0.125,0.561,193750,0.474,5.07e-06,F#,0.0922,-9.638,Major,0.155,86.897,4/4,0.513
+2025,2sEq2rC3ynYsT49x7utWnd,Dear Theodosia,Leslie Odom Jr.,Hamilton,11,6.87,0.8182,0.0,True,Jazz,67,0.906,0.601,184004,0.222,4.11e-05,A,0.0723,-10.485,Major,0.0303,106.754,4/4,0.271
+2025,5HgAZuHFAU5qLLMYuIQkgq,Run Right Back,The Black Keys,El Camino,11,27.21,0.1818,0.0,True,Rock,56,0.03,0.511,197000,0.766,0.00752,D,0.221,-5.445,Minor,0.0473,79.963,4/4,0.632
+2025,5rTIpPWeO0IL4HWlGWrz5G,Brianstorm,Arctic Monkeys,Favourite Worst Nightmare,11,16.03,0.4545,0.0909,True,Rock,55,8.39e-05,0.421,170253,0.98,0.00125,C#,0.237,-4.229,Major,0.212,165.193,4/4,0.435
+2025,6O0xnpq8xNi4VNvS6yezHN,Plastic Soul,Mondo Cozmo,Plastic Soul,10,23.57,0.4,0.3,True,Children’s Music,43,0.239,0.389,298333,0.714,0.757,D#,0.169,-5.232,Major,0.0315,77.294,4/4,0.348
+2025,3AJwUDP919kvQ9QcozQPxg,Yellow,Coldplay,Parachutes,9,13.0,0.5556,0.5556,True,Pop,82,0.00239,0.429,266773,0.661,0.00013,B,0.234,-7.227,Major,0.0281,173.365,4/4,0.285
+2025,4m3uMuu1gYYjZPtZvTOe6t,Orgasm of Death,The Growlers,Casual Acquaintances,9,11.41,0.6667,0.1111,True,Rock,50,0.000303,0.415,235693,0.728,0.000106,B,0.595,-5.568,Minor,0.0303,154.992,4/4,0.703
+2025,5NQYyej46WQkgCbnzGD21W,Dear Prudence - Remastered 2009,The Beatles,The Beatles,9,21.67,0.4444,0.0,True,Rock,59,0.16,0.388,235773,0.529,0.0681,G,0.108,-10.533,Major,0.0436,150.721,4/4,0.332
+2025,0LpHC9mhPAQC98IjXZIrif,The Election of 1800,Daveed Diggs,Hamilton,8,15.72,0.5,0.125,True,Children’s Music,62,0.319,0.731,237983,0.42,0.0,A#,0.306,-10.199,Major,0.463,67.41,4/4,0.645
+2025,0qxYx4F3vm1AOnfux6dDxP,You Can Call Me Al,Paul Simon,Graceland (25th Anniversary Deluxe Edition),8,14.83,0.5,0.0,True,Folk,76,0.182,0.776,280000,0.763,0.0065,F,0.077,-8.124,Major,0.0535,128.433,4/4,0.82
+2025,0u3U5RQBk1VHOnVfuBd2BF,Teenage Dream,T. Rex,Scott Pilgrim vs. the World (Original Motion Picture Soundtrack),8,5.51,0.875,0.0,True,Blues,40,0.027,0.354,345613,0.902,5.14e-05,C,0.672,-4.687,Major,0.137,126.688,4/4,0.574
+2025,2B4Y9u4ERAFiMo13XPJyGP,"Here, There And Everywhere - Remastered 2009",The Beatles,Revolver,8,1.21,1.0,0.5,True,Rock,61,0.921,0.29,144880,0.247,0.00565,G,0.0917,-12.125,Major,0.0383,165.361,4/4,0.36
+2025,2lwwrWVKdf3LR9lbbhnr6R,Float On,Modest Mouse,Good News For People Who Love Bad News,8,15.28,0.25,0.0,True,Indie,72,0.013,0.649,208467,0.888,2.23e-06,F#,0.0888,-4.807,Major,0.0293,100.975,4/4,0.553
+2025,2tznHmp70DxMyr2XhWLOW0,Cigarette Daydreams,Cage The Elephant,Melophobia,8,21.0,0.25,0.0,True,Indie,71,0.0801,0.635,208760,0.675,0.0,D,0.0831,-3.445,Major,0.0263,113.946,4/4,0.273
+2025,4F1AgKpuFRMLEgtPETVwZk,You've Got To Hide Your Love Away - Remastered 2009,The Beatles,Help!,8,5.87,0.625,0.5,True,Rock,65,0.207,0.398,129120,0.392,0.0,G,0.102,-9.05,Major,0.0282,184.267,3/4,0.378
+2025,4JpazKcfOhbwqZrsYhzHee,Jackie and Wilson,Hozier,Hozier (Expanded Edition),8,22.42,0.25,0.125,True,Folk,67,0.0579,0.555,223120,0.727,7.52e-06,F#,0.0937,-4.202,Major,0.0388,82.142,4/4,0.739
+2025,0ZiGRciYMWrDvCPNM0T21o,big fat mouth,Arlie,Wait,7,18.31,0.2857,0.7143,True,Indie,53,0.0678,0.605,218773,0.827,7.62e-06,D,0.182,-5.15,Major,0.0454,128.023,4/4,0.858
+2025,0ofHAoxe9vBkTCp2UQIavz,Dreams - 2004 Remaster,Fleetwood Mac,Rumours,7,20.51,0.1429,0.1429,True,Rock,79,0.0644,0.828,257800,0.492,0.00428,C,0.128,-9.744,Major,0.0276,120.151,4/4,0.789
+2025,2BY7ALEWdloFHgQZG6VMLA,Brandy (You're a Fine Girl),Looking Glass,Looking Glass,7,10.32,0.2857,0.1429,True,Rock,73,0.54,0.719,186947,0.768,1.59e-05,C#,0.146,-7.528,Minor,0.0766,125.315,4/4,0.772
+2025,0NfdbvWFwlVMA183QibxCB,Me Vale,Maná,¿Dónde Jugarán Los Niños?,6,7.51,0.5,0.0,True,Pop,59,0.00201,0.534,271320,0.925,0.000692,A,0.134,-5.198,Major,0.035,166.9,4/4,0.753
+2025,0qRR9d89hIS0MHRkQ0ejxX,Rich Girl,Daryl Hall & John Oates,Bigger Than Both Of Us,6,8.78,0.3333,0.1667,True,Folk,68,0.461,0.573,142787,0.683,0.0,F,0.0935,-6.644,Major,0.176,169.519,4/4,0.817
+2025,12q3V8ShACq2PSWINMc2rC,It's Too Late,Carole King,Tapestry,6,10.68,0.5,0.1667,True,Folk,66,0.498,0.45,233173,0.441,0.00562,A,0.133,-12.718,Minor,0.0352,208.282,4/4,0.811
+2025,1H7gMYGykdtwZOV6s1N0by,Norwegian Wood (This Bird Has Flown) - Remastered 2009,The Beatles,Rubber Soul,6,5.91,0.6667,0.3333,True,Rock,68,0.183,0.425,124693,0.369,0.00126,E,0.112,-11.876,Major,0.0379,176.625,3/4,0.65
+2025,1Jmqubf9kGkWeYQXQKImL5,People Are Strange,The Doors,Strange Days,6,6.12,0.3333,0.0,True,Rock,69,0.685,0.699,130173,0.467,0.0,E,0.315,-8.578,Minor,0.0375,119.287,4/4,0.764
+2025,1YrnDTqvcnUKxAIeXyaEmU,How Soon Is Now? - 2011 Remaster,The Smiths,Hatful of Hollow,6,14.1,0.6667,0.0,True,Dance,68,0.000854,0.398,408173,0.93,0.121,B,0.0874,-6.76,Major,0.0615,190.818,4/4,0.725
+2025,1gpBDeONibvJyQYEv5HJh9,Drop the Guillotine,Peach Pit,Being So Normal,6,7.66,0.6667,0.0,True,Rock,57,0.0381,0.514,219960,0.881,9.55e-06,C,0.103,-6.52,Major,0.0629,87.541,4/4,0.577
+2025,1yKu2MhpwzDXXH2tzG6xoa,Beverly Hills,Weezer,Make Believe,6,9.25,0.3333,0.0,True,Children’s Music,68,0.0932,0.693,196093,0.823,0.0,F,0.328,-3.761,Major,0.0726,87.904,4/4,0.741
+2025,207qLd1ovrqfYVBBDrNMUM,Dance This Mess Around,The B-52's,The B-52's,6,11.02,0.3333,0.0,True,Dance,50,0.0168,0.608,276560,0.712,0.000369,D#,0.129,-7.957,Major,0.0821,161.072,4/4,0.542
+2025,2MLHyLy5z5l5YRp7momlgw,Island In The Sun,Weezer,Weezer,6,14.58,0.1667,0.0,True,Rock,75,0.00719,0.654,200307,0.81,0.00251,E,0.165,-6.26,Minor,0.0288,114.623,4/4,0.661
+2025,31u6rUeIEXGrYVoh10U7eu,Leave It In My Dreams,The Voidz,Virtue,6,15.85,0.3333,0.0,True,Alternative,53,0.0226,0.6,239442,0.746,0.0119,E,0.109,-4.696,Minor,0.0355,118.551,4/4,0.614
+2025,37zuIvk4KBkAxxLJsxJaHq,Would That I,Hozier,"Wasteland, Baby!",6,4.95,0.8333,0.0,True,Pop,65,0.243,0.521,268293,0.526,0.00537,F,0.108,-6.032,Major,0.0281,130.694,4/4,0.502
+2025,3EK4tGkSiO5xvvB5sM4tln,Amárrame,Mon Laferte,La Trenza,6,9.27,0.5,0.6667,True,Children’s Music,72,0.247,0.563,207333,0.674,0.00226,F,0.107,-4.554,Minor,0.048,179.977,4/4,0.784
+2025,4MTNJQ4reRfe0L96z1UAM4,O Katrina!,Black Lips,Scott Pilgrim vs. the World (Original Motion Picture Soundtrack),6,3.39,0.8333,0.0,True,Blues,37,0.00114,0.255,170840,0.855,0.000985,A,0.113,-5.73,Major,0.0407,179.678,4/4,0.835
+2025,4ZoBC5MhSEzuknIgAkBaoT,My Life,Billy Joel,52nd Street,6,14.17,0.5,0.0,True,Folk,59,0.108,0.741,284000,0.647,0.00139,D,0.0555,-12.878,Major,0.0427,131.097,4/4,0.804
+2025,5RsUlxLto4NZbhJpqJbHfN,Jessie's Girl,Rick Springfield,Working Class Dog,6,18.22,0.0,0.1667,True,Rock,70,0.164,0.727,194120,0.832,0.0,D,0.105,-5.851,Major,0.05,131.703,4/4,0.822
+2025,5ovcVaOus1Wv4vTtyGXlhB,Either Way,Wilco,Sky Blue Sky,6,12.5,0.3333,0.1667,True,Folk,45,0.597,0.542,186120,0.546,0.00382,E,0.111,-9.927,Minor,0.0323,74.797,4/4,0.344
+2025,5zA8vzDGqPl2AzZkEYQGKh,Uptown Girl,Billy Joel,An Innocent Man,6,10.35,0.5,0.1667,True,Rock,79,0.0747,0.701,197707,0.943,0.0,E,0.601,-2.986,Major,0.0456,128.992,4/4,0.791
+2025,6OiRh4kttAs1YWglvTcYkB,Alrighty Aphrodite,Peach Pit,Being So Normal,6,0.44,1.0,0.3333,True,Rock,61,0.00605,0.534,207813,0.724,0.0929,F#,0.108,-4.675,Minor,0.0495,81.846,4/4,0.503
+2025,6tunhVGD8C05MZNjSVIsjw,It Never Rains in Southern California,Albert Hammond,It Never Rains In Southern California,6,11.4,0.3333,0.0,True,Rock,61,0.124,0.626,233507,0.565,0.0,A,0.0811,-10.027,Major,0.0271,116.61,4/4,0.924
+2025,01MBhRpvFkbeRwAp7gcF2W,E-Pro,Beck,Guero,5,6.81,0.6,0.0,True,Children’s Music,50,0.00182,0.622,202360,0.948,0.151,A,0.0827,-6.169,Major,0.0978,95.785,4/4,0.665
+2025,01SfTM5nfCou5gQL70r6gs,Golden Slumbers - Remastered 2009,The Beatles,Abbey Road,5,0.44,1.0,0.4,True,Rock,64,0.326,0.419,91760,0.152,0.0034,C,0.113,-12.126,Major,0.0277,80.608,4/4,0.239
+2025,0Bi1yywe4x2EpWgcuCZ1Hb,Bittersweet Symphony - Jim Eno Sessions,Mondo Cozmo,Spotify Singles,5,11.57,0.6,0.2,True,Alternative,43,0.0201,0.396,323467,0.789,0.0639,A,0.0762,-8.245,Major,0.0303,169.985,4/4,0.458
+2025,0VXp4zDspR993l2hIKW17g,Anthems For A Seventeen Year-Old Girl,Broken Social Scene,You Forgot It In People,5,4.85,0.8,0.0,True,Folk,59,0.214,0.483,275693,0.446,0.0159,E,0.132,-9.417,Major,0.0359,80.093,4/4,0.403
+2025,0gEyKnHvgkrkBM6fbeHdwK,Linger,The Cranberries,"Everybody Else Is Doing It, So Why Can't We?",5,6.76,0.6,0.6,True,Pop,76,0.0783,0.439,274707,0.434,4.87e-05,G,0.14,-14.918,Major,0.0265,94.845,4/4,0.204
+2025,11zf7m4vw9Ze7cer9Nyhk1,Pleaser,Wallows,Pleaser,5,4.21,0.6,0.0,True,Rock,68,0.126,0.497,187896,0.914,1.98e-05,A,0.274,-4.308,Major,0.0455,148.893,4/4,0.385
+2025,19Ym5Sg0YyOCa6ao21bdoG,Gypsy,Fleetwood Mac,Greatest Hits,5,13.31,0.4,0.0,True,Rock,69,0.017,0.622,264907,0.54,0.00771,F,0.265,-13.99,Major,0.0261,130.879,4/4,0.847
+2025,1OYOLWqKmhkFIx2KC9ek1a,Colors of the Wind,Judy Kuhn,Pocahontas,5,12.63,0.2,0.0,True,Movie,64,0.933,0.249,214400,0.17,0.000344,C#,0.103,-17.232,Major,0.0573,62.659,4/4,0.219
+2025,1OppEieGNdItZbE14gLBEv,You Can't Hurry Love,The Supremes,The Supremes A' Go-Go,5,6.24,0.4,0.0,True,Pop,75,0.344,0.486,167933,0.725,0.0,A#,0.0831,-9.263,Major,0.0661,193.249,4/4,0.694
+2025,2M7enaZSs1DRRjZscA4LAj,Reminiscing,The Buttertones,Buttertones,5,5.02,0.6,0.0,True,Rock,50,0.000591,0.399,180000,0.707,0.201,B,0.126,-7.809,Major,0.0307,125.137,4/4,0.577
+2025,31H6au3jhblhr6MMJiXnCq,"Hungry Eyes - From ""Dirty Dancing"" Soundtrack",Eric Carmen,The Definitive Collection,5,15.13,0.0,0.6,True,Pop,73,0.011,0.712,251067,0.549,0.0,F,0.118,-9.484,Major,0.0254,109.882,4/4,0.552
+2025,3KfbEIOC7YIv90FIfNSZpo,In My Life - Remastered 2009,The Beatles,Rubber Soul,5,5.18,0.6,0.2,True,Rock,72,0.449,0.688,146333,0.435,0.0,A,0.113,-11.359,Major,0.0323,103.239,4/4,0.435
+2025,3PQEaRs2JEwtk79IqbQYt1,Blue Monday '88 - 2015 Remaster,New Order,Singles,5,4.99,0.8,0.2,True,Rock,53,2.79e-05,0.701,251973,0.878,0.522,G,0.0608,-7.911,Major,0.035,130.512,4/4,0.875
+2025,3QIoEi8Enr9uHffwInGIsC,Please Come Home for Christmas - 2013 Remaster,Eagles,Please Come Home for Christmas / Funky New Year,5,13.21,0.4,0.0,True,Folk,48,0.599,0.612,177440,0.289,0.00266,A,0.0561,-11.568,Major,0.0421,183.18,3/4,0.466
+2025,3X7uFMzJrEE0sxn62qd8Ch,Nothing's Gonna Stop Us Now,Starship,No Protection,5,5.56,0.6,0.0,True,Rock,75,0.0298,0.643,270333,0.801,0.0,F#,0.0719,-4.921,Major,0.0228,95.988,4/4,0.534
+2025,3dVQcur9BPd2yrDEx6wMRH,Killer Diller Blues - Music from The American Epic Sessions,Alabama Shakes,Killer Diller Blues,5,8.85,0.2,0.0,True,Folk,49,0.857,0.566,132133,0.571,0.000593,C,0.141,-5.288,Major,0.0494,163.293,4/4,0.967
+2025,3jp7Ryj1sX3riA7NQaVlLd,Whistle For The Choir,The Fratellis,Costello Music,5,8.63,0.4,0.0,True,Children’s Music,50,0.0591,0.579,215853,0.686,0.0,E,0.0876,-4.336,Major,0.0338,131.634,4/4,0.761
+2025,45WX2cfbL8bCIqv3rOq1G3,I'll Follow The Sun - Remastered 2009,The Beatles,Beatles For Sale,5,5.99,0.2,0.0,True,Rock,59,0.789,0.689,108853,0.313,0.0,C,0.144,-10.073,Major,0.0366,133.754,4/4,0.625
+2025,4UF1eupXP9Zz5GpYepyOxI,Razorblade,The Strokes,First Impressions Of Earth,5,0.25,1.0,1.0,True,Indie,52,0.00201,0.394,208133,0.859,0.233,A,0.1,-3.851,Major,0.0409,136.075,5/4,0.511
+2025,4cQrSREMqBSvJ8ZzBZjVb8,Mile High (feat. Travis Scott & Metro Boomin),James Blake,Assume Form,5,6.85,0.4,0.0,True,Indie,79,0.403,0.754,193600,0.37,6.22e-05,F#,0.107,-9.854,Minor,0.12,114.941,4/4,0.228
+2025,5FlBGGwGuqYmqr0qeBWrxe,Five to One,The Doors,Waiting for the Sun,5,11.96,0.4,0.0,True,Rock,56,0.203,0.615,264960,0.401,0.0,E,0.086,-14.07,Minor,0.0507,87.959,4/4,0.672
+2025,5RgFlk1fcClZd0Y4SGYhqH,She's Always a Woman,Billy Joel,The Stranger (Legacy Edition),5,3.61,0.8,0.0,True,Rock,73,0.797,0.292,201373,0.324,0.000473,D#,0.12,-11.996,Major,0.0346,176.631,3/4,0.384
+2025,5ihS6UUlyQAfmp48eSkxuQ,Landslide,Fleetwood Mac,Fleetwood Mac,5,10.05,0.4,0.4,True,Rock,78,0.883,0.414,199493,0.161,0.000223,G,0.117,-22.32,Minor,0.0318,159.375,4/4,0.423
+2025,6xE6ZWzK1YDDSYzqOCoQlz,Last Train to London,Electric Light Orchestra,Discovery,5,13.97,0.4,0.0,True,Folk,64,0.396,0.727,270067,0.537,0.000789,G,0.349,-9.785,Major,0.0295,121.493,4/4,0.954
+2025,7L3b6iaVhDVjfo52Hbvh9Z,Edge of Seventeen - 2016 Remaster,Stevie Nicks,Bella Donna,5,2.11,0.8,0.0,True,Rock,63,0.327,0.591,329413,0.804,5.98e-06,C,0.0818,-7.299,Major,0.0454,111.457,4/4,0.658
+2025,7dSCxR4LqkmxoBrq9MzVSD,Psycho Killer,Talking Heads,Talking Heads '77,5,5.38,0.6,0.0,True,Folk,43,0.0586,0.721,260507,0.401,0.00259,D,0.122,-12.139,Major,0.0661,123.384,4/4,0.944
+2025,7iN1s7xHE4ifF5povM6A48,Let It Be - Remastered 2009,The Beatles,Let It Be,5,4.22,0.8,0.8,True,Rock,79,0.631,0.443,243027,0.403,0.0,C,0.111,-8.339,Major,0.0322,143.462,4/4,0.41
+2025,0elCmyfISzkP5tAYTVuYjS,August,flipturn,Citrona,4,2.58,0.75,0.0,True,Indie,46,0.0892,0.45,261734,0.602,0.00622,F#,0.103,-4.308,Major,0.0273,172.25,4/4,0.16
+2025,0gmGBCJ5XhOmoNR37MmxEE,So What'Cha Want - Remastered 2009,Beastie Boys,Check Your Head,4,10.71,0.25,0.25,True,Hip-Hop,52,0.0469,0.7,216941,0.942,2.93e-05,F,0.0666,-7.355,Minor,0.237,171.37,4/4,0.766
+2025,1c478uMN61yF2JOXXEtsdw,Spectrum (Say My Name) - Calvin Harris Remix,Florence + The Machine,Spectrum (Say My Name) EP,4,1.45,0.75,0.0,True,Folk,53,0.0028,0.589,218190,0.941,0.00151,B,0.0896,-3.735,Minor,0.0509,126.113,4/4,0.59
+2025,1gFNm7cXfG1vSMcxPpSxec,"Ob-La-Di, Ob-La-Da - Remastered 2009",The Beatles,The Beatles,4,4.51,0.5,0.25,True,Rock,67,0.232,0.818,188960,0.728,0.0642,A#,0.251,-8.331,Major,0.0314,113.059,4/4,0.975
+2025,1xOXXYh6lTW8laxlW7JP2J,Only the Good Die Young,Billy Joel,The Stranger (Legacy Edition),4,8.31,0.5,0.0,True,Rock,62,0.159,0.579,235560,0.872,0.0,C,0.0935,-6.126,Major,0.159,76.214,4/4,0.761
+2025,20hQFBI3Fvene9YT75JUNM,Ramona,Beck,Scott Pilgrim vs. the World (Original Motion Picture Soundtrack),4,9.39,0.25,0.0,True,Folk,47,0.0313,0.408,261507,0.582,0.803,A,0.142,-7.102,Minor,0.0294,123.068,4/4,0.325
+2025,2AMfSTT0oPLON96dztugKE,Pull Away,Leon Bridges,Coming Home,4,6.08,0.5,0.0,True,Soul,51,0.451,0.639,180053,0.468,0.0102,F,0.12,-8.329,Major,0.0231,97.53,3/4,0.42
+2025,2DNXgvkyv35vTWvdgjs7qn,Someone New,Hozier,Hozier (Expanded Edition),4,9.93,0.25,0.0,True,Pop,69,0.429,0.443,222813,0.533,3.66e-06,G,0.332,-5.956,Major,0.0473,183.791,4/4,0.596
+2025,2DnJjbjNTV9Nd5NOa1KGba,You're So Vain,Carly Simon,No Secrets,4,7.12,0.5,0.0,True,Folk,76,0.157,0.659,258411,0.678,6.69e-06,C,0.0784,-8.18,Major,0.0313,106.186,4/4,0.647
+2025,2PuUFT13yCzUOZun94WOXv,Suite: Judy Blue Eyes - 2005 Remaster,"Crosby, Stills & Nash","Crosby, Stills & Nash",4,12.44,0.25,1.0,True,Folk,66,0.469,0.451,444053,0.364,0.0,A,0.197,-13.126,Major,0.0436,154.206,4/4,0.298
+2025,2d3QlXE6FXFDeodiS66yjM,Weekend Friend,Goth Babe,Weekend Friend,4,7.04,0.5,0.0,True,Rock,61,0.032,0.409,209455,0.594,0.0391,C#,0.0904,-9.725,Major,0.031,110.187,4/4,0.212
+2025,2fdMAIsNH4wY7RRda8aCfL,You and I,Wilco,Wilco (The Album),4,8.27,0.25,0.0,True,Folk,44,0.285,0.71,205240,0.652,2.87e-05,G#,0.166,-7.476,Major,0.0294,122.189,4/4,0.597
+2025,2nGFzvICaeEWjIrBrL2RAx,Put Your Records On,Corinne Bailey Rae,Corinne Bailey Rae,4,10.79,0.25,0.0,True,R&B,77,0.167,0.739,215360,0.511,1.34e-06,A,0.133,-7.844,Major,0.0362,96.038,4/4,0.542
+2025,3AhXZa8sUQht0UEdBJgpGc,Like a Rolling Stone,Bob Dylan,Highway 61 Revisited,4,12.86,0.25,0.0,True,Rock,72,0.729,0.483,369600,0.721,0.0,C,0.189,-6.836,Major,0.032,95.261,4/4,0.562
+2025,3mwvKOyMmG77zZRunnxp9E,Buddy Holly,Weezer,Weezer,4,5.75,0.25,0.0,True,Alternative,68,0.00336,0.553,159227,0.913,0.000375,G#,0.103,-4.563,Major,0.0396,121.159,4/4,0.829
+2025,415dK4glwDO7fXxYg3np8B,Pictures of Girls,Wallows,Spring EP,4,8.33,0.25,0.5,True,Children’s Music,65,0.000248,0.443,204667,0.819,0.00759,F#,0.0802,-5.502,Major,0.0322,154.958,4/4,0.494
+2025,4U45aEWtQhrm8A5mxPaFZ7,Vienna,Billy Joel,The Stranger (Legacy Edition),4,10.67,0.25,0.0,True,Folk,68,0.659,0.532,214240,0.495,0.0,A#,0.0754,-6.662,Major,0.0343,124.936,4/4,0.308
+2025,4lY95OMGb9WxP6IYut64ir,Shake It Out,Florence + The Machine,Ceremonials,4,9.96,0.0,0.25,True,Pop,65,0.0126,0.519,277720,0.808,0.0,A#,0.105,-4.097,Major,0.0383,107.505,4/4,0.251
+2026,0tuyEYTaqLxE41yGHSsXjy,Won't Go Home Without You,Maroon 5,It Won't Be Soon Before Long.,44,162.62,0.0,0.0,True,Pop,62,0.0152,0.728,231173,0.62,0.0,D#,0.227,-3.735,Major,0.0308,110.023,4/4,0.453
+2026,7EqpEBPOohgk7NnKvBGFWo,Wait for It,Leslie Odom Jr.,Hamilton,22,59.07,0.1364,0.0,True,Jazz,69,0.125,0.561,193750,0.474,5.07e-06,F#,0.0922,-9.638,Major,0.155,86.897,4/4,0.513
+2026,5773KSWFzg9kCc8yazjbSt,Deceptacon,Le Tigre,Le Tigre,9,12.43,0.4444,0.2222,True,Children’s Music,55,0.055,0.603,184627,0.864,0.00493,E,0.0986,-3.341,Minor,0.0668,160.488,4/4,0.616
+2026,37lotBTQcBbYI7vEoGsOfg,Under the Stars,Hans Zimmer,The Lion King,6,2.25,0.6667,0.6667,True,Soundtrack,51,0.624,0.297,225267,0.171,0.515,G,0.109,-20.747,Major,0.0473,108.469,3/4,0.112
+2026,7G7tgVYORlDuVprcYHuFJh,Don't Dream It's Over,Crowded House,Crowded House,6,11.98,0.5,0.0,True,Rock,73,0.0148,0.439,236933,0.422,4.84e-05,G#,0.0697,-17.227,Major,0.0409,81.833,4/4,0.551
+2026,1LzNfuep1bnAUR9skqdHCK,Fade Into You,Mazzy Star,So Tonight That I Might See,5,19.18,0.4,0.0,True,Children’s Music,72,0.245,0.42,295600,0.33,0.000679,A,0.0677,-13.925,Major,0.0275,157.143,3/4,0.175
+2026,254bXAqt3zP6P50BdQvEsq,Everywhere - 2017 Remaster,Fleetwood Mac,Tango In the Night,5,7.12,0.6,0.0,True,Rock,79,0.258,0.73,226653,0.487,0.01,E,0.0852,-10.991,Major,0.0303,114.965,4/4,0.731
+2026,2Xb6wJYGi0QXwURw5WWvI5,Right Down the Line,Gerry Rafferty,City to City,5,17.91,0.2,0.0,True,Rock,66,0.213,0.783,267773,0.322,0.00243,C,0.114,-15.091,Major,0.0343,128.226,4/4,0.77
+2026,0L0T4tMAaGqLgIVj1MOj9t,Father Figure - Remastered,George Michael,Faith,4,11.31,0.5,0.0,True,Rock,64,0.163,0.689,336667,0.333,3.36e-05,D#,0.0853,-13.288,Major,0.0262,101.988,4/4,0.284
+2026,0dOg1ySSI7NkpAe89Zo0b9,Born in the U.S.A.,Bruce Springsteen,Born In The U.S.A.,4,4.87,0.75,0.0,True,Rock,74,0.000373,0.398,278680,0.952,7.75e-05,E,0.1,-6.042,Major,0.061,122.093,4/4,0.584
+2026,19Ym5Sg0YyOCa6ao21bdoG,Gypsy,Fleetwood Mac,Greatest Hits,4,4.48,0.75,0.0,True,Rock,69,0.017,0.622,264907,0.54,0.00771,F,0.265,-13.99,Major,0.0261,130.879,4/4,0.847
+2026,3PzsbWSQdLCKDLxn7YZfkM,I'm On Fire,Bruce Springsteen,Born In The U.S.A.,4,2.71,0.75,0.0,True,Rock,72,0.589,0.62,155880,0.446,0.0299,C#,0.0727,-14.451,Minor,0.0347,88.591,4/4,0.868
+2026,4w3tQBXhn5345eUXDGBWZG,9 to 5,Dolly Parton,9 To 5 And Odd Jobs,4,6.57,0.25,0.0,True,Country,77,0.416,0.554,162467,0.783,1.54e-06,F#,0.631,-5.852,Major,0.0457,105.39,4/4,0.813
+2026,58uDCyprC3aa3x70fUv8dk,Monotonia,The Growlers,Monotonia,4,4.13,0.75,0.5,True,Rock,52,0.509,0.61,244180,0.802,0.0149,D,0.104,-4.582,Minor,0.0281,122.071,4/4,0.756
+2026,5ovcVaOus1Wv4vTtyGXlhB,Either Way,Wilco,Sky Blue Sky,4,0.17,1.0,0.0,True,Folk,45,0.597,0.542,186120,0.546,0.00382,E,0.111,-9.927,Minor,0.0323,74.797,4/4,0.344
+2026,6WCeFNVAXUtNczb7lqLiZU,Crocodile Rock,Elton John,Don't Shoot Me I'm Only The Piano Player,4,5.11,0.25,0.0,True,Rock,68,0.0326,0.626,235440,0.803,1.35e-05,E,0.0596,-7.214,Minor,0.0358,149.918,4/4,0.968
+2026,6XxsaUGWRXc30HgewJ10M8,"Bitch, I Love You",Black Joe Lewis & The Honeybears,Black Joe Lewis & The Honeybears,4,0.08,1.0,0.0,True,Blues,41,0.00153,0.516,164307,0.781,0.00116,E,0.275,-3.694,Major,0.0311,98.106,3/4,0.787
+2026,6gTrbqZnyljwXdYQTyBkSx,You Make Me Feel Like Dancing - Remastered,Leo Sayer,Endless Flight,4,6.56,0.5,0.0,True,Rock,53,0.0848,0.728,219467,0.718,0.0,G#,0.0579,-5.281,Minor,0.0501,95.922,4/4,0.733
+2026,7FwBtcecmlpc1sLySPXeGE,Dancing In the Dark,Bruce Springsteen,Born In The U.S.A.,4,13.59,0.5,0.0,True,Rock,75,0.0115,0.527,241307,0.942,0.0,C#,0.188,-5.64,Minor,0.0366,148.723,4/4,0.495
+2026,1dvOwoHwZB9SwvRw2Gv3nz,To Binge (feat. Little Dragon),Gorillaz,Plastic Beach,3,0.12,1.0,0.3333,True,Children’s Music,56,0.58,0.576,235707,0.511,3.89e-05,D,0.261,-7.006,Major,0.0315,206.473,4/4,0.957
+2026,2B4Y9u4ERAFiMo13XPJyGP,"Here, There And Everywhere - Remastered 2009",The Beatles,Revolver,3,2.51,0.6667,0.0,True,Rock,61,0.921,0.29,144880,0.247,0.00565,G,0.0917,-12.125,Major,0.0383,165.361,4/4,0.36
+2026,2W9u3whoCkQYOUbmnSrHi1,What'd I Miss,Daveed Diggs,Hamilton,3,7.87,0.3333,0.0,True,Children’s Music,65,0.169,0.539,236701,0.577,0.0,G,0.14,-7.762,Major,0.386,177.786,4/4,0.319
+2026,2nGFzvICaeEWjIrBrL2RAx,Put Your Records On,Corinne Bailey Rae,Corinne Bailey Rae,3,3.47,0.3333,0.0,True,R&B,77,0.167,0.739,215360,0.511,1.34e-06,A,0.133,-7.844,Major,0.0362,96.038,4/4,0.542
+2026,2sEq2rC3ynYsT49x7utWnd,Dear Theodosia,Leslie Odom Jr.,Hamilton,3,2.5,0.6667,0.0,True,Jazz,67,0.906,0.601,184004,0.222,4.11e-05,A,0.0723,-10.485,Major,0.0303,106.754,4/4,0.271
+2026,3B4q6KbHbGV51HO3GznBFF,What I Got,Sublime,Sublime,3,5.24,0.3333,0.0,True,Reggae,70,0.00877,0.804,170907,0.696,0.000985,G,0.314,-7.47,Major,0.0899,95.721,4/4,0.657
+2026,3yXC4ltez6LwFDh5Lk8k7v,King of Pride Rock,Hans Zimmer,The Lion King,3,0.46,1.0,0.3333,True,Soundtrack,49,0.702,0.192,359053,0.135,0.73,F,0.102,-22.859,Major,0.0415,126.759,4/4,0.077
+2026,5Anh8jULgeUgciLHCR25Mk,Like A Star,Corinne Bailey Rae,Corinne Bailey Rae,3,8.13,0.3333,0.0,True,R&B,64,0.715,0.605,243213,0.226,0.0001,D,0.35,-10.617,Minor,0.0347,122.713,4/4,0.142
+2026,5E8yddtSG3sH4hw2SfwcgW,Can You Feel the Love Tonight,Joseph Williams,The Lion King,3,1.88,0.6667,0.6667,True,Movie,68,0.808,0.296,177787,0.132,0.0,F,0.543,-19.311,Major,0.0719,166.765,3/4,0.477
+2026,5ihS6UUlyQAfmp48eSkxuQ,Landslide,Fleetwood Mac,Fleetwood Mac,3,5.79,0.3333,0.0,True,Rock,78,0.883,0.414,199493,0.161,0.000223,G,0.117,-22.32,Minor,0.0318,159.375,4/4,0.423
+2026,6KEWtSOGKpIXGw6l1uJgsR,The Things We Do For Love,10cc,Deceptive Bends,3,0.1,1.0,0.0,True,Rock,65,0.163,0.637,207573,0.528,0.0,C#,0.122,-9.837,Major,0.0394,106.949,4/4,0.781
+2026,6txWz9UapYHVxEd7dDIHXT,No Rain,Blind Melon,Blind Melon,3,2.37,0.6667,1.0,True,Rock,75,0.619,0.389,217107,0.476,5.09e-05,A,0.255,-9.342,Major,0.0316,148.117,4/4,0.566
+2026,6xE6ZWzK1YDDSYzqOCoQlz,Last Train to London,Electric Light Orchestra,Discovery,3,13.63,0.0,0.0,True,Folk,64,0.396,0.727,270067,0.537,0.000789,G,0.349,-9.785,Major,0.0295,121.493,4/4,0.954
+2026,76GlO5H5RT6g7y0gev86Nk,Just like Heaven,The Cure,"Kiss Me, Kiss Me, Kiss Me",3,3.6,0.6667,0.0,True,Children’s Music,65,0.0271,0.43,212000,0.971,2.16e-05,A,0.185,-3.845,Major,0.0524,151.219,4/4,0.764
+2026,05wIrZSwuaVWhcv5FfqeH0,Walking On Sunshine,Katrina & The Waves,Katrina & The Waves,2,4.0,0.5,0.0,True,Pop,79,0.0116,0.596,238733,0.869,0.173,A#,0.0678,-11.97,Major,0.037,109.902,4/4,0.944
+2026,0HU5JnVaKNTWf6GykV9Zn8,Circle of Life,Carmen Twillie,The Lion King,2,4.18,0.5,1.0,True,Movie,66,0.074,0.324,239147,0.391,0.0,A#,0.286,-16.093,Major,0.0423,83.307,4/4,0.594
+2026,0Ko9gGyOSjYxb71VBZotZW,Boss D.J.,Sublime,Robbin' The Hood,2,5.6,0.0,0.0,True,Reggae,37,0.741,0.586,171693,0.261,0.0,G,0.168,-7.107,Major,0.0485,126.057,4/4,0.559
+2026,0LpHC9mhPAQC98IjXZIrif,The Election of 1800,Daveed Diggs,Hamilton,2,3.95,0.5,0.0,True,Children’s Music,62,0.319,0.731,237983,0.42,0.0,A#,0.306,-10.199,Major,0.463,67.41,4/4,0.645
+2026,0WQiDwKJclirSYG9v5tayI,There Is a Light That Never Goes Out - 2011 Remaster,The Smiths,The Queen Is Dead,2,4.1,0.5,0.0,True,Indie,72,0.04,0.523,244587,0.769,0.0,E,0.136,-5.855,Major,0.0269,136.162,4/4,0.876
+2026,0X5C4WjQNubRysTkHOubz3,Lovesong - 2010 Remaster,The Cure,Disintegration,2,3.56,0.5,0.0,True,Rock,61,0.339,0.611,209573,0.813,0.898,A,0.224,-7.689,Minor,0.0279,140.112,4/4,0.821
+2026,0l4tZquzNX3KM43B6iHY76,Paris Nights / New York Mornings,Corinne Bailey Rae,The Sea,2,0.01,1.0,0.0,True,Soul,34,0.17,0.556,231173,0.574,0.000598,D,0.11,-9.133,Minor,0.042,161.043,4/4,0.575
+2026,0mRQp2HsSqX1MZuMvonAPN,Let Me Roll It - 2010 Remaster,Paul McCartney,Band On The Run,2,4.2,0.0,0.0,True,Folk,54,0.0327,0.338,289813,0.407,0.00246,E,0.081,-8.506,Major,0.0371,172.612,3/4,0.519
+2026,0odIT9B9BvOCnXfS0e4lB5,Bette Davis Eyes,Kim Carnes,Mistaken Identity,2,3.81,0.5,0.0,True,Rock,73,0.0204,0.675,228000,0.649,0.0,F,0.0959,-10.271,Major,0.0319,116.624,4/4,0.596
+2026,0qRR9d89hIS0MHRkQ0ejxX,Rich Girl,Daryl Hall & John Oates,Bigger Than Both Of Us,2,4.82,0.5,0.0,True,Folk,68,0.461,0.573,142787,0.683,0.0,F,0.0935,-6.644,Major,0.176,169.519,4/4,0.817
+2026,0qxtQ8rf3W1nId3D2r0xH4,I Just Can't Wait to Be King,Jason Weaver,The Lion King,2,0.13,1.0,1.0,True,Movie,71,0.294,0.625,170880,0.52,5.99e-05,F#,0.0951,-14.213,Major,0.0586,98.819,4/4,0.902
+2026,16VhHtoaOjTU4AJBNSBNQ1,"Hey, Hey, What Can I Do - Remaster",Led Zeppelin,Coda,2,0.14,1.0,0.0,True,Rock,61,0.166,0.468,236760,0.858,0.000304,C#,0.0807,-9.639,Major,0.0543,77.987,4/4,0.526
+2026,1Dr1fXbc2IxaK1Mu8P8Khz,When I Come Around,Green Day,Dookie,2,2.81,0.5,0.0,True,Pop,76,0.0175,0.531,178000,0.909,0.0,B,0.231,-4.236,Major,0.034,97.546,4/4,0.814
+2026,1m3BAsNsQAaSNMD2M6vlKY,Breezin',George Benson,Breezin',2,5.85,0.5,0.0,True,Jazz,58,0.476,0.682,341733,0.752,0.863,D,0.0768,-9.521,Major,0.0454,81.081,4/4,0.964
+2026,1p80LdxRV74UKvL8gnD7ky,Blank Space,Taylor Swift,1989,2,3.86,0.0,0.0,True,Pop,69,0.085,0.752,231827,0.678,1.64e-06,F,0.13,-5.421,Major,0.0646,96.009,4/4,0.583
+2026,1ynmMEK1fkyiZ6Z6F3ThEt,Centerfold,The J. Geils Band,Freeze Frame,2,3.66,0.5,0.0,True,Folk,71,0.249,0.653,216533,0.677,0.0,C,0.403,-12.244,Major,0.0396,114.37,4/4,0.888
+2026,26Vcf2qFrnaa0pFJkGFh61,Sanctify,St. Paul & The Broken Bones,Sea of Noise,2,0.05,1.0,1.0,True,Soul,55,0.103,0.418,355627,0.344,0.198,G,0.214,-8.42,Major,0.0391,111.709,4/4,0.231
+2026,2KH16WveTQWT6KOG9Rg6e2,Eye of the Tiger,Survivor,Rocky IV,2,0.25,1.0,0.0,True,Rock,77,0.132,0.817,245640,0.599,0.000311,C,0.0873,-9.249,Minor,0.0328,108.873,4/4,0.548
+2026,2T5Ch09nefwckOu5NQvjIk,Carolina in My Mind,James Taylor,Greatest Hits,2,3.24,0.5,0.0,True,Folk,67,0.118,0.579,238573,0.267,0.000562,E,0.132,-15.11,Major,0.0348,74.899,4/4,0.353
+2026,2wQN8tMYOHStr6Q61jh0IK,...To Die For,Hans Zimmer,The Lion King,2,0.09,1.0,0.5,True,Soundtrack,48,0.773,0.0801,257640,0.254,0.913,E,0.281,-20.334,Major,0.0655,76.23,3/4,0.0442
+2026,39lSeqnyjZJejRuaREfyLL,Hungry Like the Wolf - 2009 Remaster,Duran Duran,Rio,2,7.35,0.0,0.0,True,Pop,72,0.0433,0.691,220627,0.812,1.16e-06,C,0.299,-7.772,Major,0.0558,127.568,4/4,0.685
+2026,39shmbIHICJ2Wxnk1fPSdz,Should I Stay or Should I Go - Remastered,The Clash,Combat Rock (Remastered),2,3.65,0.5,0.0,True,Rock,79,0.079,0.742,188987,0.833,0.0,D,0.384,-6.463,Major,0.115,113.375,4/4,0.816
+2026,3BdHMOIA9B0bN53jbE5nWe,Blue Light,Mazzy Star,So Tonight That I Might See,2,0.06,1.0,0.0,True,Children’s Music,48,0.837,0.451,310733,0.222,0.63,E,0.0978,-15.508,Major,0.0285,138.943,3/4,0.179
+2026,3Cx4yrFaX8CeHwBMReOWXI,We Didn't Start the Fire,Billy Joel,Storm Front,2,0.13,1.0,0.0,True,Rock,71,0.0771,0.712,287733,0.967,0.0,G,0.356,-5.206,Major,0.047,145.024,4/4,0.895
+2026,3MFa9idQuY4iJLWsZl3tIQ,Young Hearts Run Free,Candi Staton,Young Hearts Run Free,2,4.16,0.5,0.0,True,Soul,65,0.13,0.653,248360,0.652,1.58e-05,G,0.202,-9.304,Minor,0.0427,115.388,4/4,0.846
+2026,3fbnbn6A5O5RNb08tlUEgd,Streets of Philadelphia - Single Edit,Bruce Springsteen,Greatest Hits,2,0.3,1.0,0.0,True,Rock,70,0.341,0.724,195293,0.249,0.11,F,0.0933,-15.488,Major,0.0321,93.667,4/4,0.444
+2026,3lh3iiiJeiBXHSZw6u0kh6,Into the Mystic - 2013 Remaster,Van Morrison,Moondance,2,5.92,0.0,0.0,True,Folk,72,0.367,0.608,205613,0.524,0.00254,G#,0.115,-10.266,Major,0.0309,86.204,4/4,0.797
+2026,4JGKZS7h4Qa16gOU3oNETV,Dreams,The Cranberries,"Everybody Else Is Doing It, So Why Can't We?",2,0.09,1.0,0.0,True,Rock,73,0.00313,0.551,271560,0.643,0.00385,E,0.421,-13.091,Major,0.0353,128.661,4/4,0.514
+2026,4M1lEbqPzlEw1JYWB6aE7K,Estoy Aquí,Shakira,Pies Descalzos,2,5.43,0.0,0.5,True,Dance,64,0.0307,0.732,232467,0.814,0.0,D,0.0691,-7.716,Major,0.0402,116.973,4/4,0.782
+2026,4RExr9x20tvTxcAtCVVUJh,Last Cabaret,The Growlers,Casual Acquaintances,2,0.07,1.0,0.0,True,Indie,47,0.000178,0.618,195766,0.728,0.0104,B,0.572,-5.405,Minor,0.0272,115.004,4/4,0.85
+2026,4iwpCp7qdDLngGI3gsVTza,Miracle Aligner,The Last Shadow Puppets,Everything You've Come To Expect,2,3.9,0.5,0.0,True,Rock,61,0.0124,0.562,245728,0.724,1.42e-06,F#,0.223,-8.627,Minor,0.0271,113.056,4/4,0.855
+2026,4kP69y3GKHi9tXckfgp4bK,For Once In My Life,Stevie Wonder,For Once In My Life,2,5.66,0.0,0.5,True,Soul,73,0.195,0.524,169800,0.519,0.0,F#,0.523,-11.903,Major,0.043,110.121,4/4,0.847
+2026,4vDBJeeQCbhP9FaPPMsYkY,Give Me One Reason,Tracy Chapman,New Beginning,2,4.49,0.5,0.0,True,Pop,72,0.602,0.608,268333,0.419,7.58e-06,B,0.108,-10.016,Major,0.0331,100.22,4/4,0.602
+2026,4yqtwO7MQIIXqoiRBPHAgR,Money for Nothing,Dire Straits,Brothers in Arms,2,0.03,1.0,0.0,True,Rock,62,0.0491,0.667,506400,0.655,0.000894,D,0.0641,-9.339,Minor,0.0367,134.212,4/4,0.657
+2026,5JwK7v6XhG0YgqDuCgzOy8,And She Was,Talking Heads,Little Creatures,2,3.67,0.5,0.0,True,Folk,51,0.013,0.763,219200,0.629,0.0585,A,0.0756,-9.947,Major,0.0322,126.477,4/4,0.973
+2026,5QqyRUZeBE04yJxsD1OC0I,Summer Bummer (feat. A$AP Rocky & Playboi Carti),Lana Del Rey,Lust For Life,2,0.46,1.0,1.0,True,Pop,67,0.0155,0.76,260672,0.574,2.02e-05,C#,0.199,-8.57,Major,0.126,134.981,4/4,0.137
+2026,5ZoDwIP1ntHwciLjydJ8X2,My Cherie Amour,Stevie Wonder,My Cherie Amour,2,2.9,0.5,0.0,True,Soul,61,0.228,0.574,173307,0.507,4.57e-06,F#,0.279,-11.343,Major,0.0258,101.085,4/4,0.514
+2026,5dRQUolXAVX3BbCiIxmSsf,Your Love,The Outfield,Super Hits,2,1.67,0.5,0.0,True,Pop,71,0.103,0.555,221840,0.757,1.16e-06,C#,0.0631,-7.868,Minor,0.0601,129.607,4/4,0.582
+2026,5e9TFTbltYBg2xThimr0rU,The Chain - 2004 Remaster,Fleetwood Mac,Rumours,2,0.08,1.0,0.0,True,Rock,78,0.009,0.545,270213,0.67,0.000822,A,0.0451,-8.81,Major,0.0496,151.553,4/4,0.481
+2026,5k3U0OGYBccHdKJJu3HrUN,Hakuna Matata,Nathan Lane,The Lion King,2,0.04,1.0,0.5,True,Movie,68,0.59,0.417,213600,0.313,1.98e-05,C,0.116,-17.986,Major,0.119,164.565,4/4,0.728
+2026,5l9c6bJmzvftumhz4TMPgk,Harvest Moon,Neil Young,Harvest Moon,2,0.05,1.0,0.0,True,Rock,71,0.526,0.648,303213,0.309,0.000249,D,0.124,-12.432,Major,0.0264,112.929,4/4,0.407
+2026,5qsm0eGh4vPXOOEKNrH6cX,Hold On Tight,Boney James,Send One Your Love,2,5.12,0.5,0.0,True,Jazz,37,0.622,0.537,304653,0.521,0.859,D#,0.12,-11.084,Minor,0.0432,135.589,4/4,0.781
+2026,6BrMEbPSSj55nQhkgf6DnE,"Please, Please, Please, Let Me Get What I Want - 2011 Remaster",The Smiths,Hatful of Hollow,2,0.09,1.0,0.0,True,Indie,65,0.534,0.241,112707,0.468,0.0,D,0.161,-9.579,Major,0.0272,91.581,3/4,0.451
+2026,6GsP3uMCd0Dn5T37C93waZ,Sick Love,Red Hot Chili Peppers,The Getaway,2,4.92,0.0,0.0,True,Children’s Music,66,0.183,0.591,221440,0.794,0.0,E,0.292,-5.935,Minor,0.069,147.974,4/4,0.875
+2026,6JuEshIRliNXRU1LXctRjZ,Halah,Mazzy Star,She Hangs Brightly,2,1.65,0.5,0.0,True,Children’s Music,51,0.23,0.622,196227,0.448,0.0,C,0.102,-10.709,Major,0.0265,106.085,4/4,0.553
+2026,6L0BBPYeWnaQJeDa0ox0IA,Impossible Germany,Wilco,Sky Blue Sky,2,2.49,0.5,0.0,True,Country,49,0.584,0.553,357160,0.727,0.138,E,0.113,-6.395,Minor,0.0254,104.95,4/4,0.507
+2026,6Qb7gtV6Q4MnUjSbkFcopl,50 Ways to Leave Your Lover,Paul Simon,Still Crazy After All These Years,2,2.24,0.5,0.5,True,Folk,69,0.166,0.815,217347,0.372,0.000116,G,0.0767,-12.814,Major,0.0752,101.684,4/4,0.293
+2026,6g6FWPdAMf55CpmkoE7jF1,Invéntame,Mon Laferte,Invéntame,2,3.7,0.5,0.5,True,Children’s Music,62,0.00154,0.564,205800,0.494,2.73e-05,G,0.172,-9.135,Major,0.0271,96.924,4/4,0.108
+2026,6mYrhCAGWzTdF8QnKuchXM,If I Could Turn Back Time,Cher,Heart Of Stone,2,4.04,0.5,0.0,True,Pop,73,0.244,0.654,239827,0.566,0.0,B,0.123,-10.313,Major,0.0268,108.293,4/4,0.527
+2026,7CqleiaEqHVazV19P532X9,Life During Wartime - 2005 Remaster,Talking Heads,Fear of Music,2,3.72,0.5,0.0,True,Dance,50,0.0806,0.801,221320,0.93,0.152,A,0.0558,-7.365,Major,0.0354,133.255,4/4,0.967
+2026,7m8PDR3PRg5lPhWMdYrktc,Trouble Sleeping,Corinne Bailey Rae,Corinne Bailey Rae,2,3.68,0.5,0.0,True,Folk,54,0.14,0.636,208733,0.55,0.0,F,0.0763,-6.905,Minor,0.0237,90.97,4/4,0.535
+2026,00Ci0EXS4fNPnkTbS6wkOh,Electric Love - Oliver Remix,BØRNS,Electric Love,1,0.05,1.0,0.0,True,Indie,52,0.00109,0.44,253880,0.766,0.00696,A,0.26,-5.93,Major,0.0712,122.986,4/4,0.0889
+2026,010ALbbh5KlQ4fKWgSdhRd,Look On Down From The Bridge,Mazzy Star,Among My Swan,1,0.06,1.0,0.0,True,Rock,60,0.642,0.37,287893,0.0772,0.69,C,0.112,-19.322,Major,0.0414,119.942,4/4,0.0954
+2026,05f8Hg3RSfiPSCBQOtxl3i,When the Levee Breaks - Remaster,Led Zeppelin,Led Zeppelin IV,1,0.02,1.0,0.0,True,Rock,62,0.00217,0.271,428851,0.766,0.52,F,0.0707,-8.03,Major,0.0329,142.914,4/4,0.803
+2026,07CyrZF9eVd02zzIse7tZA,In Between Days - 2006 Remaster,The Cure,The Head on the Door,1,0.03,1.0,0.0,True,Children’s Music,53,0.109,0.541,177987,0.83,0.701,A,0.167,-6.246,Major,0.0316,142.592,4/4,0.711
+2026,0AqjkVFqa1ujle4Lb1k9wR,The Ocean - Remaster,Led Zeppelin,Houses of the Holy,1,0.43,1.0,0.0,True,Rock,55,0.08,0.401,271397,0.56,0.0121,A,0.361,-8.7,Major,0.0612,88.256,4/4,0.735
+2026,0B1zVsLqmV9ibIFdNS5tGs,I Saw the Light,Todd Rundgren,Something / Anything?,1,0.04,1.0,0.0,True,Country,51,0.0531,0.583,182800,0.833,5.57e-05,C,0.16,-8.29,Major,0.0343,119.884,4/4,0.81
+2026,0EANX0OVKSCcmarY50Xa4p,Can You Feel the Love Tonight - End Title,Elton John,The Lion King,1,0.03,1.0,0.0,True,Rock,58,0.88,0.309,241013,0.179,0.000346,A#,0.117,-17.077,Major,0.0337,121.498,4/4,0.167
+2026,0GTK6TesV108Jj5D3MHsYb,Owner of a Lonely Heart,Yes,90125,1,0.01,1.0,0.0,True,Rock,69,0.306,0.695,266040,0.746,0.00524,G,0.368,-8.12,Major,0.0387,125.123,4/4,0.885
+2026,0KMGxYKeUzK9wc5DZCt3HT,If You Leave Me Now,Chicago,Chicago X,1,0.54,0.0,0.0,True,Folk,73,0.0193,0.429,235373,0.564,0.000828,B,0.128,-6.784,Major,0.0268,104.212,4/4,0.276
+2026,0OM9ri37LIbPc9hffwsyb1,Hard To Explain,The Strokes,Is This It,1,0.03,1.0,1.0,True,Rock,60,0.000456,0.408,224333,0.665,0.863,G,0.0888,-6.286,Major,0.0578,82.525,4/4,0.667
+2026,0P09TBGSKiQwfUsEh1UafT,The World Was Wide Enough,Leslie Odom Jr.,Hamilton,1,3.32,0.0,0.0,True,Jazz,62,0.466,0.653,302191,0.351,0.0,F,0.107,-12.776,Major,0.648,116.605,3/4,0.309
+2026,0PKmDncVOiNQLO6D1P6PXi,I Won't Say (I'm In Love),Susan Egan,Hercules,1,0.04,1.0,0.0,True,Movie,59,0.228,0.684,140227,0.481,0.0,C,0.157,-10.305,Major,0.0391,121.208,4/4,0.48
+2026,0Ps4Eh6SQjeLnubbCsQTDD,Little Bit,Lykke Li,Youth Novels,1,4.56,0.0,0.0,True,Pop,58,0.158,0.819,273427,0.736,0.00161,G,0.109,-6.504,Major,0.0416,120.318,4/4,0.701
+2026,0QwZfbw26QeUoIy82Z2jYp,Good Times Bad Times - 1993 Remaster,Led Zeppelin,Led Zeppelin,1,0.04,1.0,0.0,True,Rock,71,0.0382,0.476,166267,0.717,7.61e-05,A,0.0818,-9.192,Major,0.0949,93.584,4/4,0.753
+2026,0W0euvQlhbcsTydzsD4EQk,Death Letter Blues,Son House,Father Of The Delta Blues: The Complete 1965 Sessions,1,1.96,0.0,1.0,True,Blues,38,0.865,0.803,259160,0.288,0.0593,G,0.0833,-15.418,Minor,0.0629,115.685,4/4,0.865
+2026,0X1sqQ652p1sceKM2nJlIJ,Runaway,Bon Jovi,Bon Jovi,1,0.07,1.0,0.0,True,Rock,68,0.00482,0.476,230667,0.897,2.38e-05,A,0.152,-4.237,Minor,0.0627,152.497,4/4,0.667
