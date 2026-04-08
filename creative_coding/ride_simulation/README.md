@@ -1,4 +1,4 @@
-## 🚀 ASTRA-9: Multi-Agent Lunar Transit Simulation  
+## 🚀 ASTRA-9: Multi-Agent Lunar Transit Simulation  (Vibe Coding Project)
 ### *Pulsing Light Protocol*
 
 ---
