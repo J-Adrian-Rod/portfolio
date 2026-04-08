@@ -146,7 +146,8 @@ Result:
 
 ### Scene 5 — Resolution
 
-*(Insert GIF or graph: system recovery)*
+<img width="342" height="427" alt="Screenshot 2026-04-08 at 12 02 01 PM" src="https://github.com/user-attachments/assets/a2503429-e66e-4c5d-9565-4160af6b2813" />
+
 
 The system stabilizes as:
 - Vehicles clear bottlenecks  
