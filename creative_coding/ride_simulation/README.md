@@ -114,7 +114,7 @@ Vehicles navigate dynamically while:
 
 ### Scene 3 — The Conflict (Solar Flare Event)
 
-![Untitled (1)](https://github.com/user-attachments/assets/f2a63c6f-c3b0-4ef1-970c-94bf2585c138)
+![Untitled](https://github.com/user-attachments/assets/148649d6-8c5f-4a87-8a32-85c615f19f27)
 
 
 A solar flare triggers:
