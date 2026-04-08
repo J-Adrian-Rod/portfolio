@@ -114,7 +114,8 @@ Vehicles navigate dynamically while:
 
 ### Scene 3 — The Conflict (Solar Flare Event)
 
-*(Insert GIF: warning system + slowdown)*
+![Untitled (1)](https://github.com/user-attachments/assets/f2a63c6f-c3b0-4ef1-970c-94bf2585c138)
+
 
 A solar flare triggers:
 - Global speed reduction (~30%)  
