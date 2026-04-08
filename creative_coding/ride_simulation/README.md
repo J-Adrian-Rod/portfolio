@@ -198,4 +198,10 @@ This project sits at the intersection of:
 - Python (simulation logic)  
 - Pygame (visualization)  
 - NumPy / pandas (data handling)  
-- Matplotlib (analysis & metrics)  
+- Matplotlib (analysis & metrics)
+
+## Running Program
+- Download project folder and run "main" file
+
+
+
