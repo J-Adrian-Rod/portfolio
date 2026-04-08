@@ -100,7 +100,8 @@ The system must:
 
 ### Scene 2 — The Ride System
 
-*(Insert GIF: vehicles yielding at airlocks)*
+![Untitled](https://github.com/user-attachments/assets/ee623f17-a3ea-4108-833d-9f5dec8f96cd)
+
 
 Vehicles navigate dynamically while:
 - Yielding at shared airlocks  
