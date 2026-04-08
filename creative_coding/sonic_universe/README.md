@@ -3,6 +3,8 @@
 A personal data project that turns nine years of Spotify listening history (2017–2026) into an interactive star map — where every track is a star, coloured by its audio personality.
 
 ---
+![Untitled](https://github.com/user-attachments/assets/9241434a-55f8-421c-b77c-775c5f818bcb)
+
 
 ## What it does
 
