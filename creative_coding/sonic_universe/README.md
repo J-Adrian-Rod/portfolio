@@ -1,4 +1,4 @@
-# Sonic Universe
+# Sonic Universe (Vibe Coding Project)
 
 A personal data project that turns nine years of Spotify listening history (2017–2026) into an interactive star map — where every track is a star, coloured by its audio personality.
 
