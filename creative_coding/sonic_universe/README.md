@@ -37,6 +37,8 @@ A personal data project that turns nine years of Spotify listening history (2017
 | 2 | 70 | Instrumental-heavy, less danceable |
 | 3 | 30 | High danceability + speechiness — hip-hop / Latin pop |
 
+<img width="970" height="517" alt="Screenshot 2026-04-08 at 2 05 16 PM" src="https://github.com/user-attachments/assets/bad7fccc-5b4e-46b4-8773-797cbd217933" />
+
 ---
 
 ## Outputs
