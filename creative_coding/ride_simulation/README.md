@@ -128,8 +128,6 @@ A solar flare triggers:
 
 ### Scene 4 — Structural Failure
 
-*(Insert GIF: bridge / instability sequence)*
-
 Compounding factors:
 - Gravity grid instability  
 - Uneven load distribution  
@@ -162,7 +160,6 @@ The simulation tracks:
 - **Bottleneck frequency (airlocks)**  
 - **System recovery time after disruption**  
 
-*(Optional: insert plots or dashboards here)*
 
 ---
 
